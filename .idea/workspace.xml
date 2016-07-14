@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript设计模式/16-(补充)工厂模式.md" afterPath="$PROJECT_DIR$/javascript设计模式/16-(补充)工厂模式.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/《精通CSS》/01-基础知识.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/20-作用域链原理详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/20-requestAnimationFrame.md" afterPath="$PROJECT_DIR$/css学习笔记/《精通CSS》/01-基础知识.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="12-装饰者模式decorator.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="814">
-              <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+      <file leaf-file-name="01-基础知识.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/《精通CSS》/01-基础知识.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -51,8 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/15-document的ready和window的load事件区别.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/03-2-一道面试题.js" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/11-display属性详解(!!!!!).md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md" />
         <option value="$PROJECT_DIR$/javascript实现常见的数据结构与算法/00-排序算法/00-AOP.js" />
@@ -102,6 +107,8 @@
         <option value="$PROJECT_DIR$/nodejs/04-exports和module.exports的区别.md" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/总结的题目!/00-10道海量数据处理面试算法题.md" />
         <option value="$PROJECT_DIR$/javascript设计模式/16-(补充)工厂模式.md" />
+        <option value="$PROJECT_DIR$/css学习笔记/《精通CSS》/01-基础知识.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/20-作用域链原理详解.md" />
       </list>
     </option>
   </component>
@@ -169,7 +176,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="javascript设计模式" />
+              <option name="myItemId" value="前端知识点总结" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识点总结" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css学习笔记" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,12 +349,12 @@
       <workItem from="1467962074478" duration="156000" />
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
-      <workItem from="1468475825733" duration="4392000" />
+      <workItem from="1468475825733" duration="4978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140352000" />
+    <option name="totallyTimeSpent" value="140938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -369,13 +408,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript设计模式/10-责任链模式responsibilityChain.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -715,20 +747,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/20-requestAnimationFrame.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nodejs知识点/05-mongoose.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -821,6 +839,34 @@
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/20-作用域链原理详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="75" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/《精通CSS》/01-基础知识.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
