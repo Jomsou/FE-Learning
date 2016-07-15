@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/scope-chain-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/scope-chain-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/scope-chain-3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-作用域链原理.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-作用域链原理.md" />
-    </list>
+    <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="" />
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -384,12 +378,12 @@
       <workItem from="1467962074478" duration="156000" />
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
-      <workItem from="1468475825733" duration="18097000" />
+      <workItem from="1468475825733" duration="18168000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154057000" />
+    <option name="totallyTimeSpent" value="154128000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
