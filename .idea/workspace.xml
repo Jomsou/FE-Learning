@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/00-自我介绍.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/01-实习期间主要做了什么.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/02-一侧定宽,另一侧自动扩展的布局如何实现.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/03-css3新特性有哪些,带来的好处.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/04-javascript数据类型.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/05-常问到的http状态码.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/06-手写原生js实现事件代理.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/07-其他被问到最多的问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/13-DOM事件详解(!!!).md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/13-DOM事件捕获和冒泡详解.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/08-二叉树的遍历(递归与非递归).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/07-其他被问到最多的问题.md" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/00-被问到最多的问题.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" />
-        <option value="$PROJECT_DIR$/javascript设计模式/13-状态模式state.js" />
         <option value="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-需要非常熟练掌握的数据结构.md" />
         <option value="$PROJECT_DIR$/前端知识点(03-javascript)/09-02-跨域.md" />
@@ -100,6 +89,8 @@
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/05-常问到的http状态码.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/06-手写原生js实现事件代理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/07-其他被问到最多的问题.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/00-被问到最多的问题.md" />
       </list>
     </option>
   </component>
@@ -359,12 +350,12 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="1779000" />
+      <workItem from="1468806375603" duration="2291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160259000" />
+    <option name="totallyTimeSpent" value="160771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -418,32 +409,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/08-03-内联元素有没有盒模型?.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/20-js事件绑定e和this区别,e.target和e.currentTarget区别.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="484">
-            <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css学习笔记/00-README.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1014,14 +979,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/07-其他被问到最多的问题.md">
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/00-被问到最多的问题.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/08-二叉树的遍历(递归与非递归).md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
