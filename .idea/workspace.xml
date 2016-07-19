@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/00-被问到最多的问题.md" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/00-被问到最多的问题.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -31,8 +30,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="154">
-                <caret line="44" column="64" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+              <first_editor relative-caret-position="132">
+                <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -366,12 +365,12 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="5254000" />
+      <workItem from="1468806375603" duration="5328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163734000" />
+    <option name="totallyTimeSpent" value="163808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1039,8 +1038,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="44" column="64" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+          <first_editor relative-caret-position="132">
+            <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
             <folding />
           </first_editor>
           <second_editor />
