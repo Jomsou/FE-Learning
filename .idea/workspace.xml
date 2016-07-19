@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/02-二叉树深度优先遍历(递归解法).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/04-二叉树的广度优先遍历.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/总结的题目!/00-10道海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -76,15 +71,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-二叉树深度优先遍历(非递归解法).md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="03-二叉树深度优先遍历(非递归解法).md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="9">
-                <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <first_editor relative-caret-position="427">
+                <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -92,7 +87,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05-快排及其时间复杂度分析.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05-快排及其时间复杂度分析.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -420,12 +415,12 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="9633000" />
+      <workItem from="1468806375603" duration="9862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168113000" />
+    <option name="totallyTimeSpent" value="168342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1098,6 +1093,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/02-二叉树深度优先遍历(递归解法).md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1113,27 +1122,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="9">
-            <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="427">
+            <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
