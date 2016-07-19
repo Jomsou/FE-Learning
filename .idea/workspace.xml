@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/18-自定义事件.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/20-jpg与png的区别以及使用场景.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签的一些属性.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/18-自定义事件.md" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/18-自定义事件.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +30,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="251">
-                <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+              <first_editor relative-caret-position="273">
+                <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -385,12 +381,12 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="15352000" />
+      <workItem from="1468806375603" duration="15417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="173832000" />
+    <option name="totallyTimeSpent" value="173897000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -1120,8 +1116,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="251">
-            <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <first_editor relative-caret-position="273">
+            <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
