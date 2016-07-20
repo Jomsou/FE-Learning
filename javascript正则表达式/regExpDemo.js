@@ -69,10 +69,18 @@
 /**
  * 6. 贪婪匹配与非贪婪匹配
  * */
-var s = 'hello 100, hello 1000, hello 10000';
-console.log(s.match(/\d{3,}/g));  //贪婪匹配 => [ '100', '1000', '10000' ]
-console.log(s.match(/\d{3,}?/g)); //非贪婪匹配 => [ '100', '100', '100' ]
+// var s = 'hello 100, hello 1000, hello 10000';
+// console.log(s.match(/\d{3,}/g));  //贪婪匹配 => [ '100', '1000', '10000' ]
+// console.log(s.match(/\d{3,}?/g)); //非贪婪匹配 => [ '100', '100', '100' ]
+//
+// s = 'hello,我是中国人。hello,我是中国人!!';
+// console.log(s.match(/hello.*/g));  //[ 'hello,我是中国人。hello,我是中国人!!' ]
+// console.log(s.match(/hello.*?/g));  //[ 'hello', 'hello' ]
 
-s = 'hello,我是中国人。hello,我是中国人!!';
-console.log(s.match(/hello.*/g));  //[ 'hello,我是中国人。hello,我是中国人!!' ]
-console.log(s.match(/hello.*?/g));  //[ 'hello', 'hello' ]
+/**
+ * 7. 捕获组
+ * */
+// 使用replace替换 使用分组 把内容替换
+var num = "11 22";
+var n = num.replace(/(\d+)\s*(\d+)/, "$2 $1");
+console.log(n); // 22 11
