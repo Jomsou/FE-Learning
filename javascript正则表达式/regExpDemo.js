@@ -34,10 +34,13 @@
  * 3. 正则中的方括号
  * */
 
-var r = /[12345]/;
-console.log(r.test('aaa12'));//true
-
-r = /[^0a]/;
-console.log(r.test('123')); // true
-console.log(r.test('a')); // false
-console.log(r.test('123a')); // true
+// var r = /[12345]/;
+// console.log(r.test('aaa12'));//true
+//
+// r = /[^0a]/;
+// console.log(r.test('123')); // true
+// console.log(r.test('a')); // false
+// console.log(r.test('123a')); // true
+//
+// var str = "abcde";
+// console.log(str.match(/[bcd][bcd]/)); // [“bc”, index: 1, input: “abcde”]
