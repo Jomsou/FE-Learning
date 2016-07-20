@@ -57,3 +57,10 @@
 // console.log(str.match(/\s/g));//[ ' ', ' ', ' ', ' ', ' ', ' ' ]
 // str='Is this all \nthere is?';
 // console.log(/\n/g.exec(str)); // [ '\n', index: 12, input: 'Is this all \nthere is?' ]
+
+/**
+ * 5. 量词
+ * */
+console.log(/\d+/.exec('12abc'));
+var str = "hello longen";
+console.log(str.match(/l+/g)); //["ll", "l"]
