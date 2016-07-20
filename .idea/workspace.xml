@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript正则表达式/test.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript正则表达式/regExpDemo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md" afterPath="$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,7 +23,36 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="regExpDemo.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript正则表达式/regExpDemo.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-正则表达式中的方括号[].md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="286">
+                <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -38,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/test.js" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/08-02-浏览器加载、渲染html和加载js的顺序.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/09-浏览器的工作原理详解(!!).md" />
@@ -79,7 +108,6 @@
         <option value="$PROJECT_DIR$/javascript正则表达式/02-String对象的正则方法.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/test.js" />
         <option value="$PROJECT_DIR$/javascript正则表达式/06-元字符.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/07-特殊字符转义.md" />
@@ -89,6 +117,8 @@
         <option value="$PROJECT_DIR$/javascript正则表达式/11-环视.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/12-捕获组与反向引用.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/13-常用的正则表达式例子.md" />
+        <option value="$PROJECT_DIR$/javascript正则表达式/regExpDemo.js" />
+        <option value="$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md" />
       </list>
     </option>
   </component>
@@ -192,10 +222,7 @@
       <recent name="$PROJECT_DIR$/前端知识点总结/03-javascript/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.test.js (1)">
-    <configuration default="false" name="12-装饰者模式decorator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="12-装饰者模式decorator.js" working-dir="$PROJECT_DIR$/javascript设计模式">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.regExpDemo.js">
     <configuration default="false" name="13-状态模式state.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="13-状态模式state.js" working-dir="$PROJECT_DIR$/javascript设计模式">
       <method />
     </configuration>
@@ -206,6 +233,9 @@
       <method />
     </configuration>
     <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/javascript正则表达式">
+      <method />
+    </configuration>
+    <configuration default="false" name="regExpDemo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="regExpDemo.js" working-dir="$PROJECT_DIR$/javascript正则表达式">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -250,19 +280,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.regExpDemo.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.12-装饰者模式decorator.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.regExpDemo.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
       </list>
     </recent_temporary>
   </component>
@@ -298,18 +328,18 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="27029000" />
+      <workItem from="1468806375603" duration="28306000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="185509000" />
+    <option name="totallyTimeSpent" value="186786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26290706" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19698173" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -357,14 +387,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/10-页面中js和css放置位置对性能的影响.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -899,20 +921,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="264">
-            <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="73" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1041,6 +1049,30 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript正则表达式/regExpDemo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="286">
+            <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
             <folding />
           </first_editor>
           <second_editor />
