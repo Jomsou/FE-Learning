@@ -44,3 +44,16 @@
 //
 // var str = "abcde";
 // console.log(str.match(/[bcd][bcd]/)); // [“bc”, index: 1, input: “abcde”]
+
+/**
+ * 4. 元字符
+ * */
+// console.log('hello'.match(/\w/));  //[ 'h', index: 0, input: 'hello' ]
+// console.log('hello'.match(/\w/g));  //[ 'h', 'e', 'l', 'l', 'o' ]
+// console.log('hello'.match(/\w+/));  //[ 'hello', index: 0, input: 'hello' ]
+// var str = 'abcde111vvv';
+// console.log(/\D+/g.exec(str)); // [“abcde”, index: 0, input: “abcde111vvv”]
+// str = '     hello ';
+// console.log(str.match(/\s/g));//[ ' ', ' ', ' ', ' ', ' ', ' ' ]
+// str='Is this all \nthere is?';
+// console.log(/\n/g.exec(str)); // [ '\n', index: 12, input: 'Is this all \nthere is?' ]
