@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签属性详解.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签的一些属性.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/11-02-meta标签属性详解2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-01-meta标签属性详解1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签属性详解.md" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/11-01-meta标签属性详解1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,47 +27,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="19-svg与canvas的区别.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="207">
-                <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20-jpg与png的区别以及使用场景.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/20-jpg与png的区别以及使用场景.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1650">
-                <caret line="75" column="3" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="21-meta标签属性详解.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签属性详解.md">
+      <file leaf-file-name="21-02-meta标签属性详解2.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md">
           <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="515">
-                <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+                <caret line="165" column="58" selection-start-line="165" selection-start-column="58" selection-end-line="165" selection-end-column="58" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -88,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css学习笔记/精通CSS/07-浮动与清除浮动(!!!).md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/05-清除浮动的方式.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/00-原型链原理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/13-DOM事件详解.md" />
@@ -139,6 +109,7 @@
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/20-jpg与png的区别以及使用场景.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签的一些属性.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签属性详解.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md" />
       </list>
     </option>
   </component>
@@ -228,6 +199,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识点总结" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -253,11 +242,11 @@
       <recent name="$PROJECT_DIR$/前端知识点总结(css)" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
       <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
       <recent name="$PROJECT_DIR$/前端知识点总结/04-面试题/images" />
       <recent name="$PROJECT_DIR$/前端知识点总结/03-javascript/images" />
       <recent name="$PROJECT_DIR$/css学习笔记/精通CSS" />
-      <recent name="$PROJECT_DIR$/前端知识点总结/03-javascript" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test.js">
@@ -366,18 +355,18 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="16489000" />
+      <workItem from="1468806375603" duration="17496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174969000" />
+    <option name="totallyTimeSpent" value="175976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18506752" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28355837" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -425,20 +414,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="462">
-            <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1067,14 +1042,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md">
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-01-meta标签属性详解1.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="207">
-            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <first_editor relative-caret-position="515">
+            <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1095,14 +1070,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签属性详解.md">
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="207">
+            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="515">
-            <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
+            <caret line="165" column="58" selection-start-line="165" selection-start-column="58" selection-end-line="165" selection-end-column="58" />
             <folding />
           </first_editor>
           <second_editor />
