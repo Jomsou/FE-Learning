@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript正则表达式/test.js" afterPath="$PROJECT_DIR$/javascript正则表达式/test.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="03-RegExp对象的方法.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-RegExp对象的方法.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -34,6 +33,22 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="427">
                 <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-正则中的普通字符.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md">
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -69,7 +84,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/04-javascript数据类型.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/05-常问到的http状态码.md" />
@@ -120,6 +134,7 @@
         <option value="$PROJECT_DIR$/javascript正则表达式/02-String对象的正则方法.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/test.js" />
         <option value="$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md" />
+        <option value="$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md" />
       </list>
     </option>
   </component>
@@ -329,12 +344,12 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="20462000" />
+      <workItem from="1468806375603" duration="20550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178942000" />
+    <option name="totallyTimeSpent" value="179030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -388,20 +403,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css学习笔记/精通CSS/01-基础知识.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="539">
-            <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1068,6 +1069,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="427">
             <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
