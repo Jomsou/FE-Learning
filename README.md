@@ -7,8 +7,9 @@
 #### 2.javascript数据结构与算法 
 #### 3.javascript设计模式
 #### 4.Javascript函数式编程
-#### 5.MongoDB笔记
-#### 6.其他
+#### 5.javascript正则表达式
+#### 6.MongoDB笔记
+#### 7.其他
 - git基本使用指南
 - MarkDown语法指南
 - 理解Redux设计理念
