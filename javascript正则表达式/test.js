@@ -3,12 +3,9 @@
  */
 
 
-// var reg = /^tt$/;
-// var reg2 = new RegExp('^tt$');
-// console.log(typeof reg);
-// console.log(Object.prototype.toString.call(reg));
-// console.log(reg == reg2);
+var str = "longen and longen and yunxi";
+console.log(/longen/g.exec(str));
+// 打印 ["longen", index: 0, input: "longen and yunxi"]
 
-var s="hello world! hello JS! hello node!";
-// console.log(s.search(/jsss/i));
-console.log(s.match(/hello/));
+// 假如没有找到的话，则返回null
+console.log(/wo/.exec(str)); // null
