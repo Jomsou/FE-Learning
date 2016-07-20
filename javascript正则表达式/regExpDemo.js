@@ -61,6 +61,18 @@
 /**
  * 5. 量词
  * */
-console.log(/\d+/.exec('12abc'));
-var str = "hello longen";
-console.log(str.match(/l+/g)); //["ll", "l"]
+// console.log(/\d+/.exec('12abc'));
+// var str = "hello longen";
+// console.log(str.match(/l+/g)); //["ll", "l"]
+// console.log(str.match(/ll*/g));
+
+/**
+ * 6. 贪婪匹配与非贪婪匹配
+ * */
+var s = 'hello 100, hello 1000, hello 10000';
+console.log(s.match(/\d{3,}/g));  //贪婪匹配 => [ '100', '1000', '10000' ]
+console.log(s.match(/\d{3,}?/g)); //非贪婪匹配 => [ '100', '100', '100' ]
+
+s = 'hello,我是中国人。hello,我是中国人!!';
+console.log(s.match(/hello.*/g));  //[ 'hello,我是中国人。hello,我是中国人!!' ]
+console.log(s.match(/hello.*?/g));  //[ 'hello', 'hello' ]
