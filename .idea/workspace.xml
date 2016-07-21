@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/00-10道海量数据处理面试算法题.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/01-Two-Sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/07-Reverse Integer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String to Integer.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/01_Two-Sum.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/07-Reverse Integer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String-to-Integer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/15-3sum.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/14_LongestCommonPrefix.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/14-LongestCommonPrefix.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/242-Valid Anagram.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/242-Valid Anagram.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/345-Reverse Vowels of a String.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/347-Top K Frequent Elements.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/347-Top K Frequent Elements.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.html" afterPath="$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,110 +41,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="43-n的骰子的点数.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/43-n的骰子的点数.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="44-扑克牌的顺子.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/44-扑克牌的顺子.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="45-圆圈中最后剩下的数字.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/45-圆圈中最后剩下的数字.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="46-求1+2+3+...+n.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/46-求1+2+3+...+n.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="47-不用加减乘除做加法.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/47-不用加减乘除做加法.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="48-不能被继承的类.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/48-不能被继承的类.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="49-字符串转换成整数.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/49-字符串转换成整数.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="50-树中两个节点的最低公共祖先.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/经典算法题/README.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -142,21 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript正则表达式/12-捕获组与反向引用.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/12-捕获分组与反向引用.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/25-gulp和webpack的区别 .md" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/04-替换空格.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/05-从尾到头打印链表.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/06-重建二叉树.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/07-用两个栈实现队列.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/08-旋转数组的最小数字.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/09-斐波那契数列.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/10-二进制中1的个数.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/11-数值的整数次方.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/12-打印1到最大的n位数.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/13-O(1)时间删除链表节点.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/15-链表中倒数第k个节点.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/16-反转链表.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/17-合并两个有序链表.js" />
@@ -193,6 +93,21 @@
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/49-字符串转换成整数.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/50-树中两个节点的最低公共诛仙.js" />
         <option value="$PROJECT_DIR$/经典算法题/README.md" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/01-Two-Sum.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/07-Reverse Integer.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String to Integer.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/14-LongestCommonPrefix.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/15-3sum.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/242-Valid Anagram.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/347-Top K Frequent Elements.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js" />
       </list>
     </option>
   </component>
@@ -274,7 +189,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="数据结构与算法javascript实现" />
+              <option name="myItemId" value="数据结构与算法(LeetCode)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -303,27 +218,27 @@
       <recent name="$PROJECT_DIR$/前端知识点总结(css)" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数据结构与算法(LeetCode)" />
       <recent name="$PROJECT_DIR$/经典算法题" />
       <recent name="$PROJECT_DIR$/javascript正则表达式/images" />
       <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
       <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
-      <recent name="$PROJECT_DIR$/前端知识点总结/04-面试题/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.regExpDemo.js">
-    <configuration default="false" name="13-状态模式state.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="13-状态模式state.js" working-dir="$PROJECT_DIR$/javascript设计模式">
+  <component name="RunManager" selected="Node.js.349-Intersection of Two Arrays.js">
+    <configuration default="false" name="53-Maximum Subarray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="53-Maximum Subarray.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="05-快速排序(1!!!!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-快速排序(1!!!!!).js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
+    <configuration default="false" name="242-Valid Anagram.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="242-Valid Anagram.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/前端知识点总结/04-面试题">
+    <configuration default="false" name="345-Reverse Vowels of a String.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="345-Reverse Vowels of a String.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/javascript正则表达式">
+    <configuration default="false" name="347-Top K Frequent Elements.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="347-Top K Frequent Elements.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="regExpDemo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="regExpDemo.js" working-dir="$PROJECT_DIR$/javascript正则表达式">
+    <configuration default="false" name="349-Intersection of Two Arrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="349-Intersection of Two Arrays.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -368,19 +283,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.regExpDemo.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.53-Maximum Subarray.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.242-Valid Anagram.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.345-Reverse Vowels of a String.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.347-Top K Frequent Elements.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.349-Intersection of Two Arrays.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.regExpDemo.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.13-状态模式state.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.349-Intersection of Two Arrays.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.347-Top K Frequent Elements.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.345-Reverse Vowels of a String.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.242-Valid Anagram.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.53-Maximum Subarray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -416,18 +331,18 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="33612000" />
+      <workItem from="1468806375603" duration="34799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="192092000" />
+    <option name="totallyTimeSpent" value="193279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37728357" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34471804" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -475,228 +390,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/02-实现单例模式.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/03-二维数组中的查找.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/08-旋转数组的最小数字.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/09-斐波那契数列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/10-二进制中1的个数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/13-O(1)时间删除链表节点.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/15-链表中倒数第k个节点.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/16-反转链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/17-合并两个有序链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/19-二叉树的镜像.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/20-顺时针打印矩阵.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/23-从上往下打印二叉树.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/25-二叉树中和为某一值得路径.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/26-复杂链表的复制.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/27-二叉搜索树与双向链表.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/28-字符串的排列.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/29-数组中出现次数超过一半的数字.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -871,14 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/经典算法题/00-10道海量数据处理面试算法题.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -904,6 +589,244 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/01-赋值运算符函数.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/01_Two-Sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="23" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/01-Two-Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/07-Reverse Integer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="76" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/07-Reverse Integer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="53" column="2" selection-start-line="53" selection-start-column="2" selection-end-line="53" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String-to-Integer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="64" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String to Integer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/14_LongestCommonPrefix.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/15-3sum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/15-3sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/14-LongestCommonPrefix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/242-Valid Anagram.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1010">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/347-Top K Frequent Elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
