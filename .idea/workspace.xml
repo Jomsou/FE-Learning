@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/11-缓存.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/11-协商缓存与强缓存.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/10-http常见状态码和304缓存原理.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态码和304缓存原理.md" afterPath="" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04-00-cookie深度详解.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04-00-cookie深度详解.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/04-00-cookie深度详解.md">
           <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -32,6 +33,22 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="537">
                 <caret line="227" column="14" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-http常见状态码和304缓存原理.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/10-http常见状态码和304缓存原理.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="151" column="2" selection-start-line="151" selection-start-column="2" selection-end-line="151" selection-end-column="2" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/29-数组中出现次数超过一半的数字.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/30-最小的k个数.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/31-连续子数组的最大和.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/32-从1到n整数中1出现的次数.js" />
@@ -98,7 +114,6 @@
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-02-cookie和session, sessionStorage和localStorage.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/05-GET和POST区别.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态码和304缓存原理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/11-02-meta标签属性详解2.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/12-viewport详解.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md" />
@@ -106,6 +121,8 @@
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/02-浮动的原理和工作方式,产生的影响.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/04-CSS各种居中的方法.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-00-cookie深度详解.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态码和304缓存原理.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http常见状态码和304缓存原理.md" />
       </list>
     </option>
   </component>
@@ -192,7 +209,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03-javascript" />
+              <option name="myItemId" value="01-html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -334,18 +351,18 @@
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
-      <workItem from="1469072513538" duration="3089000" />
+      <workItem from="1469072513538" duration="3698000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="201035000" />
+    <option name="totallyTimeSpent" value="201644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533757" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117553614" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -676,19 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/10-http状态码和304缓存原理.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="682">
-            <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/11-02-meta标签属性详解2.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -781,6 +785,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="537">
             <caret line="227" column="14" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/10-http常见状态码和304缓存原理.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="151" column="2" selection-start-line="151" selection-start-column="2" selection-end-line="151" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
