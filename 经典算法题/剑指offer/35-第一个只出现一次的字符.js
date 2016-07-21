@@ -7,24 +7,25 @@ function firstOnlyOne(str) {
         return null;
     }
 
-    var a = [];
+    var m = new Map();
 
     for (var i = 0, l = str.length; i < l; i++) {
-        var ele = str[i];
-        var index = a.indexOf(ele);
 
-        if (index === -1) {
-            a.push(ele);
+        var ele = str[i];
+
+        if (m.has(ele)) {
+            m.delete(ele);
         } else {
-            a.splice(index, 1);
+            m.set(ele, i);
         }
     }
 
-    if (a.length) {
-        return a[0];
-        // return a;  //找出所有只出现一次的字符
-    }
-    return null;
+    // if (m.keys().length) {
+    //     return (m.keys())[0];
+    //     // return a;  //找出所有只出现一次的字符
+    // }
+    // return m.keys();
+    return m.keys();
 }
 
 console.log(firstOnlyOne(''));
