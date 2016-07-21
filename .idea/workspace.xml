@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域.md" afterPath="$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域方式的整理.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/前端知识点总结/01-html/13-移动web的事件总结.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,15 +28,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="09-02-跨域方式的整理.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域方式的整理.md">
+      <file leaf-file-name="13-移动web的事件总结.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/13-移动web的事件总结.md">
           <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="493">
-                <caret line="307" column="2" selection-start-line="307" selection-start-column="2" selection-end-line="307" selection-end-column="2" />
+              <first_editor relative-caret-position="8976">
+                <caret line="408" column="0" selection-start-line="408" selection-start-column="0" selection-end-line="408" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/31-连续子数组的最大和.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/32-从1到n整数中1出现的次数.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/33-把数组排成最小的数.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/34-丑数.js" />
@@ -107,6 +110,7 @@
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http状态码和304缓存原理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/10-http常见状态码和304缓存原理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域方式的整理.md" />
+        <option value="$PROJECT_DIR$/前端知识点总结/01-html/13-移动web的事件总结.md" />
       </list>
     </option>
   </component>
@@ -193,7 +197,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03-javascript" />
+              <option name="myItemId" value="01-html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,11 +218,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/前端知识点总结/01-html/images" />
       <recent name="$PROJECT_DIR$/数据结构与算法(LeetCode)" />
       <recent name="$PROJECT_DIR$/经典算法题" />
       <recent name="$PROJECT_DIR$/javascript正则表达式/images" />
       <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
-      <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
@@ -335,18 +339,18 @@
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
-      <workItem from="1469072513538" duration="4352000" />
+      <workItem from="1469072513538" duration="5327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="202298000" />
+    <option name="totallyTimeSpent" value="203273000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07625099" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12867355" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -394,13 +398,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/44-扑克牌的顺子.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/45-圆圈中最后剩下的数字.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -790,6 +787,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="493">
             <caret line="307" column="2" selection-start-line="307" selection-start-column="2" selection-end-line="307" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/13-移动web的事件总结.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="8976">
+            <caret line="408" column="0" selection-start-line="408" selection-start-column="0" selection-end-line="408" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
