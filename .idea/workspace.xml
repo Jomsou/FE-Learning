@@ -2,7 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/01-赋值运算符函数.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/02-实现单例模式.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/03-二维数组中的查找.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/08-旋转数组的最小数字.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/09-斐波那契数列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/10-二进制中1的个数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/13-O(1)时间删除链表节点.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/15-链表中倒数第k个节点.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/16-反转链表.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/17-合并两个有序链表.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/19-二叉树的镜像.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/20-顺时针打印矩阵.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/23-从上往下打印二叉树.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/25-二叉树中和为某一值得路径.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/26-复杂链表的复制.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/27-二叉搜索树与双向链表.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/28-字符串的排列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/29-数组中出现次数超过一半的数字.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/30-最小的k个数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/31-连续子数组的最大和.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/32-从1到n整数中1出现的次数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/33-把数组排成最小的数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/34-丑数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/35-第一个只出现一次的字符.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/36-数组中的逆序对.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/37-两个链表的第一个公共节点.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/38-数字在排序数组中出现的次数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/39-二叉树的深度.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/40-数组中只出现一次的数字.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/43-n的骰子的点数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/44-扑克牌的顺子.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/45-圆圈中最后剩下的数字.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/46-求1+2+3+...+n.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/47-不用加减乘除做加法.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/48-不能被继承的类.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/49-字符串转换成整数.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,8 +73,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="00-TestDataGenerator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-TestDataGenerator.js">
+      <file leaf-file-name="41-和为s的两个数及和为s的连续正数序列.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -33,18 +83,98 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="00-排序算法分析比较.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md">
+      <file leaf-file-name="42-翻转单词顺序和左旋转字符串.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="43-n的骰子的点数.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/43-n的骰子的点数.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="44-扑克牌的顺子.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/44-扑克牌的顺子.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="45-圆圈中最后剩下的数字.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/45-圆圈中最后剩下的数字.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="46-求1+2+3+...+n.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/46-求1+2+3+...+n.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="47-不用加减乘除做加法.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/47-不用加减乘除做加法.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="48-不能被继承的类.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/48-不能被继承的类.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1210">
-                <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="49-字符串转换成整数.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/49-字符串转换成整数.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="50-树中两个节点的最低公共祖先.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -65,57 +195,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/11-javascript在页面中的加载顺序.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/12-js文件放在页面最底部加载的原因.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/08-01-js、css和html加载顺序和加载过程.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/13-script标签引入脚本的三种情况.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/01-二叉树遍历(递归解法).md" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/04-二叉树的广度优先遍历.md" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/02-二叉树深度优先遍历(递归解法).md" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/15-怎样提高css的性能.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/16-css优化.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/17-css选择器权重计算.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/01-面试官问:你有什么想问我的.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/01-html/02-浏览器的标准模式与怪异模式区别.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/01-2-不同浏览器各个元素的margin和padding.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/01-1-什么是css-reset.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/14-css选择器权重计算.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/test.html" />
-        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/00-作用域链原理.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/18-自定义事件.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/20-jpg与png的区别以及使用场景.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签的一些属性.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/21-meta标签属性详解.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/22-各个浏览器的内核.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/23-原生js实现jquery的ready方法.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/24-网页中有大量图片的性能优化.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/15-使用css实现简单的幻灯片效果.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/01-RegExp和两种构建正则的方法.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/01-RegExp对象和两种构建正则的方法.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/02-String对象的正则方法.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/test.js" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/07-特殊字符转义.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/10-正则表达式原理-占有符和零宽度.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/13-常用的正则表达式例子.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/06-元字符.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/08-量词.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/09-贪婪模式与非贪婪模式.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/10-占有符和零宽度.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/10-占有字符和零宽度.md" />
-        <option value="$PROJECT_DIR$/javascript正则表达式/11-环视.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/regExpDemo.js" />
         <option value="$PROJECT_DIR$/javascript正则表达式/12-捕获组与反向引用.md" />
         <option value="$PROJECT_DIR$/javascript正则表达式/12-捕获分组与反向引用.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/25-gulp和webpack的区别 .md" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/04-替换空格.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/05-从尾到头打印链表.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/06-重建二叉树.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/07-用两个栈实现队列.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/08-旋转数组的最小数字.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/09-斐波那契数列.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/10-二进制中1的个数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/11-数值的整数次方.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/12-打印1到最大的n位数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/13-O(1)时间删除链表节点.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/15-链表中倒数第k个节点.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/16-反转链表.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/17-合并两个有序链表.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/18-树的子结构.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/19-二叉树的镜像.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/20-顺时针打印矩阵.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/21-包含min函数的栈.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/22-栈的压入、弹出序列.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/23-从上往下打印二叉树.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/24-二叉搜索树的后序遍历序列.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/25-二叉树中和为某一值得路径.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/26-复杂链表的复制.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/27-二叉搜索树与双向链表.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/28-字符串的排列.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/29-数组中出现次数超过一半的数字.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/30-最小的k个数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/31-连续子数组的最大和.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/32-从1到n整数中1出现的次数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/33-把数组排成最小的数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/34-丑数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/35-第一个只出现一次的字符.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/36-数组中的逆序对.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/37-两个链表的第一个公共节点.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/38-数字在排序数组中出现的次数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/39-二叉树的深度.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/40-数组中只出现一次的数字.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/43-n的骰子的点数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/44-扑克牌的顺子.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/45-圆圈中最后剩下的数字.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/46-求1+2+3+...+n.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/47-不用加减乘除做加法.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/49-字符串转换成整数.js" />
+        <option value="$PROJECT_DIR$/面试算法题/剑指offer/50-树中两个节点的最低公共诛仙.js" />
       </list>
     </option>
   </component>
@@ -183,25 +313,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="数据结构与算法javascript实现" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="数据结构与算法javascript实现" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00-排序算法" />
+              <option name="myItemId" value="经典算法题" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -343,18 +455,18 @@
       <workItem from="1467964184737" duration="482000" />
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
-      <workItem from="1468806375603" duration="32279000" />
+      <workItem from="1468806375603" duration="33505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190759000" />
+    <option name="totallyTimeSpent" value="191985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25019857" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37728357" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -402,670 +514,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/09-浏览器的工作原理详解(!!).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/08-02-浏览器加载、渲染html和加载js的顺序.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="537">
-            <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/08-01-js、css和html加载顺序和加载过程.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="559">
-            <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/13-script标签引入脚本的三种情况.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="572">
-            <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="3080">
-            <caret line="140" column="3" selection-start-line="140" selection-start-column="3" selection-end-line="140" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/02-二叉树深度优先遍历(递归解法).md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="726">
-            <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="735">
-            <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/04-二叉树的广度优先遍历.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="572">
-            <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/16-css优化.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="638">
-            <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/精通CSS/03-层叠和选择器权重.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="308">
-            <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/15-css选择器的性能.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="427">
-            <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/01-面试官问:你有什么想问我的.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/17-css选择器权重计算.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="537">
-            <caret line="88" column="3" selection-start-line="88" selection-start-column="3" selection-end-line="88" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/02-浏览器的标准模式与怪异模式区别.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-13">
-            <caret line="48" column="3" selection-start-line="48" selection-start-column="3" selection-end-line="48" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/01-doctype( 文档类型)的作用.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-475">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/14-css选择器权重计算.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/01-1-什么是css-reset.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="682">
-            <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/01-2-不同浏览器各个元素的margin和padding.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="3344">
-            <caret line="176" column="3" selection-start-line="176" selection-start-column="3" selection-end-line="176" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/00-作用域链原理.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="84" column="4" selection-start-line="84" selection-start-column="4" selection-end-line="84" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/18-自定义事件.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="273">
-            <caret line="59" column="3" selection-start-line="59" selection-start-column="3" selection-end-line="59" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-01-meta标签属性详解1.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="211" column="0" selection-start-line="211" selection-start-column="0" selection-end-line="211" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/20-jpg与png的区别以及使用场景.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1650">
-            <caret line="75" column="3" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="207">
-            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="165" column="58" selection-start-line="165" selection-start-column="58" selection-end-line="165" selection-end-column="58" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/22-各个浏览器的内核.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/15-使用css实现简单的幻灯片效果.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/24-网页中有大量图片的性能优化.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/23-原生js实现jquery的ready方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="264">
-            <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/01-RegExp对象和两种构建正则的方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="286">
-            <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/02-String对象的正则方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="4422">
-            <caret line="201" column="3" selection-start-line="201" selection-start-column="3" selection-end-line="201" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="427">
-            <caret line="29" column="43" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/07-特殊字符转义.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="484">
-            <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/13-常用的正则表达式例子.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="10934">
-            <caret line="497" column="0" selection-start-line="497" selection-start-column="0" selection-end-line="497" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="286">
-            <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/06-元字符.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/08-量词.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/09-贪婪模式与非贪婪模式.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-255">
-            <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/10-占有字符和零宽度.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/11-环视.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/12-捕获分组与反向引用.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="97">
-            <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javascript正则表达式/regExpDemo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/25-gulp和webpack的区别 .md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="528">
-            <caret line="24" column="72" selection-start-line="24" selection-start-column="72" selection-end-line="24" selection-end-column="72" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-TestDataGenerator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1074,17 +522,421 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md">
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/01-赋值运算符函数.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1210">
-            <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/02-实现单例模式.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/03-二维数组中的查找.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/08-旋转数组的最小数字.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/09-斐波那契数列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/10-二进制中1的个数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/13-O(1)时间删除链表节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/15-链表中倒数第k个节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/16-反转链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/17-合并两个有序链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/19-二叉树的镜像.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/20-顺时针打印矩阵.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/23-从上往下打印二叉树.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/25-二叉树中和为某一值得路径.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/26-复杂链表的复制.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/27-二叉搜索树与双向链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/28-字符串的排列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/29-数组中出现次数超过一半的数字.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/30-最小的k个数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/31-连续子数组的最大和.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/32-从1到n整数中1出现的次数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/33-把数组排成最小的数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/34-丑数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/35-第一个只出现一次的字符.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/36-数组中的逆序对.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/37-两个链表的第一个公共节点.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/38-数字在排序数组中出现的次数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/39-二叉树的深度.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/40-数组中只出现一次的数字.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/43-n的骰子的点数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/44-扑克牌的顺子.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/45-圆圈中最后剩下的数字.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/46-求1+2+3+...+n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/47-不用加减乘除做加法.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/48-不能被继承的类.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/49-字符串转换成整数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
