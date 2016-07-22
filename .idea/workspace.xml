@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-边框.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -26,15 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02-css3选择器.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <file leaf-file-name="03-边框.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-边框.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="449">
-                <caret line="116" column="28" selection-start-line="116" selection-start-column="28" selection-end-line="116" selection-end-column="28" />
+              <first_editor relative-caret-position="286">
+                <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -58,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/46-求1+2+3+...+n.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/47-不用加减乘除做加法.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/49-字符串转换成整数.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/50-树中两个节点的最低公共诛仙.js" />
@@ -109,6 +106,7 @@
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-边框.md" />
       </list>
     </option>
   </component>
@@ -351,12 +349,12 @@
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
-      <workItem from="1469072513538" duration="21073000" />
+      <workItem from="1469072513538" duration="21533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219019000" />
+    <option name="totallyTimeSpent" value="219479000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -419,7 +417,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.html" />
     <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/242-Valid Anagram.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1010">
@@ -1025,6 +1022,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="449">
             <caret line="116" column="28" selection-start-line="116" selection-start-column="28" selection-end-line="116" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-边框.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="286">
+            <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
