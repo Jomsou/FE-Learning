@@ -1,37 +1,14 @@
-## 边框
-
-### 1. 基本属性(css2)
-
-- border-width
-- border-color
-- border-style
-- 简写: border: border-width border-style border-color, 例如 1px solid #ccc
-
-### 2. 边框图片 border-image(P92)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css3 demo</title>
 
 
-### 3. 边框圆角 border-radius
+</head>
+<body>
 
-`语法: border-radius: none | <length>{1,4} [/ <length>{1,4}] ?`
-
-```
-如果反斜杠/存在,则表示/前面设置的圆角的水平方向的半径, /后面表示的是圆角垂直方向的半径;
-如果不存在反斜杠,则表示圆角水平和垂直方向的半径一致。
-
-也可以拆开来写:
-border-top-left-radius: <length> [/ <length>]
-border-top-right-radius: <length> [/ <length>]
-border-bottom-right-radius: <length> [/ <length>]
-border-bottom-left-radius: <length> [/ <length>]
-```
-
-使用border-radius制作特殊形状
-
-##### 1. 圆形
-```
-1. 元素宽高相等
-2. border-radius设置为宽高的一半,或者设置为50%
-
+<p>圆形--------------------------------------------------</p>
 <style type="text/css">
     .circle {
         width: 100px;
@@ -40,14 +17,10 @@ border-bottom-left-radius: <length> [/ <length>]
         border-radius: 50%;
     }
 </style>
+
 <div class="circle"></div>
-```
 
-##### 2. 半圆
-```
-1. 元素的宽度为高度的2倍(上、下半圆)或一半(左、右半圆)
-2. border-radius设置为宽高中较小的数字
-
+<p>半圆形--------------------------------------------------</p>
 <style type="text/css">
     div {
         background: red;
@@ -83,12 +56,8 @@ border-bottom-left-radius: <length> [/ <length>]
 <div class="down-semi-circle"></div>
 <div class="left-semi-circle"></div>
 <div class="right-semi-circle"></div>
-```
 
-##### 3. 扇形
-```
-1. 元素宽高相等
-2. border-radius只设置一个角,且半径与宽高相等
+<p>扇形--------------------------------------------------</p>
 
 <style type="text/css">
     .sector-1 {
@@ -120,15 +89,8 @@ border-bottom-left-radius: <length> [/ <length>]
 <div class="sector-2"></div>
 <div class="sector-3"></div>
 <div class="sector-4"></div>
-```
 
-##### 4. 椭圆
-```
-1. 宽度是高度的2倍(水平椭圆)或一半(垂直椭圆)
-2. 需要同时设置水平半径和垂直半径
-3. 水平半径是垂直半径的2倍(水平椭圆)或一半(竖直椭圆)
-4. 水平半径和垂直半径中长的一个等于宽高中长的一个;短的一个等于宽高中短的一个数字
-
+<p>椭圆形--------------------------------------------------</p>
 
 <style type="text/css">
     .ellipse-1 {
@@ -146,6 +108,6 @@ border-bottom-left-radius: <length> [/ <length>]
 
 <div class="ellipse-1"></div>
 <div class="ellipse-2"></div>
-```
 
-### 4. 边框(盒子)阴影 box-shadow
+</body>
+</html>
