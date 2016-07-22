@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md" afterPath="$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md" afterPath="$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,79 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="09-浏览器加载和渲染html的顺序(!!).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/09-浏览器加载和渲染html的顺序(!!).md">
+      <file leaf-file-name="02-选择器.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="493">
-                <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14-javascript的执行顺序.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1144">
-                <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10-页面中js和css放置位置对性能的影响.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/10-页面中js和css放置位置对性能的影响.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-299">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11-javascript在页面中的加载顺序.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/11-javascript在页面中的加载顺序.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="12-js文件放在页面最底部加载的原因.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/12-js文件放在页面最底部加载的原因.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="-13">
+                <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -119,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/37-两个链表的第一个公共节点.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/38-数字在排序数组中出现的次数.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/39-二叉树的深度.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/40-数组中只出现一次的数字.js" />
@@ -170,6 +105,7 @@
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/00-javascript函数从定义到执行的原理(!).md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/09-浏览器加载和渲染html的顺序(!!).md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md" />
+        <option value="$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md" />
       </list>
     </option>
   </component>
@@ -241,8 +177,18 @@
               <option name="myItemId" value="前端知识点总结" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="04-面试题" />
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css学习笔记" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,7 +202,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识点总结" />
+              <option name="myItemId" value="css学习笔记" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="精通CSS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -398,12 +348,12 @@
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
-      <workItem from="1469072513538" duration="11224000" />
+      <workItem from="1469072513538" duration="11484000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209170000" />
+    <option name="totallyTimeSpent" value="209430000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -466,7 +416,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.html" />
     <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/01_Two-Sum.html" />
     <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/01-Two-Sum.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -915,6 +864,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1144">
             <caret line="52" column="3" selection-start-line="52" selection-start-column="3" selection-end-line="52" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-13">
+            <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
