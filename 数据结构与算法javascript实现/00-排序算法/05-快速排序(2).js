@@ -64,6 +64,7 @@ function quickSort(items, left, right) {
 }
 
 var data = generateTestData(500000);
+// var data = [32, 48, 6, 21, 3];
 // console.log(data);
 
 var start = new Date().getTime();

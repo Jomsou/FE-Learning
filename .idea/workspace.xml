@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6新特性学习/01-实例解析ES6 Proxy的应用场景.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ES6新特性学习/proxy-demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/06-渐进增强和优雅降级.md" afterPath="$PROJECT_DIR$/前端知识点总结/02-css/00-渐进增强和优雅降级.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" afterPath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,24 +27,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01-实例解析ES6 Proxy的应用场景.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ES6新特性学习/01-实例解析ES6 Proxy的应用场景.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="7687">
-                <caret line="384" column="3" selection-start-line="384" selection-start-column="3" selection-end-line="384" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,10 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/43-n的骰子的点数.js" />
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/44-扑克牌的顺子.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/45-圆圈中最后剩下的数字.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/46-求1+2+3+...+n.js" />
         <option value="$PROJECT_DIR$/面试算法题/剑指offer/47-不用加减乘除做加法.js" />
@@ -107,6 +90,10 @@
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/demo2-圣杯与双飞翼布局,负边距.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/02-实现单例模式.md" />
         <option value="$PROJECT_DIR$/ES6学习/01-实例解析ES6 Proxy的应用场景.md" />
+        <option value="$PROJECT_DIR$/ES6新特性学习/proxy-demo.js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
+        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" />
       </list>
     </option>
   </component>
@@ -165,6 +152,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识点总结" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css学习笔记" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -189,27 +204,27 @@
       <recent name="$PROJECT_DIR$/前端知识点总结/03-javascript/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
       <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
+      <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
       <recent name="$PROJECT_DIR$/前端知识点总结" />
       <recent name="$PROJECT_DIR$/数据结构与算法javascript实现" />
       <recent name="$PROJECT_DIR$/前端知识点总结(javascript)" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.35-第一个只出现一次的字符.js">
+  <component name="RunManager" selected="Node.js.03-插入排序.js">
     <configuration default="false" name="53-Maximum Subarray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="53-Maximum Subarray.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="345-Reverse Vowels of a String.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="345-Reverse Vowels of a String.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
-      <method />
-    </configuration>
-    <configuration default="false" name="347-Top K Frequent Elements.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="347-Top K Frequent Elements.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
-      <method />
-    </configuration>
-    <configuration default="false" name="349-Intersection of Two Arrays.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="349-Intersection of Two Arrays.js" working-dir="$PROJECT_DIR$/数据结构与算法(LeetCode)">
-      <method />
-    </configuration>
     <configuration default="false" name="35-第一个只出现一次的字符.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="35-第一个只出现一次的字符.js" working-dir="$PROJECT_DIR$/经典算法题/剑指offer">
+      <method />
+    </configuration>
+    <configuration default="false" name="proxy-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="proxy-demo.js" working-dir="$PROJECT_DIR$/ES6新特性学习">
+      <method />
+    </configuration>
+    <configuration default="false" name="05-快速排序(2).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-快速排序(2).js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
+      <method />
+    </configuration>
+    <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-插入排序.js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -255,18 +270,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.53-Maximum Subarray.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.345-Reverse Vowels of a String.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.347-Top K Frequent Elements.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.349-Intersection of Two Arrays.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.35-第一个只出现一次的字符.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.35-第一个只出现一次的字符.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.35-第一个只出现一次的字符.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.53-Maximum Subarray.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.349-Intersection of Two Arrays.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.347-Top K Frequent Elements.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.345-Reverse Vowels of a String.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.35-第一个只出现一次的字符.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.53-Maximum Subarray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -303,12 +318,12 @@
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
-      <workItem from="1469072513538" duration="13963000" />
+      <workItem from="1469072513538" duration="17865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="211909000" />
+    <option name="totallyTimeSpent" value="215811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -323,22 +338,22 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3081811" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29864973" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24520548" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39726028" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24520548" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39726028" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -371,49 +386,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String-to-Integer.html" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String to Integer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.html" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/14_LongestCommonPrefix.html" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/15-3sum.html" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/15-3sum.js" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/14-LongestCommonPrefix.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.html" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.html" />
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="49" column="2" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.html" />
     <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="946">
@@ -873,6 +845,146 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="7687">
             <caret line="384" column="3" selection-start-line="384" selection-start-column="3" selection-end-line="384" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ES6新特性学习/proxy-demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/06-归并排序(js版,数组方法很方便!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/06-归并排序(通用版本!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="54" column="52" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1364">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/02-选择排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/22-各个浏览器的内核.md">
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/前端知识点总结/02-css/00-渐进增强和优雅降级.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="471">
+            <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
