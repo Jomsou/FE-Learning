@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -26,15 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05-文本属性.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md">
+      <file leaf-file-name="06-颜色.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <first_editor relative-caret-position="132">
+                <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -58,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/面试算法题/剑指offer/50-树中两个节点的最低公共诛仙.js" />
         <option value="$PROJECT_DIR$/经典算法题/README.md" />
         <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.js" />
         <option value="$PROJECT_DIR$/数据结构与算法(LeetCode)/01-Two-Sum.js" />
@@ -109,6 +106,7 @@
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-边框.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-背景background.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md" />
       </list>
     </option>
   </component>
@@ -210,28 +208,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="图解CSS3-核心技术与案例实战" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css学习笔记" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="图解CSS3-核心技术与案例实战" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -373,12 +349,12 @@
       <workItem from="1468204958002" duration="12154000" />
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
-      <workItem from="1469072513538" duration="22277000" />
+      <workItem from="1469072513538" duration="22512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220223000" />
+    <option name="totallyTimeSpent" value="220458000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,13 +417,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="814">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/347-Top K Frequent Elements.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -1074,6 +1043,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="440">
             <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
