@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,27 +25,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="12-过渡.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <file leaf-file-name="13-动画.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="605">
-                <caret line="73" column="3" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
+                <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12-过渡例子.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html">
+      <file leaf-file-name="13-动画例子.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+            <state relative-caret-position="176">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="74" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -67,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/01-1-什么是css-reset.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/02-浮动的原理和工作方式,产生的影响.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/02-css/04-CSS各种居中的方法.md" />
@@ -93,7 +92,6 @@
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-背景background.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/07-css3盒模型.md" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/15-web字体.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/demo.html" />
@@ -118,6 +116,8 @@
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" />
       </list>
     </option>
   </component>
@@ -348,12 +348,12 @@
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
       <workItem from="1469181135634" duration="11570000" />
-      <workItem from="1469429232213" duration="6208000" />
+      <workItem from="1469429232213" duration="8465000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241593000" />
+    <option name="totallyTimeSpent" value="243850000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +368,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14138205" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533757" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -416,19 +416,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/21-移动web的事件总结.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/00-浏览器工作原理(前端必读!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -751,19 +738,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1001,6 +975,14 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1015,12 +997,26 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html">
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        <state relative-caret-position="176">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="74" selection-end-column="24" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="605">
+            <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
