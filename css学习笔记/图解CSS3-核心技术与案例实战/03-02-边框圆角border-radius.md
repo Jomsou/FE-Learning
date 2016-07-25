@@ -1,16 +1,4 @@
-## 边框
-
-### 1. 基本属性(css2)
-
-- border-width
-- border-color
-- border-style
-- 简写: border: border-width border-style border-color, 例如 1px solid #ccc
-
-### 2. 边框图片 border-image(P92)
-
-
-### 3. 边框圆角 border-radius
+## 边框圆角
 
 `语法: border-radius: none | <length>{1,4} [/ <length>{1,4}] ?`
 
@@ -147,5 +135,3 @@ border-bottom-left-radius: <length> [/ <length>]
 <div class="ellipse-1"></div>
 <div class="ellipse-2"></div>
 ```
-
-### 4. 边框(盒子)阴影 box-shadow
