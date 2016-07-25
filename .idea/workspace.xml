@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-背景background.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/multi-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="154">
-                <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <first_editor relative-caret-position="484">
+                <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -106,8 +105,8 @@
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow实例.html" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
       </list>
     </option>
   </component>
@@ -197,6 +196,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css学习笔记" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="图解CSS3-核心技术与案例实战" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -214,19 +235,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images" />
-      <recent name="$PROJECT_DIR$/经典算法题/剑指offer/images" />
-      <recent name="$PROJECT_DIR$/前端知识点总结/02-css/images" />
-      <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
-      <recent name="$PROJECT_DIR$/前端知识点总结/01-html/images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
       <recent name="$PROJECT_DIR$/前端知识点总结/01-html" />
       <recent name="$PROJECT_DIR$/前端知识点总结" />
       <recent name="$PROJECT_DIR$/数据结构与算法javascript实现" />
       <recent name="$PROJECT_DIR$/前端知识点总结(javascript)" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images" />
+      <recent name="$PROJECT_DIR$/经典算法题/剑指offer/images" />
+      <recent name="$PROJECT_DIR$/前端知识点总结/02-css/images" />
+      <recent name="$PROJECT_DIR$/前端知识点总结/02-css" />
+      <recent name="$PROJECT_DIR$/前端知识点总结/01-html/images" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.03-插入排序.js">
@@ -337,12 +358,12 @@
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
-      <workItem from="1469181135634" duration="5403000" />
+      <workItem from="1469181135634" duration="6898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229218000" />
+    <option name="totallyTimeSpent" value="230713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -357,7 +378,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13343924" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1006,8 +1027,8 @@
     <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <first_editor relative-caret-position="484">
+            <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
             <folding />
           </first_editor>
           <second_editor />
