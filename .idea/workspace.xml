@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/multi-bg.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,12 +25,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04-02-背景background-css3新增.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md">
+      <file leaf-file-name="05-01-文本属性(基本).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="484">
-                <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <first_editor relative-caret-position="264">
+                <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05-02-文本属性(css3新增).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="1056">
+                <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session完全总结(!!!).md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/01-html/04-02-cookie和session, sessionStorage和localStorage.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/05-GET和POST区别.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/11-02-meta标签属性详解2.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/12-viewport详解.md" />
@@ -107,6 +122,8 @@
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow实例.html" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md" />
+        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md" />
       </list>
     </option>
   </component>
@@ -193,28 +210,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="图解CSS3-核心技术与案例实战" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css学习笔记" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="图解CSS3-核心技术与案例实战" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,12 +353,12 @@
       <workItem from="1468475825733" duration="22520000" />
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
-      <workItem from="1469181135634" duration="6898000" />
+      <workItem from="1469181135634" duration="8585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="230713000" />
+    <option name="totallyTimeSpent" value="232400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -378,7 +373,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13343924" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18189038" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -426,19 +421,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/01-html/04-00-cookie深度详解.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="537">
-            <caret line="227" column="14" selection-start-line="227" selection-start-column="14" selection-end-line="227" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域方式的整理.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -930,20 +912,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-01-使用border画三角形.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1029,6 +997,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="484">
             <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1056">
+            <caret line="48" column="58" selection-start-line="48" selection-start-column="58" selection-end-line="48" selection-end-column="58" />
             <folding />
           </first_editor>
           <second_editor />
