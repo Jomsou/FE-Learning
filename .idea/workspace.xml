@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" afterPath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -29,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="253">
-                <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
+              <first_editor relative-caret-position="220">
+                <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -38,16 +36,6 @@
           </provider>
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11-形变例子.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="68" selection-end-column="6" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -348,12 +336,12 @@
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
       <workItem from="1469181135634" duration="11570000" />
-      <workItem from="1469429232213" duration="4364000" />
+      <workItem from="1469429232213" duration="4429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239749000" />
+    <option name="totallyTimeSpent" value="239814000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1016,8 +1004,8 @@
     <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="253">
-            <caret line="121" column="22" selection-start-line="121" selection-start-column="22" selection-end-line="121" selection-end-column="22" />
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
