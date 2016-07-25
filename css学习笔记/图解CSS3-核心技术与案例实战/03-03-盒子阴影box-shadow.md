@@ -37,11 +37,11 @@ box-shadow: none | [inset x-offset y-offset blur-radius spread-radius color] ,
     }
 
     .left {
-        box-shadow: 5px 0 5px #bbb;;
+        box-shadow: -5px 0 5px #bbb;;
     }
 
     .right {
-        box-shadow: -5px 0 5px #bbb;
+        box-shadow: 5px 0 5px #bbb;
     }
 
 </style>
