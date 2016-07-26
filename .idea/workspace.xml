@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript进阶学习/08-javascript进阶-变量对象.md" afterPath="$PROJECT_DIR$/javascript进阶学习/08-javascript进阶-变量对象.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this对象.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +25,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="08-javascript进阶-变量对象.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript进阶学习/08-javascript进阶-变量对象.md">
+      <file leaf-file-name="09-javascript进阶-this关键字.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="539">
-                <caret line="423" column="3" selection-start-line="423" selection-start-column="3" selection-end-line="423" selection-end-column="3" />
+              <first_editor relative-caret-position="8173">
+                <caret line="434" column="0" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ES6新特性学习/proxy-demo.js" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-背景background.md" />
@@ -106,6 +105,9 @@
         <option value="$PROJECT_DIR$/javascript深入学习/14-你真的懂javascript吗?经典题目详解.md" />
         <option value="$PROJECT_DIR$/javascript进阶学习/07-javascript进阶-执行上下文.md" />
         <option value="$PROJECT_DIR$/javascript进阶学习/08-javascript进阶-变量对象.md" />
+        <option value="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this对象.md" />
+        <option value="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字详解.md" />
+        <option value="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字.md" />
       </list>
     </option>
   </component>
@@ -372,12 +374,12 @@
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
       <workItem from="1469181135634" duration="11570000" />
-      <workItem from="1469429232213" duration="18357000" />
+      <workItem from="1469429232213" duration="18940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253742000" />
+    <option name="totallyTimeSpent" value="254325000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +394,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10722796" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09769659" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -986,20 +988,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this对象.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript进阶学习/10-javascript进阶-作用域链.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1089,6 +1077,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="539">
             <caret line="423" column="3" selection-start-line="423" selection-start-column="3" selection-end-line="423" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="8173">
+            <caret line="434" column="0" selection-start-line="434" selection-start-column="0" selection-end-line="434" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
