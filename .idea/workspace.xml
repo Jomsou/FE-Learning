@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/prototype-chain-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/prototype-chain-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/images/js-core-9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascript深入学习/06-javascript核心知识一览(!).md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,40 +34,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04-立即调用的函数表达式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript深入学习/04-立即调用的函数表达式.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="605">
-                <caret line="235" column="3" selection-start-line="235" selection-start-column="3" selection-end-line="235" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05-原型链原理.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript深入学习/05-原型链原理.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域方式的整理.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/13-移动web的事件总结.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/01-html/00-浏览器工作原理(前端必读!).md" />
         <option value="$PROJECT_DIR$/前端知识点总结/03-javascript/22-CommonJS、AMD、CMD详解.md" />
@@ -123,6 +100,7 @@
         <option value="$PROJECT_DIR$/javascript深入学习/03-全面解析module模式.md" />
         <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/00-实现javascript深拷贝函数.md" />
         <option value="$PROJECT_DIR$/javascript深入学习/04-立即调用的函数表达式.md" />
+        <option value="$PROJECT_DIR$/javascript深入学习/06-javascript核心(进阶!).md" />
       </list>
     </option>
   </component>
@@ -246,24 +224,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascript深入学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascript深入学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,12 +367,12 @@
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
       <workItem from="1469181135634" duration="11570000" />
-      <workItem from="1469429232213" duration="15135000" />
+      <workItem from="1469429232213" duration="16949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250520000" />
+    <option name="totallyTimeSpent" value="252334000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -427,7 +387,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31453535" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2668785" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -475,19 +435,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/02-实现单例模式.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1066,6 +1013,20 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascript深入学习/05-原型链原理.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javascript深入学习/04-立即调用的函数表达式.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1080,11 +1041,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript深入学习/05-原型链原理.md">
+    <entry file="file://$PROJECT_DIR$/javascript深入学习/06-javascript核心知识一览(!).md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <first_editor relative-caret-position="7931">
+            <caret line="552" column="0" selection-start-line="552" selection-start-column="0" selection-end-line="552" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
