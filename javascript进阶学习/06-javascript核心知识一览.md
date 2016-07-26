@@ -19,16 +19,19 @@ var foo = {
   y: 20
 };
 ```
-上述代码foo对象有两个显式的属性`[explicit own properties]`和一个自带隐式的 `__proto__ `属性`[implicit __proto__ property]`，
-指向foo的原型。
+上述代码foo对象有两个显式的属性`[explicit own properties]`和一个自带隐式的 `__proto__ `属性
+`[implicit __proto__ property]`，指向foo的原型。
 ![一个含有原型的基本对象](./images/js-core-1.png)
 
 为什么需要原型呢，让我们考虑 原型链 的概念来回答这个问题。
 
 ## 原型链（Prototype chain）
-`原型对象也是普通的对象，并且也有可能有自己的原型，如果一个原型对象的原型不为null的话，我们就称之为原型链（prototype chain）`。
+`原型对象也是普通的对象，并且也有可能有自己的原型，如果一个原型对象的原型不为null的话，
+我们就称之为原型链（prototype chain）`。
+
 ```
-A prototype chain is a finite chain of objects which is used to implemented inheritance and shared properties.
+A prototype chain is a finite chain of objects which is used to implemented 
+inheritance and shared properties.
 原型链是一个由对象组成的有限对象链由于实现继承和共享属性。
 ```
 想象一个这种情况，2个对象，大部分内容都一样，只有一小部分不一样，很明显，在一个好的设计模式中，我们会需要重用那部分相同的，
@@ -37,7 +40,8 @@ A prototype chain is a finite chain of objects which is used to implemented inhe
 并且可以声明拥有各自的独特的东西。
 
 ECMAScript没有类的概念。但是，`重用[reuse]`这个理念没什么不同（某些方面，甚至比class-更加灵活），
-可以由prototype chain原型链来实现。这种继承被称为delegation based inheritance-基于继承的委托，或者更通俗一些，叫做原型继承。
+可以由prototype chain原型链来实现。这种继承被称为delegation based inheritance-基于继承的委托，
+或者更通俗一些，叫做原型继承。
 
 类似于类”A”，”B”，”C”，在ECMAScript中尼创建对象类”a”，”b”，”c”，相应地， 
 对象“a” 拥有对象“b”和”c”的共同部分。同时对象“b”和”c”只包含它们自己的附加属性或方法。
@@ -149,14 +153,16 @@ console.log(
 在ECMASscript中的代码有三种类型：global, function和eval。
 
 每一种代码的执行都需要依赖自身的上下文。当然global的上下文可能涵盖了很多的function和eval的实例。
-`函数的每一次调用，都会进入函数执行中的上下文,并且来计算函数中变量等的值`。
+```
+函数的每一次调用，都会进入函数执行中的上下文,并且来计算函数中变量等的值。
 eval函数的每一次执行，也会进入eval执行中的上下文，判断应该从何处获取变量的值。
-注意，`一个function可能产生无限的上下文环境，因为一个函数的调用（甚至递归）都产生了一个新的上下文环境`。
+
+注意，一个function可能产生无限的上下文环境，因为一个函数的调用（甚至递归）都产生了一个新的上下文环境。
+```
+
 ```
 function foo(bar) {}
-
-// 调用相同的function，每次都会产生3个不同的上下文
-//（包含不同的状态，例如参数bar的值）
+// 调用相同的function，产生3个不同的上下文（包含不同的状态，例如参数bar的值）
 foo(10);
 foo(20);
 foo(30);
@@ -174,6 +180,7 @@ foo(30);
 
 如下图，所有的ECMAScript的程序执行都可以看做是一个`执行上下文堆栈[execution context (EC) stack]`。
 堆栈的顶部就是处于激活状态的上下文。
+
 ![执行上下文栈](./images/js-core-4.png)
 
 当一段程序开始时，会先进入`全局执行上下文环境[global execution context]`, 这个也是堆栈中最底部的元素。
@@ -184,7 +191,7 @@ foo(30);
 见图5，有一个函数上下文“EC1″和一个全局上下文“Global EC”，下图展现了从“Global EC”进入和退出“EC1″时栈的变化:
 ![执行上下文栈的变化](./images/js-core-5.png)
 
-ECMAScript运行时系统就是这样管理代码的执行。
+**ECMAScript运行时系统** 就是这样管理代码的执行。
 如上所述，栈中每一个执行上下文可以表示为一个对象。让我们看看上下文对象的结构以及执行其代码所需的 状态(state) 。
 
 ## 执行上下文(Execution Context)
@@ -271,11 +278,17 @@ A scope chain is a list of objects that are searched for identifiers appear in t
 例如，当一个函数在自身函数体内需要引用一个变量，但是这个变量并没有在函数内部声明（或者也不是某个参数名），
 那么这个变量就可以称为自由变量[free variable]。那么我们搜寻这些自由变量就需要用到作用域链。
 ```
-在一般情况下，一个作用域链包括`父级变量对象（variable object）（作用域链的顶部）`、
-`函数自身变量VO和活动对象（activation object）`。
-不过，`有些情况下也会包含其它的对象，例如在执行期间，动态加入作用域链中的—例如with或者catch语句`。
+在一般情况下，
+```
+一个作用域链包括父级变量对象（variable object）（作用域链的顶部）、函数自身变量VO和活动对象（activation object）。
+```
+不过，
+```
+有些情况下也会包含其它的对象，例如在执行期间，动态加入作用域链中的—例如with或者catch语句。
+
 [译注：with-objects指的是with语句，产生的临时作用域对象；catch-clauses指的是catch从句，如catch(e)，这会产生异常对象，
 导致作用域变更]。
+```
 
 当查找标识符的时候，会从作用域链的活动对象部分开始查找，然后(如果标识符没有在活动对象中找到)查找作用域链的顶部，
 循环往复，就像作用域链那样。
