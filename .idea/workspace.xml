@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript进阶学习/11-javascript进阶-函数详解.md" afterPath="$PROJECT_DIR$/javascript进阶学习/11-javascript进阶-函数详解.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md" afterPath="$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,18 +23,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11-javascript进阶-函数详解.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javascript进阶学习/11-javascript进阶-函数详解.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <file leaf-file-name="12-javascript进阶-闭包详解.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="495">
-                <caret line="634" column="33" selection-start-line="634" selection-start-column="33" selection-end-line="634" selection-end-column="33" />
+              <first_editor relative-caret-position="9075">
+                <caret line="520" column="3" selection-start-line="520" selection-start-column="3" selection-end-line="520" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-背景background.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-文本属性.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/07-css3盒模型.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/demo.html" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字.md" />
         <option value="$PROJECT_DIR$/javascript进阶学习/10-javascript进阶-作用域链.md" />
         <option value="$PROJECT_DIR$/javascript进阶学习/11-javascript进阶-函数详解.md" />
+        <option value="$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md" />
       </list>
     </option>
   </component>
@@ -372,12 +372,12 @@
       <workItem from="1468806375603" duration="39466000" />
       <workItem from="1469072513538" duration="25869000" />
       <workItem from="1469181135634" duration="11570000" />
-      <workItem from="1469429232213" duration="20165000" />
+      <workItem from="1469429232213" duration="20577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255550000" />
+    <option name="totallyTimeSpent" value="255962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +392,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2875298" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.046068307" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -979,20 +979,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript进阶学习/14-你真的懂javascript吗?经典题目详解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1102,6 +1088,20 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="9075">
+            <caret line="520" column="3" selection-start-line="520" selection-start-column="3" selection-end-line="520" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
