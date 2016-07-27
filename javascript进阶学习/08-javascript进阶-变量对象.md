@@ -159,7 +159,6 @@ properties-indexes内部元素的个数等于arguments.length. properties-indexe
 例如：
 ```
 function foo(x, y, z) {
- 
   // 声明的函数参数数量arguments (x, y, z)
   alert(foo.length); // 3
  
@@ -170,24 +169,18 @@ function foo(x, y, z) {
   alert(arguments.callee === foo); // true
  
   // 参数共享
- 
   alert(x === arguments[0]); // true
   alert(x); // 10
- 
   arguments[0] = 20;
   alert(x); // 20
- 
   x = 30;
   alert(arguments[0]); // 30
  
   // 不过，没有传进来的参数z，和参数的第3个索引值是不共享的
-
   z = 40;
   alert(arguments[2]); // undefined
- 
   arguments[2] = 50;
   alert(z); // 40
- 
 }
  
 foo(10, 20);
