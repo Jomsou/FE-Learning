@@ -77,8 +77,11 @@ c.calculate(40); // 80
 `注意一点，this这个值在一个继承机制中，仍然是指向它原本属于的对象，而不是从原型链上找到它时，它所属于的对象。`
 例如，以上的例子，this.y是从b和c中获取的，而不是a。当然，你也发现了this.x是从a取的，因为是通过原型链机制找到的。
 
-如果一个对象的prototype没有显示的声明过或定义过，那么`__prototype__`的默认值就是object.prototype, 
-而`object.prototype也会有一个__prototype__, 这个就是原型链的终点了，被设置为null`。
+如果一个对象的prototype没有显示的声明过或定义过，那么`__proto__`的默认值就是object.prototype, 
+而`object.prototype也会有一个__proto__, 这个就是原型链的终点了，被设置为null`。
+```
+对象的__proto__属性指向其父类的原型对象。
+```
 
 下面的图示就是表示了上述a,b,c的继承关系
 ![原型链](./images/js-core-2.png)
@@ -143,7 +146,7 @@ console.log(
 
 上述图示可以看出，每一个object都有一个`prototype`. 构造函数Foo也拥有自己的`__proto__`, 也就是`Function.prototype`,
  而`Function.prototype的__proto__指向了Object.prototype`. 
- 重申一遍，  Foo.prototype只是一个显式的属性，也就是b和c的__proto__属性`。
+ 重申一遍，  Foo.prototype只是一个显式的属性，也就是b和c的`__proto__`属性。
 
 现在，我们已经了解了基本的object原理，那么我们接下去来看看ECMAScript里面的`程序执行环境[runtime program execution]`. 
 这就是通常称为的“`执行上下文堆栈”[execution context stack]`。每一个元素都可以抽象的理解为object。
@@ -207,6 +210,7 @@ foo(30);
 A variable object is a scope of data related with the execution context. 
 It’s a special object associated with the context and which stores variables and 
 function declarations are being defined within the context.
+
 变量对象(variable object) 是与执行上下文相关的 数据作用域(scope of data) 。
 它是与上下文关联的特殊对象，用于存储被定义在上下文中的 变量(variables) 和 函数声明(function declarations) 。
 ```
@@ -238,7 +242,10 @@ console.log(baz); // 引用错误，baz没有被定义
 在函数内部定义的变量与内部函数，在外部非直接可见并且不污染全局对象。
 使用 eval 的时候，我们同样会使用一个新的(eval创建)执行上下文。eval会使用全局变量对象或调用者的变量对象(eval的调用来源)。
 
-那函数以及自身的变量对象又是怎样的呢?在一个函数上下文中，变量对象被表示为活动对象(activation object)。
+那函数以及自身的变量对象又是怎样的呢?
+```
+在一个函数上下文中，变量对象被表示为活动对象(activation object)。
+```
 
 ## 活动对象(activation object)
 `当函数被调用者激活，这个特殊的活动对象(activation object) 就被创建了。`
