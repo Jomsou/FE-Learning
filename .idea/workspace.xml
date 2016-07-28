@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-18.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/15-02-链表其他题目.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/15-链表中倒数第k个节点.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/15-01-链表中倒数第k个节点.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -45,13 +43,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05-快速排序(2).js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05-快速排序(2).js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1034">
               <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15-02-链表其他题目.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/15-02-链表其他题目.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18-树的子结构.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -71,8 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript深入学习/03-全面解析module模式.md" />
-        <option value="$PROJECT_DIR$/前端知识点总结/04-面试题/00-实现javascript深拷贝函数.md" />
         <option value="$PROJECT_DIR$/javascript深入学习/04-立即调用的函数表达式.md" />
         <option value="$PROJECT_DIR$/javascript深入学习/06-javascript核心(进阶!).md" />
         <option value="$PROJECT_DIR$/javascript深入学习/07-javascript进阶-执行上下文.md" />
@@ -122,6 +150,8 @@
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
         <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/15-02-链表其他题目.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md" />
       </list>
     </option>
   </component>
@@ -221,24 +251,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="数据结构与算法javascript实现" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="数据结构与算法javascript实现" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00-排序算法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -387,12 +399,12 @@
       <workItem from="1469429232213" duration="24361000" />
       <workItem from="1469522014932" duration="6298000" />
       <workItem from="1469612679659" duration="1310000" />
-      <workItem from="1469687126317" duration="3018000" />
+      <workItem from="1469687126317" duration="3397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="270372000" />
+    <option name="totallyTimeSpent" value="270751000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,9 +417,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2907069" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2907069" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -455,32 +467,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/13-script标签引入脚本的三种情况.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-55">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/12-js文件放在页面最底部加载的原因.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1881">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/前端知识点总结/04-面试题/11-javascript在页面中的加载顺序.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1097,6 +1083,34 @@
           <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/15-02-链表其他题目.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
