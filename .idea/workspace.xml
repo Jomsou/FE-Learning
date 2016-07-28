@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/03-二维数组中的查找.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/03-二维数组中的查找.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/08-求旋转数组的最小数字.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/10-01-二进制中1的个数.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/10-02-code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/10-03-二进制使用的扩展.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/08-旋转数组的最小数字.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/10-二进制中1的个数.js" afterPath="$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -31,24 +32,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="06-重建二叉树.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="44">
-                <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,13 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" />
-        <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md" />
         <option value="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/15-web字体.md" />
         <option value="$PROJECT_DIR$/javascript深入学习/01-怎样编写高质量的javascript代码.md" />
         <option value="$PROJECT_DIR$/javascript深入学习/01-编写高质量的javascript代码(!!!).md" />
@@ -115,6 +92,13 @@
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/08-旋转数组的最小数字.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/08- 求旋转数组的最小数字.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/08-求旋转数组的最小数字.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/10-二进制中1的个数.md" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/10-code.js" />
+        <option value="$PROJECT_DIR$/经典算法题/剑指offer/10-03-二进制使用的扩展.md" />
       </list>
     </option>
   </component>
@@ -203,28 +187,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="经典算法题" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="剑指offer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -258,10 +220,7 @@
       <recent name="$PROJECT_DIR$/javascript深入学习/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.demo.js">
-    <configuration default="false" name="proxy-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="proxy-demo.js" working-dir="$PROJECT_DIR$/ES6新特性学习">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.10-code.js">
     <configuration default="false" name="05-快速排序(2).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-快速排序(2).js" working-dir="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
@@ -272,6 +231,9 @@
       <method />
     </configuration>
     <configuration default="false" name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="demo.js" working-dir="$PROJECT_DIR$/javascript进阶学习">
+      <method />
+    </configuration>
+    <configuration default="false" name="10-code.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/经典算法题/剑指offer/10-02-code.js" working-dir="$PROJECT_DIR$/经典算法题/剑指offer">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -316,19 +278,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.00-demo.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.00-demo.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.10-code.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.demo.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.00-demo.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.proxy-demo.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.10-code.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.demo.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.00-demo.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
       </list>
     </recent_temporary>
   </component>
@@ -370,12 +332,12 @@
       <workItem from="1469429232213" duration="24361000" />
       <workItem from="1469522014932" duration="6298000" />
       <workItem from="1469612679659" duration="1310000" />
-      <workItem from="1469687126317" duration="930000" />
+      <workItem from="1469687126317" duration="2181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="268284000" />
+    <option name="totallyTimeSpent" value="269535000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -388,24 +350,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2907069" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2907069" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24453552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39617488" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24453552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39617488" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -438,85 +400,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/09-多列布局.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/10-渐变.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="68" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="44" column="25" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="605">
-            <caret line="73" column="3" selection-start-line="73" selection-start-column="3" selection-end-line="73" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="605">
-            <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/15-web字体.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1066,6 +949,94 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法javascript实现/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/08-求旋转数组的最小数字.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/10-01-二进制中1的个数.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/10-03-二进制使用的扩展.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/经典算法题/剑指offer/10-02-code.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
