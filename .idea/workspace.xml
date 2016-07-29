@@ -2,454 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-css/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-javascript/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-nodejs相关/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/01-赋值运算符函数.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/48-不能被继承的类.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/06-数据结构与算法/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-其他零散知识点/04-React生命周期函数详解.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/其他/04-react生命周期函数详解.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ES6新特性学习/01-实例解析ES6 Proxy的应用场景.md" afterPath="$PROJECT_DIR$/03-javascript/06-ES6新特性学习/01-实例解析ES6 Proxy的应用场景.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/ES6新特性学习/proxy-demo.js" afterPath="$PROJECT_DIR$/03-javascript/06-ES6新特性学习/proxy-demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/01-MongoDB基础.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/01-MongoDB基础.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/02-常用命令,善用帮助文档.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/02-常用命令,善用帮助文档.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/03-学习过程中使用的数据库.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/03-学习过程中使用的数据库.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/04-文档插入与删除.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/04-文档插入与删除.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/05-文档更新(重要).md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/05-文档更新(重要).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/06-文档查询.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/06-文档查询.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/07-索引.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/07-索引.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/08-特殊索引和集合.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/08-特殊索引和集合.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/09-聚合(重要!!!).md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/09-聚合(重要!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/10-聚合(mapReduce!!!).md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/10-聚合(mapReduce!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/11-应用程序设计.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/11-应用程序设计.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/12-副本集.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/12-副本集.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/13-分片与集群.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/13-分片与集群.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/14-应用管理.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/14-应用管理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/15-数据管理.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/15-数据管理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/16-持久性.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/16-持久性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/17-服务器管理.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/17-服务器管理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MongoDB笔记/18-MongoDB监控与备份.md" afterPath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/18-MongoDB监控与备份.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/00-README.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/00-README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-01-使用border画三角形.html" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/03-01-使用border画三角形.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-01-边框图片border-image.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/03-01-边框图片border-image.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius画圆、半圆、扇形和椭圆.html" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius画圆、半圆、扇形和椭圆.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow实例.html" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow实例.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/07-css3盒模型属性.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/07-css3盒模型属性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/08-弹性布局flexbox.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/08-弹性布局flexbox.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/09-多列布局.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/09-多列布局.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/10-渐变.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/10-渐变.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/15-web字体.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/15-web字体.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/alpha-opacity.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/alpha-opacity.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/media-1.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/media-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/media-2.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/media-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/media-3.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/media-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/media-4.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/media-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/multi-bg.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/multi-bg.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/outline-border.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/outline-border.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-1.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-2.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-3.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/图解CSS3-核心技术与案例实战/images/pic-4.png" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/01-基础知识.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/01-基础知识.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/02-选择器.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/02-选择器.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/03-层叠和选择器权重.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/03-层叠和选择器权重.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/04-css样式的继承.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/04-css样式的继承.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/05-01-盒模型(!!!).md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/05-01-盒模型(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/05-02-外边距叠加.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/05-02-外边距叠加.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/06-01-块框和行内框.md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/06-01-块框和行内框.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/06-02-定位(!!!).md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/06-02-定位(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css学习笔记/精通CSS/07-浮动与清除浮动(!!!).md" afterPath="$PROJECT_DIR$/02-css/01-css学习笔记/精通CSS/07-浮动与清除浮动(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript函数式编程/01-简介.js" afterPath="$PROJECT_DIR$/03-javascript/04-javascript函数式编程/01-简介.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript函数式编程/02-一等函数与Applicative编程.js" afterPath="$PROJECT_DIR$/03-javascript/04-javascript函数式编程/02-一等函数与Applicative编程.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript函数式编程/03-变量的作用域和闭包,bind函数.js" afterPath="$PROJECT_DIR$/03-javascript/04-javascript函数式编程/03-变量的作用域和闭包,bind函数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript函数式编程/04-高阶函数.js" afterPath="$PROJECT_DIR$/03-javascript/04-javascript函数式编程/04-高阶函数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript函数式编程/05-由函数构建函数、柯里化.js" afterPath="$PROJECT_DIR$/03-javascript/04-javascript函数式编程/05-由函数构建函数、柯里化.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript函数式编程/06-递归.js" afterPath="$PROJECT_DIR$/03-javascript/04-javascript函数式编程/06-递归.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/01-RegExp对象和两种构建正则的方法.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/01-RegExp对象和两种构建正则的方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/02-String对象的正则方法.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/02-String对象的正则方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/03-RegExp对象的方法.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/03-RegExp对象的方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/04-正则中的普通字符.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/04-正则中的普通字符.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/05-正则表达式中的方括号[].md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/05-正则表达式中的方括号[].md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/06-元字符.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/06-元字符.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/07-特殊字符转义.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/07-特殊字符转义.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/08-量词.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/08-量词.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/09-贪婪模式与非贪婪模式.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/09-贪婪模式与非贪婪模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/10-占有字符和零宽度.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/10-占有字符和零宽度.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/11-环视.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/11-环视.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/12-捕获分组与反向引用.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/12-捕获分组与反向引用.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/13-常用的正则表达式例子.md" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/13-常用的正则表达式例子.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/images/reg-1.png" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/images/reg-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/images/reg-2.png" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/images/reg-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/images/reg-3.png" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/images/reg-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/images/reg-4.png" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/images/reg-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/images/reg-5.png" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/images/reg-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/images/reg-6.png" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/images/reg-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript正则表达式/regExpDemo.js" afterPath="$PROJECT_DIR$/03-javascript/03-javascript正则表达式/regExpDemo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-call、apply用法和bind实现.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-this的四种用法.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-this的四种用法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-函数节流throttle与防抖debounce.html" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-函数节流throttle与防抖debounce.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-简介、原型式继承与Object.create.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-简介、原型式继承与Object.create.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-闭包.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-闭包.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-高阶函数与柯里化Currying.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/00-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/01-单例模式singleton.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/01-单例模式singleton.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/02-策略模式strategy.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/02-策略模式strategy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/03-代理模式proxy.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/03-代理模式proxy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/04-迭代器模式iterator.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/04-迭代器模式iterator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/06-命令模式command.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/06-命令模式command.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/07-组合模式component.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/07-组合模式component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/08-模板方法模式templateMethod.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/08-模板方法模式templateMethod.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/09-享元模式(蝇量模式)flyweight.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/09-享元模式(蝇量模式)flyweight.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/10-责任链模式responsibilityChain.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/10-责任链模式responsibilityChain.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/11-中介者模式mediator.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/11-中介者模式mediator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/12-装饰者模式decorator.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/12-装饰者模式decorator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/13-状态模式state.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/13-状态模式state.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/14-适配器模式adaptor.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/14-适配器模式adaptor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/15-设计原则与编程技巧.md" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/15-设计原则与编程技巧.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript设计模式/16-(补充)工厂模式.md" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/16-(补充)工厂模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/01-编写高质量的javascript代码.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/01-编写高质量的javascript代码.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/02-函数声明与函数表达式.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/02-函数声明与函数表达式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/03-全面解析module模式.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/03-全面解析module模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/04-立即调用的函数表达式.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/04-立即调用的函数表达式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/05-原型链原理.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/05-原型链原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/06-javascript核心知识一览.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/06-javascript核心知识一览.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/07-javascript进阶-执行上下文.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/07-javascript进阶-执行上下文.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/08-javascript进阶-变量对象.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/08-javascript进阶-变量对象.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/09-javascript进阶-this关键字.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/09-javascript进阶-this关键字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/10-javascript进阶-作用域链1.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/10-javascript进阶-作用域链1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/10-javascript进阶-作用域链2.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/10-javascript进阶-作用域链2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/11-javascript进阶-函数详解.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/11-javascript进阶-函数详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/12-javascript进阶-闭包详解.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/12-javascript进阶-闭包详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/13-javascript进阶-求值策略.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/13-javascript进阶-求值策略.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/14-你真的懂javascript吗?经典题目详解.md" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/14-你真的懂javascript吗?经典题目详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/demo.js" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/demo.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-1.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-10.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-11.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-2.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-3.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-4.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-5.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-6.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-7.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-8.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/js-core-9.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/js-core-9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/prototype-chain-1.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/prototype-chain-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/prototype-chain-2.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/prototype-chain-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/scope-chain-1.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/scope-chain-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/scope-chain-2.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/scope-chain-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/javascript进阶学习/images/scope-chain-3.png" afterPath="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/images/scope-chain-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs知识点/01-commonJS规范,AMD,CMD.md" afterPath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/01-commonJS规范,AMD,CMD.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs知识点/02-NodeJS内存泄漏.md" afterPath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/02-NodeJS内存泄漏.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs知识点/03-nodejs上线部署要做的事.md" afterPath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/03-nodejs上线部署要做的事.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs知识点/04-exports和module.exports的区别.md" afterPath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/04-exports和module.exports的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/nodejs知识点/05-mongoose.md" afterPath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/05-mongoose.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/其他/01-git基本使用.pdf" afterPath="$PROJECT_DIR$/07-其他零散知识点/01-git基本使用.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/其他/02-MarkDown语法指南.md" afterPath="$PROJECT_DIR$/07-其他零散知识点/02-MarkDown语法指南.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/其他/03-01-理解Redux原理.md" afterPath="$PROJECT_DIR$/07-其他零散知识点/03-01-理解Redux原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/其他/03-02-理解React-Redux.md" afterPath="$PROJECT_DIR$/07-其他零散知识点/03-02-理解React-Redux.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/其他/05-React的DOM-Diff算法.md" afterPath="$PROJECT_DIR$/07-其他零散知识点/05-React的DOM-Diff算法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/00-浏览器工作原理(前端必读!).md" afterPath="$PROJECT_DIR$/01-html/00-浏览器工作原理(前端必读!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/01-doctype( 文档类型)的作用.md" afterPath="$PROJECT_DIR$/01-html/01-doctype( 文档类型)的作用.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/02-浏览器的标准模式与怪异模式区别.md" afterPath="$PROJECT_DIR$/01-html/02-浏览器的标准模式与怪异模式区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/03-data-xxx属性的作用.md" afterPath="$PROJECT_DIR$/01-html/03-data-xxx属性的作用.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/04-00-cookie深度详解.md" afterPath="$PROJECT_DIR$/01-html/04-00-cookie深度详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/04-01-cookie和session详解.md" afterPath="$PROJECT_DIR$/01-html/04-01-cookie和session详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/04-02-cookie和session, sessionStorage和localStorage.md" afterPath="$PROJECT_DIR$/01-html/04-02-cookie和session, sessionStorage和localStorage.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/05-GET和POST区别.md" afterPath="$PROJECT_DIR$/01-html/05-GET和POST区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/07-web语义化的理解.md" afterPath="$PROJECT_DIR$/01-html/07-web语义化的理解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/08-Html5新元素.md" afterPath="$PROJECT_DIR$/01-html/08-Html5新元素.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/09-各浏览器并行下载资源数.md" afterPath="$PROJECT_DIR$/01-html/09-各浏览器并行下载资源数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/10-http常见状态码和304缓存原理.md" afterPath="$PROJECT_DIR$/01-html/10-http常见状态码和304缓存原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/11-01-meta标签属性详解1.md" afterPath="$PROJECT_DIR$/01-html/11-01-meta标签属性详解1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/11-02-meta标签属性详解2.md" afterPath="$PROJECT_DIR$/01-html/11-02-meta标签属性详解2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/12-viewport详解.md" afterPath="$PROJECT_DIR$/01-html/12-viewport详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/13-移动web的事件总结.md" afterPath="$PROJECT_DIR$/01-html/13-移动web的事件总结.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-1.png" afterPath="$PROJECT_DIR$/01-html/images/browser-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-10.png" afterPath="$PROJECT_DIR$/01-html/images/browser-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-11.png" afterPath="$PROJECT_DIR$/01-html/images/browser-11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-12.png" afterPath="$PROJECT_DIR$/01-html/images/browser-12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-13.png" afterPath="$PROJECT_DIR$/01-html/images/browser-13.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-14-1.png" afterPath="$PROJECT_DIR$/01-html/images/browser-14-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-14-2.png" afterPath="$PROJECT_DIR$/01-html/images/browser-14-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-14-3.png" afterPath="$PROJECT_DIR$/01-html/images/browser-14-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-14.png" afterPath="$PROJECT_DIR$/01-html/images/browser-14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-15.png" afterPath="$PROJECT_DIR$/01-html/images/browser-15.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-16.png" afterPath="$PROJECT_DIR$/01-html/images/browser-16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-2.png" afterPath="$PROJECT_DIR$/01-html/images/browser-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-20.png" afterPath="$PROJECT_DIR$/01-html/images/browser-20.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-3.png" afterPath="$PROJECT_DIR$/01-html/images/browser-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-4.png" afterPath="$PROJECT_DIR$/01-html/images/browser-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-5.png" afterPath="$PROJECT_DIR$/01-html/images/browser-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-6.png" afterPath="$PROJECT_DIR$/01-html/images/browser-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-7-1.png" afterPath="$PROJECT_DIR$/01-html/images/browser-7-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-7.png" afterPath="$PROJECT_DIR$/01-html/images/browser-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-8.png" afterPath="$PROJECT_DIR$/01-html/images/browser-8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/browser-9.png" afterPath="$PROJECT_DIR$/01-html/images/browser-9.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-1.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/mobile-event-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-2.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/mobile-event-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-3.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/mobile-event-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/01-html/images/mobile-event-4.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/mobile-event-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/00-常见的兼容性问题.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/00-常见的兼容性问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/00-渐进增强和优雅降级.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/00-渐进增强和优雅降级.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/01-1-什么是css-reset.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/01-1-什么是css-reset.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/01-2-不同浏览器各个元素的margin和padding.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/01-2-不同浏览器各个元素的margin和padding.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/02-浮动的原理和工作方式,产生的影响.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/02-浮动的原理和工作方式,产生的影响.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/03-CSS常用的选择器、计算权重、CSS性能.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/03-CSS常用的选择器、计算权重、CSS性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/04-CSS各种居中的方法.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/04-CSS各种居中的方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/05-清除浮动的方式.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/05-清除浮动的方式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/06-css预处理.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/06-css预处理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/07-01-盒模型.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/07-01-盒模型.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/07-02-box-sizing属性.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/07-02-box-sizing属性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/08-01-inline、inline-block、block区别.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/08-01-inline、inline-block、block区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/08-02-内联元素可不可以设置宽高?.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/08-02-内联元素可不可以设置宽高?.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/08-03-内联元素有没有盒模型?.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/08-03-内联元素有没有盒模型?.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/09-4种定位方式的区别.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/09-4种定位方式的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/10-css link和@import.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/10-css link和@import.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/11-display属性.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/11-display属性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/12-css选择器的性能.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/12-css选择器的性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/13-css优化.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/13-css优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/14-css选择器权重计算.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/14-css选择器权重计算.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/15-使用css实现简单的幻灯片效果.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/15-使用css实现简单的幻灯片效果.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/demo1-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/demo1-左侧定宽,右侧自适应布局如何实现.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/demo2-圣杯与双飞翼布局,负边距.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/demo2-圣杯与双飞翼布局,负边距.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/css-weight-1.png" afterPath="$PROJECT_DIR$/05-前端面试题总结/images/css-weight-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/css-weight-2.png" afterPath="$PROJECT_DIR$/05-前端面试题总结/images/css-weight-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-1.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-2.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-3.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-4.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-5.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-6.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-7.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/02-css/images/negative-margin-8.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/negative-margin-8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-01-javascript内存泄漏的4种情况.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/00-01-javascript内存泄漏的4种情况.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-02-作用域链原理.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/00-02-作用域链原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-03-javascript函数从定义到执行.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/00-03-javascript函数从定义到执行.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/00-04-原型链原理.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/00-04-原型链原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/01-原型式继承与Object.create.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/01-原型式继承与Object.create.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/02-this的四种用法.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/02-this的四种用法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-01-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/03-01-call、apply用法和bind实现.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/03-2-一道面试题.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/03-2-一道面试题.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/04-闭包.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/04-闭包.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/05-高阶函数与柯里化Currying.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/05-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/06-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/06-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/07-函数节流throttle与防抖debounce.html" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/07-函数节流throttle与防抖debounce.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/08-Ajax工作原理.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/08-Ajax工作原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/09-01-跨域方式.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/09-01-跨域方式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/09-02-跨域方式的整理.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/09-02-跨域方式的整理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/10-前端性能优化.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/10-前端性能优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/11-协商缓存与强缓存.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/11-协商缓存与强缓存.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/12-XSS和CSRF.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/12-XSS和CSRF.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/13-DOM事件捕获和冒泡详解.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/13-DOM事件捕获和冒泡详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/14-attribute和property区别.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/14-attribute和property区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/15-document的ready和window的load事件区别.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/15-document的ready和window的load事件区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/16-null和undefined区别.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/16-null和undefined区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/17-new操作符具体做了什么.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/17-new操作符具体做了什么.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/18-javascript严格模式.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/18-javascript严格模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/19-为什么不要对数组使用for-in循环.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/19-为什么不要对数组使用for-in循环.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/20-js事件绑定e和this区别,e.target和e.currentTarget区别.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/20-js事件绑定e和this区别,e.target和e.currentTarget区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/21-移动web的事件总结.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/21-移动web的事件总结.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/22-CommonJS、AMD、CMD详解.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/22-CommonJS、AMD、CMD详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/23-新建一个对象的过程中发生了什么.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/23-新建一个对象的过程中发生了什么.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/event-phase.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/event-phase.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/mobile-event-1.png" afterPath="$PROJECT_DIR$/01-html/images/mobile-event-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/mobile-event-2.png" afterPath="$PROJECT_DIR$/01-html/images/mobile-event-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/mobile-event-3.png" afterPath="$PROJECT_DIR$/01-html/images/mobile-event-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/mobile-event-4.png" afterPath="$PROJECT_DIR$/01-html/images/mobile-event-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/prototype-chain-1.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/prototype-chain-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/prototype-chain-2.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/prototype-chain-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/scope-chain-1.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/scope-chain-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/scope-chain-2.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/scope-chain-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/03-javascript/images/scope-chain-3.png" afterPath="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images/scope-chain-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/00-实现javascript深拷贝函数.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/00-实现javascript深拷贝函数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/00-被问到最多的问题.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/00-被问到最多的问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/01-面试官问:你有什么想问我的.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/01-面试官问:你有什么想问我的.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/02-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/03-css3新特性有哪些,带来的好处.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/03-css3新特性有哪些,带来的好处.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/04-javascript数据类型.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/04-javascript数据类型.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/05-常问到的http状态码.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/05-常问到的http状态码.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/06-手写原生js实现事件代理.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/06-手写原生js实现事件代理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/07-浏览器从输入网址到展示页面详细过程.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/07-浏览器从输入网址到展示页面详细过程.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/08-01-js、css和html加载顺序和加载过程.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/08-01-js、css和html加载顺序和加载过程.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/08-02-浏览器加载、渲染html和加载js的顺序.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/09-浏览器加载和渲染html的顺序(!!).md" afterPath="$PROJECT_DIR$/05-前端面试题总结/09-浏览器加载和渲染html的顺序(!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/10-页面中js和css放置位置对性能的影响.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/10-页面中js和css放置位置对性能的影响.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/11-javascript在页面中的加载顺序.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/11-javascript在页面中的加载顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/12-js文件放在页面最底部加载的原因.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/12-js文件放在页面最底部加载的原因.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/13-script标签引入脚本的三种情况.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/13-script标签引入脚本的三种情况.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/14-javascript的执行顺序.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/14-javascript的执行顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/15-css选择器的性能.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/15-css选择器的性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/16-css优化.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/16-css优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/17-css选择器权重计算.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/17-css选择器权重计算.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/18-自定义事件.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/18-自定义事件.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/19-svg与canvas的区别.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/19-svg与canvas的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/20-jpg与png的区别以及使用场景.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/20-jpg与png的区别以及使用场景.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-01-meta标签属性详解1.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/21-01-meta标签属性详解1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/21-02-meta标签属性详解2.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/21-02-meta标签属性详解2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/22-各个浏览器的内核.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/22-各个浏览器的内核.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/23-原生js实现jquery的ready方法.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/23-原生js实现jquery的ready方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/24-网页中有大量图片的性能优化.md" afterPath="$PROJECT_DIR$/05-前端面试题总结/24-网页中有大量图片的性能优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/25-gulp和webpack的区别 .md" afterPath="$PROJECT_DIR$/05-前端面试题总结/25-gulp和webpack的区别 .md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/images/css-weight-1.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/css-weight-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/前端知识点总结/04-面试题/images/css-weight-2.png" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/images/css-weight-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/00-斐波那契数列.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/00-斐波那契数列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/01-Two-Sum.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/01-Two-Sum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/07-Reverse Integer.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/07-Reverse Integer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/08-String to Integer.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/08-String to Integer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/09-Palindrome Number.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/09-Palindrome Number.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/14-LongestCommonPrefix.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/14-LongestCommonPrefix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/20-Valid Parentheses.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/20-Valid Parentheses.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/242-Valid Anagram.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/242-Valid Anagram.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/347-Top K Frequent Elements.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/347-Top K Frequent Elements.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法(LeetCode)/53-Maximum Subarray.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/02-数据结构与算法(LeetCode)/53-Maximum Subarray.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-TestDataGenerator.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/00-TestDataGenerator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/00-排序算法分析比较.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/01-冒泡排序.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/01-冒泡排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/02-选择排序.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/02-选择排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/03-插入排序.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/03-插入排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/04-希尔排序.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/04-希尔排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-掌握快排(!!!!!).md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-掌握快排(!!!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/06-归并排序(js版,数组方法很方便!!).js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(js版,数组方法很方便!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/06-归并排序(通用版本!!).js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(通用版本!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/06-掌握归并排序(!!!!!).md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-掌握归并排序(!!!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-查找算法/01-线性查找.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-查找算法/01-线性查找.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-查找算法/02-二分查找.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-查找算法/02-二分查找.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/00-需要非常熟练掌握的数据结构.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/00-需要非常熟练掌握的数据结构.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/01-栈的应用/01-数制转换.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/01-栈的应用/01-数制转换.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/01-栈的应用/02-判断回文数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/01-栈的应用/02-判断回文数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/01-栈的应用/03-括号匹配检验.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/01-栈的应用/03-括号匹配检验.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/01-栈的应用/04-表达式求值.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/01-栈的应用/04-表达式求值.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/01-栈的应用/05-两个栈实现队列.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/01-栈的应用/05-两个栈实现队列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/02-队列的应用/01-实现双向队列.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/02-队列的应用/01-实现双向队列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/02-队列的应用/02-使用两个队列实现栈.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/02-队列的应用/02-使用两个队列实现栈.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/03-链表的应用/01-链表倒数第K个节点.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/03-链表的应用/01-链表倒数第K个节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/03-链表的应用/02-O(1)复杂度删除链表某个节点.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/03-链表的应用/02-O(1)复杂度删除链表某个节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/03-链表的应用/03-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/01_List.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/01_List.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/02_Stack.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/02_Stack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/03_Queue.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/03_Queue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/04-01-LinkedList.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-01-LinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/04-02-DoublyLinkedList.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-02-DoublyLinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/04-03-CircularLinkedList.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-03-CircularLinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/05-Dictionary.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/05-Dictionary.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/06-HashTable.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/06-HashTable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/07-Set.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/07-Set.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/08-BinarySearchTree.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/08-BinarySearchTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/data-structures/09-Graph.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/data-structures/09-Graph.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/02-二叉树深度优先遍历(递归解法).md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/02-二叉树深度优先遍历(递归解法).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/03-二叉树深度优先遍历(非递归解法).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/04-二叉树的广度优先遍历.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/04-二叉树的广度优先遍历.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/05-快排及其时间复杂度分析.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/00-10道海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/00-10道海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/README.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/01-赋值运算符函数.md" afterPath="$PROJECT_DIR$/04-nodejs相关/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/02-实现单例模式.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/02-实现单例模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/03-二维数组中的查找.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/03-二维数组中的查找.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/04-替换空格.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/05-从尾到头打印链表.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/06-重建二叉树.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/06-重建二叉树.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/07-用两个栈实现队列.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/07-用两个栈实现队列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/08-求旋转数组的最小数字.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/08-求旋转数组的最小数字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/09-斐波那契数列.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/09-斐波那契数列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/10-01-二进制中1的个数.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/10-01-二进制中1的个数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/10-02-code.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/10-02-code.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/10-03-二进制使用的扩展.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/10-03-二进制使用的扩展.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/11-数值的整数次方.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/12-打印1到最大的n位数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/13-O(1)时间删除链表节点.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/13-O(1)时间删除链表节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/15-01-链表中倒数第k个节点.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/15-01-链表中倒数第k个节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/15-02-链表其他题目.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/15-02-链表其他题目.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/16-反转链表.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/16-反转链表.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/17-合并两个有序链表.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/17-合并两个有序链表.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/18-树的子结构.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/19-二叉树的镜像.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/19-二叉树的镜像.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/20-顺时针打印矩阵.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/20-顺时针打印矩阵.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/21-包含min函数的栈.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/22-栈的压入、弹出序列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/23-从上往下打印二叉树.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/23-从上往下打印二叉树.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/25-二叉树中和为某一值得路径.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/25-二叉树中和为某一值得路径.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/26-复杂链表的复制.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/26-复杂链表的复制.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/27-二叉搜索树与双向链表.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/27-二叉搜索树与双向链表.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/28-字符串的排列.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/28-字符串的排列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/29-01-数组中出现次数超过一半的数字.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/29-01-数组中出现次数超过一半的数字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/29-02-求出数组中任意第K大的数字.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/29-02-求出数组中任意第K大的数字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/30-最小的k个数.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/30-最小的k个数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/31-连续子数组的最大和.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/31-连续子数组的最大和.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/32-从1到n整数中1出现的次数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/32-从1到n整数中1出现的次数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/33-把数组排成最小的数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/33-把数组排成最小的数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/34-丑数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/34-丑数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/35-第一个只出现一次的字符.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/35-第一个只出现一次的字符.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/36-数组中的逆序对.md" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/36-数组中的逆序对.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/37-两个链表的第一个公共节点.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/37-两个链表的第一个公共节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/38-数字在排序数组中出现的次数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/38-数字在排序数组中出现的次数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/39-二叉树的深度.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/39-二叉树的深度.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/40-数组中只出现一次的数字.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/40-数组中只出现一次的数字.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/41-和为s的两个数及和为s的连续正数序列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/42-翻转单词顺序和左旋转字符串.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/43-n的骰子的点数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/43-n的骰子的点数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/44-扑克牌的顺子.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/44-扑克牌的顺子.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/45-圆圈中最后剩下的数字.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/45-圆圈中最后剩下的数字.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/46-求1+2+3+...+n.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/46-求1+2+3+...+n.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/47-不用加减乘除做加法.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/47-不用加减乘除做加法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/48-不能被继承的类.md" afterPath="$PROJECT_DIR$/03-javascript/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/49-字符串转换成整数.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/49-字符串转换成整数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/50-树中两个节点的最低公共祖先.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-10.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-11.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-12.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-14.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-18.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-21.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-22.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-24.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-25.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-27.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-28.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-29.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-29.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-3.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-30.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-30.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-31.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-31.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-36.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-36.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-4.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-5.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-6.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-7.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/question-8.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/question-8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/singleton-1.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/singleton-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/singleton-2.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/singleton-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/singleton-3.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/singleton-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/singleton-4.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/singleton-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/经典算法题/剑指offer/images/singleton-5.png" afterPath="$PROJECT_DIR$/06-数据结构与算法/03-经典算法题/剑指offer/images/singleton-5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/demo1-一侧定宽,一侧宽度自适应布局的实现.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02-css/02-css零散知识点/demo1-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/02-css/02-css零散知识点/demo1-左侧定宽,右侧自适应布局如何实现.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -469,13 +24,30 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="demo1-左侧定宽,右侧自适应布局如何实现.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/demo1-左侧定宽,右侧自适应布局如何实现.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-803">
+                <caret line="104" column="3" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -485,9 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/javascript进阶学习/13-javascript进阶-求值策略.md" />
-        <option value="$PROJECT_DIR$/javascript进阶学习/01-编写高质量的javascript代码.md" />
-        <option value="$PROJECT_DIR$/javascript进阶学习/00-demo.js" />
         <option value="$PROJECT_DIR$/javascript进阶学习/02-揭秘命名函数表达式.md" />
         <option value="$PROJECT_DIR$/javascript进阶学习/03-全面解析module模式.md" />
         <option value="$PROJECT_DIR$/javascript进阶学习/04-立即调用的函数表达式.md" />
@@ -536,6 +105,9 @@
         <option value="$PROJECT_DIR$/02-css/README.md" />
         <option value="$PROJECT_DIR$/04-nodejs相关/README.md" />
         <option value="$PROJECT_DIR$/06-数据结构与算法/README.md" />
+        <option value="$PROJECT_DIR$/02-css/02-css零散知识点/test.html" />
+        <option value="$PROJECT_DIR$/02-css/02-css零散知识点/demo1.html" />
+        <option value="$PROJECT_DIR$/02-css/02-css零散知识点/demo1-左侧定宽,右侧自适应布局如何实现.md" />
       </list>
     </option>
   </component>
@@ -574,6 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -592,16 +165,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-css零散知识点" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meet_you/trunk/trunk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -737,12 +341,13 @@
       <workItem from="1469429232213" duration="24361000" />
       <workItem from="1469522014932" duration="6298000" />
       <workItem from="1469612679659" duration="1310000" />
-      <workItem from="1469687126317" duration="6405000" />
+      <workItem from="1469687126317" duration="6554000" />
+      <workItem from="1469772565877" duration="1240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273759000" />
+    <option name="totallyTimeSpent" value="275148000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -757,22 +362,22 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2907069" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18427323" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24453552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39617488" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24453552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39617488" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -805,59 +410,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-javascript/02-javascript进阶学习/demo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/02-javascript进阶学习/14-你真的懂javascript吗?经典题目详解.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="517">
-            <caret line="241" column="2" selection-start-line="241" selection-start-column="2" selection-end-line="241" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/02-javascript进阶学习/05-原型链原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="71" column="27" selection-start-line="71" selection-start-column="27" selection-end-line="71" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/02-javascript进阶学习/06-javascript核心知识一览.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="229" column="26" selection-start-line="229" selection-start-column="26" selection-end-line="229" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-css/01-css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-其他零散知识点/04-React生命周期函数详解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1046,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1054,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-396">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1190,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1034">
           <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1226,9 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1393,9 +935,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1480,6 +1019,64 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/15-使用css实现简单的幻灯片效果.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="35" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/14-css选择器权重计算.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1419">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/demo1-一侧定宽,一侧宽度自适应布局的实现.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/demo1-左侧定宽,右侧自适应布局如何实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-803">
+            <caret line="104" column="3" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />

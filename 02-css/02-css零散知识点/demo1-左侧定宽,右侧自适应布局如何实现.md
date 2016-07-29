@@ -36,7 +36,8 @@
 其中，sidebar让他浮动，并设置了一个宽度；而content没有设置宽度。
 
 注意html中必须使用div标签，不要妄图使用什么p标签来达到目的。
-因为div有个默认属性，即如果不设置宽度，那他会自动填满他的父标签的宽度。这里的content就是例子。
+因为div有个默认属性，即如果不设置宽度，那他会自动填满他的父标签的宽度。
+这里的content就是例子。
 
 当然我们不能让他填满了，填满了他就不能和sidebar保持同一行了。我们给他设置一个margin。
 由于sidebar在右边，所以我们设置content的margin-right值，值比sidebar的宽度大一点点——以便区分他们的范围。例子中是310.
@@ -51,11 +52,13 @@
 而且无论content和sidebar谁更长，都不会对布局造成影响.
  
 但实际上这个方法有个很老火的限制——html中sidebar必须在content之前！
-但我需要sidebar在content之后！因为我的content里面才是网页的主要内容，我不想主要内容反而排在次要内容后面。
+但我需要sidebar在content之后！
+`因为我的content里面才是网页的主要内容，我不想主要内容反而排在次要内容后面。`
 
 但如果sidebar在content之后，那上面的一切都会化为泡影。
 
-可能有的人不理解，说你干嘛非要sidebar在后面呢？这个问题说来话长，反正问题就是——content必须在sidebar之前，但content宽度要自适应，怎么办？
+可能有的人不理解，说你干嘛非要sidebar在后面呢？这个问题说来话长，反正问题就是——content必须在sidebar之前，
+但content宽度要自适应，怎么办？
 
 下面有两个办法，不过我们先把html结构改成我们想要的样子：
 
@@ -67,9 +70,10 @@
 ```
 
 
-### 2，固定宽度区使用绝对定位，自适应区照例设置margin
+### 2.固定宽度区使用绝对定位，自适应区照例设置margin
 
-我们把sidebar扔掉，只对content设置margin，那么我们会发现content的宽度就已经变成自适应了——于是content对sidebar说，我的宽度，与你无关。
+我们把sidebar扔掉，只对content设置margin，那么我们会发现content的宽度就已经变成自适应了——于是content对sidebar说，
+我的宽度，与你无关。
 
 content很容易就搞定了，此时来看看sidebar，他迫不得已抛弃了float。我们来看看sidebar的特点：在右边，宽度300，
 他的定位对content不影响——很明显，一个绝对主义分子诞生了。
@@ -91,22 +95,19 @@ content很容易就搞定了，此时来看看sidebar，他迫不得已抛弃了
 这段css中要注意给wrap加上了相对定位，以免sidebar太绝对了跑到整个网页的右上角而不是wrap的右上角。
 
 好像完成了？在没有看footer的表现时，我很欣慰。
-我们来把sidebar加长——增长100px！不要一年，只要一条内裤！哦，，，只要一句代码。
-
+我们来`把sidebar高度加高——增长100px`！不要一年，只要一条内裤！哦，，，只要一句代码。
 但是，footer怎么还是在那儿呢？怎么没有自动往下走呢？footer说——我不给绝对主义者让位！
-
 其实这与footer无关，而是因为wrap对sidebar的无视造成的——你再长，我还是没感觉。
-
 看来这种定位方式只能满足sidebar自己，但对他的兄弟们却毫无益处。
 
 ### 3，float与margin齐上阵
-
 经过前面的教训，我们重新确立了这个自适应宽度布局必须要达成的条件：
-
-sidebar宽度固定，content宽度自适应
-content要在sidebar之前
-后面的元素要能正常定位，不能受影响
-由于绝对定位会让其他元素无视他的存在，所以绝对定位的方式必须抛弃。
+```
+    sidebar宽度固定，content宽度自适应
+    content要在sidebar之前
+    后面的元素要能正常定位，不能受影响
+    由于绝对定位会让其他元素无视他的存在，所以绝对定位的方式必须抛弃。
+```
 
 如果content和sidebar一样，都用float，那content的自适应宽度就没戏了;
 如果不给content加float，那sidebar又会跑到下一行去。
