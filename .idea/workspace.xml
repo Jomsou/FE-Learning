@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/00-Http协议字段详解.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/01-规则1: 减少Http请求.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/02-规则2: 使用内容分发网络CDN.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/03-规则3: 添加Expires头.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/04-规则4: 开启GZip压缩.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/06-规则6: 将脚本放在底部.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/07-规则7: 避免css表达式.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/08-规则8: 使用外部js和css.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/09-规则9: 减少DNS查找.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/10-规则10: 精简js和css.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/11-规则11: 避免重定向.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/README.md" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,24 +32,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="05-规则5: 将样式表放在顶部.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="44">
-                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,16 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/08- 求旋转数组的最小数字.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/08-求旋转数组的最小数字.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/10-二进制中1的个数.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/10-code.js" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/10-03-二进制使用的扩展.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/11-数值的整数次方.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/12-打印1到最大的n位数.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
-        <option value="$PROJECT_DIR$/数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/15-02-链表其他题目.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.md" />
@@ -113,6 +89,16 @@
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/03-添加Expires头.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/04-开启GZip压缩.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/06-规则6: 将脚本放在底部.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/07-规则7: 避免css表达式.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/08-规则8: 使用外部js和css.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/09-规则9: 减少DNS查找.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/10-规则10: 精简javascript.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/10-规则10: 精简js和css.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/11-规则11: 避免重定向.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
+        <option value="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
       </list>
     </option>
   </component>
@@ -335,12 +321,12 @@
       <workItem from="1470019964590" duration="69000" />
       <workItem from="1470109717796" duration="967000" />
       <workItem from="1470125966495" duration="2611000" />
-      <workItem from="1470188976699" duration="7654000" />
+      <workItem from="1470188976699" duration="9762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287725000" />
+    <option name="totallyTimeSpent" value="289833000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -353,9 +339,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29388404" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533757" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -421,102 +407,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/12-打印1到最大的n位数.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/14-调整数组顺序使奇数位于偶数前面.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1034">
-          <caret line="65" column="31" selection-start-line="65" selection-start-column="31" selection-end-line="65" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/15-02-链表其他题目.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/18-树的子结构.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/19-二叉树的镜像.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/21-包含min函数的栈.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/images/question-24.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/22-栈的压入、弹出序列.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -978,20 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/00-Http协议字段详解.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/01-规则1: 减少Http请求.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1000,20 +876,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="374">
             <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/02-规则2: 使用内容分发网络CDN.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1048,7 +910,133 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/06-规则6: 将脚本放在底部.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/07-规则7: 避免css表达式.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/08-规则8: 使用外部js和css.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/10-规则10: 精简js和css.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/09-规则9: 减少DNS查找.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/11-规则11: 避免重定向.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -1056,6 +1044,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="44">
             <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/00-Http协议字段详解.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/02-规则2: 使用内容分发网络CDN.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
