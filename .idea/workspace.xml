@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-跨域方式.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-浏览器同源政策和跨域.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-浏览器同源政策和跨域.md" afterPath="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-浏览器同源政策和跨域.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +30,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="6490">
-                <caret line="295" column="16" selection-start-line="295" selection-start-column="16" selection-end-line="295" selection-end-column="16" />
+              <first_editor relative-caret-position="141">
+                <caret line="233" column="26" selection-start-line="233" selection-start-column="26" selection-end-line="233" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -347,12 +346,12 @@
       <workItem from="1470019964590" duration="69000" />
       <workItem from="1470109717796" duration="967000" />
       <workItem from="1470125966495" duration="2611000" />
-      <workItem from="1470188976699" duration="1988000" />
+      <workItem from="1470188976699" duration="2045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282059000" />
+    <option name="totallyTimeSpent" value="282116000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1054,8 +1053,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="6490">
-            <caret line="295" column="16" selection-start-line="295" selection-start-column="16" selection-end-line="295" selection-end-column="16" />
+          <first_editor relative-caret-position="141">
+            <caret line="233" column="26" selection-start-line="233" selection-start-column="26" selection-end-line="233" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
