@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/dp-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/02-动态规划详解.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,12 +25,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02-动态规划详解.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/02-动态规划详解.md">
+      <file leaf-file-name="05-从尾到头打印链表.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="539">
-                <caret line="295" column="3" selection-start-line="295" selection-start-column="3" selection-end-line="295" selection-end-column="3" />
+              <first_editor relative-caret-position="73">
+                <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,8 +46,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -63,14 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/25-二叉树中和为某一值得路径.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/27-二叉搜索树与双向链表.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/28-字符串的排列.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/29-数组中出现次数超过一半的数字.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/29-02-求出数组中任意第K大的数字.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/30-最小的k个数.md" />
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/31-连续子数组的最大和.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/36-数组中的逆序对.md" />
         <option value="$PROJECT_DIR$/03-javascript/README.md" />
         <option value="$PROJECT_DIR$/02-css/README.md" />
@@ -114,6 +100,14 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/02-动态规划详解.md" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(通用版本!!).js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(js版,数组方法很方便!!).js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.md" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/test.js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md" />
       </list>
     </option>
   </component>
@@ -220,7 +214,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="剑指offer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,20 +251,20 @@
       <recent name="$PROJECT_DIR$/javascript进阶学习/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.05-快速排序(2).js">
-    <configuration default="false" name="05-快速排序(2).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration default="false" name="06-归并排序(js版,数组方法很方便!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-归并排序(js版,数组方法很方便!!).js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
-    <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/03-插入排序.js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
+    <configuration default="false" name="05-快速排序(1!!!!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-快速排序(1!!!!!).js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
-    <configuration default="false" name="00-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="00-demo.js" working-dir="$PROJECT_DIR$/03-javascript/02-javascript进阶学习">
+    <configuration default="false" name="07-堆排序(!!!!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-堆排序(!!!!!).js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
-    <configuration default="false" name="demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/03-javascript/02-javascript进阶学习/demo.js" working-dir="$PROJECT_DIR$/03-javascript/02-javascript进阶学习">
+    <configuration default="false" name="04-替换空格.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-替换空格.js" working-dir="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer">
       <method />
     </configuration>
-    <configuration default="false" name="10-code.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/10-02-code.js" working-dir="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/07-数据结构与算法">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -315,19 +309,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.00-demo.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.demo.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.10-code.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.06-归并排序(js版,数组方法很方便!!).js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.07-堆排序(!!!!!).js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.04-替换空格.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.05-快速排序(2).js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.10-code.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.demo.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.00-demo.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.04-替换空格.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.07-堆排序(!!!!!).js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.06-归并排序(js版,数组方法很方便!!).js" />
       </list>
     </recent_temporary>
   </component>
@@ -379,12 +373,12 @@
       <workItem from="1470188976699" duration="9872000" />
       <workItem from="1470273178874" duration="2220000" />
       <workItem from="1470290205238" duration="30000" />
-      <workItem from="1470297796597" duration="998000" />
+      <workItem from="1470297796597" duration="5304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="293191000" />
+    <option name="totallyTimeSpent" value="297497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,24 +391,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1429706" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26370135" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24383561" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3958904" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24453552" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39617488" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -448,176 +442,15 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="14" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
-        <watch expression="stack" />
-        <watch expression="number / base" />
-        <watch expression="a1[i]" />
-        <watch expression="i" language="JavaScript" />
-        <watch expression="j" language="JavaScript" />
-        <watch expression="a2[j]" language="JavaScript" />
-        <watch expression="result" language="JavaScript" />
-        <watch expression="a1" language="JavaScript" />
-        <watch expression="a2" language="JavaScript" />
+        <watch expression="a" language="JavaScript" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/29-01-数组中出现次数超过一半的数字.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/29-02-求出数组中任意第K大的数字.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/30-最小的k个数.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/31-连续子数组的最大和.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/33-把数组排成最小的数.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/36-数组中的逆序对.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-html/00-浏览器工作原理(前端必读!).md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="18" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-css/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-nodejs相关/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="14" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-css/02-css零散知识点/test.html" />
     <entry file="file://$PROJECT_DIR$/02-css/01-css基础知识点/15-使用css实现简单的幻灯片效果.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1035,6 +868,7 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1672">
             <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1080,6 +914,128 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="539">
             <caret line="295" column="3" selection-start-line="295" selection-start-column="3" selection-end-line="295" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(js版,数组方法很方便!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(2).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/07-堆排序(!!!!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="85" column="32" selection-start-line="85" selection-start-column="32" selection-end-line="85" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/02-实现单例模式.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/03-二维数组中的查找.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/16-反转链表.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(通用版本!!).js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="73">
+            <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             <folding />
           </first_editor>
           <second_editor />
