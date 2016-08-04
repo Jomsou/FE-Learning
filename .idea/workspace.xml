@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01-彻底解析Hash表算法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md">
+      <file leaf-file-name="00-常见的海量数据处理面试算法题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1672">
-                <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+              <first_editor relative-caret-position="8140">
+                <caret line="370" column="4" selection-start-line="370" selection-start-column="4" selection-end-line="370" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/25-二叉树中和为某一值得路径.md" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" />
       </list>
     </option>
   </component>
@@ -347,12 +347,12 @@
       <workItem from="1470109717796" duration="967000" />
       <workItem from="1470125966495" duration="2611000" />
       <workItem from="1470188976699" duration="9872000" />
-      <workItem from="1470273178874" duration="1262000" />
+      <workItem from="1470273178874" duration="1978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291205000" />
+    <option name="totallyTimeSpent" value="291921000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,7 +367,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15726767" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123907864" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -433,19 +433,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/25-二叉树中和为某一值得路径.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1085,6 +1072,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1672">
             <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="8140">
+            <caret line="370" column="4" selection-start-line="370" selection-start-column="4" selection-end-line="370" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
