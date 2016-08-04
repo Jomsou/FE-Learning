@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/hash-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/hash-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-10道海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,8 +30,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="44">
-                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <first_editor relative-caret-position="-1672">
+                <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -351,12 +347,12 @@
       <workItem from="1470109717796" duration="967000" />
       <workItem from="1470125966495" duration="2611000" />
       <workItem from="1470188976699" duration="9872000" />
-      <workItem from="1470273178874" duration="916000" />
+      <workItem from="1470273178874" duration="1262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="290859000" />
+    <option name="totallyTimeSpent" value="291205000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,7 +367,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305004" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15726767" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1087,8 +1083,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <first_editor relative-caret-position="-1672">
+            <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
