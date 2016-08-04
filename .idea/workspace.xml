@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/06-规则6: 将脚本放在底部.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/07-规则7: 避免css表达式.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/08-规则8: 使用外部js和css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/09-规则9: 减少DNS查找.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/10-规则10: 精简js和css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/11-规则11: 避免重定向.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/hash-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images/hash-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-10道海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" afterPath="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,7 +26,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="01-彻底解析Hash表算法.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/经典算法题/剑指offer/18-树的子结构.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/21-包含min函数的栈.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/22-栈的压入、弹出序列.md" />
         <option value="$PROJECT_DIR$/经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md" />
@@ -99,6 +109,7 @@
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
       </list>
     </option>
   </component>
@@ -137,7 +148,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -166,13 +177,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05-高性能网站建设指南" />
+              <option name="myItemId" value="07-数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="03-经典算法题" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,19 +216,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images" />
+      <recent name="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images" />
+      <recent name="$PROJECT_DIR$/02-css" />
+      <recent name="$PROJECT_DIR$/经典算法题/剑指offer/images" />
+      <recent name="$PROJECT_DIR$/javascript进阶学习/images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/01-html" />
       <recent name="$PROJECT_DIR$/06-数据结构与算法" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/03-javascript" />
       <recent name="$PROJECT_DIR$/02-css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images" />
-      <recent name="$PROJECT_DIR$/02-css" />
-      <recent name="$PROJECT_DIR$/经典算法题/剑指offer/images" />
-      <recent name="$PROJECT_DIR$/javascript进阶学习/images" />
-      <recent name="$PROJECT_DIR$/javascript进阶学习" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.05-快速排序(2).js">
@@ -321,12 +350,13 @@
       <workItem from="1470019964590" duration="69000" />
       <workItem from="1470109717796" duration="967000" />
       <workItem from="1470125966495" duration="2611000" />
-      <workItem from="1470188976699" duration="9762000" />
+      <workItem from="1470188976699" duration="9872000" />
+      <workItem from="1470273178874" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289833000" />
+    <option name="totallyTimeSpent" value="290859000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -339,9 +369,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2533757" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305004" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -407,19 +437,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/22-栈的压入、弹出序列.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/24-二叉搜索树的后序遍历序列.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -852,22 +869,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="42" column="24" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/test2.html" />
+    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/test1.html" />
     <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/01-规则1: 减少Http请求.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1072,6 +1075,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="220">
             <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
