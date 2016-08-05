@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-常见的海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-彻底解析Hash表算法.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-彻底解析Hash表算法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-动态规划详解.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-红黑树详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-彻底解析Hash表算法.md" afterPath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-Hash表算法详解.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +31,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="04-堆详解.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="381">
+                <caret line="233" column="40" selection-start-line="233" selection-start-column="40" selection-end-line="233" selection-end-column="40" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,9 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-javascript/README.md" />
-        <option value="$PROJECT_DIR$/02-css/README.md" />
-        <option value="$PROJECT_DIR$/04-nodejs相关/README.md" />
         <option value="$PROJECT_DIR$/06-数据结构与算法/README.md" />
         <option value="$PROJECT_DIR$/02-css/02-css零散知识点/test.html" />
         <option value="$PROJECT_DIR$/02-css/02-css零散知识点/demo1.html" />
@@ -91,6 +112,9 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/test.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/test.js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-红黑树详解.md" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" />
       </list>
     </option>
   </component>
@@ -193,6 +217,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-数据结构与算法javascript实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="07-数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-数据结构与算法javascript实现" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="04-剑指offer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -219,17 +287,14 @@
       <recent name="$PROJECT_DIR$/03-javascript" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images" />
       <recent name="$PROJECT_DIR$/03-javascript/01-javascript零散知识点/images" />
       <recent name="$PROJECT_DIR$/02-css" />
-      <recent name="$PROJECT_DIR$/经典算法题/剑指offer/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.test.js">
-    <configuration default="false" name="06-归并排序(js版,数组方法很方便!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="06-归并排序(js版,数组方法很方便!!).js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.test.js (1)">
     <configuration default="false" name="05-快速排序(1!!!!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-快速排序(1!!!!!).js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法">
       <method />
     </configuration>
@@ -240,6 +305,9 @@
       <method />
     </configuration>
     <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/07-数据结构与算法">
+      <method />
+    </configuration>
+    <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -284,19 +352,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.06-归并排序(js版,数组方法很方便!!).js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.07-堆排序(!!!!!).js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.04-替换空格.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.07-堆排序(!!!!!).js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04-替换空格.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.04-替换空格.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.07-堆排序(!!!!!).js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.06-归并排序(js版,数组方法很方便!!).js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04-替换空格.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.07-堆排序(!!!!!).js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05-快速排序(1!!!!!).js" />
       </list>
     </recent_temporary>
   </component>
@@ -348,12 +416,12 @@
       <workItem from="1470188976699" duration="9872000" />
       <workItem from="1470273178874" duration="2220000" />
       <workItem from="1470290205238" duration="30000" />
-      <workItem from="1470297796597" duration="5876000" />
+      <workItem from="1470297796597" duration="7686000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298069000" />
+    <option name="totallyTimeSpent" value="299879000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,9 +434,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.324861" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20333599" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -426,52 +494,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-css/01-css基础知识点/demo1-一侧定宽,一侧宽度自适应布局的实现.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02-css/01-css基础知识点/demo1-左侧定宽,右侧自适应布局如何实现.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-803">
-            <caret line="104" column="3" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-03-10种方式实现跨域资源共享.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="2728">
-            <caret line="124" column="0" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/01-javascript基础知识点/12-02-CSRF攻击及防范原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="605">
-            <caret line="242" column="3" selection-start-line="242" selection-start-column="3" selection-end-line="242" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/06-前端面试题总结/13-02-浏览器线程与阻塞.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -817,20 +839,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="539">
-            <caret line="295" column="3" selection-start-line="295" selection-start-column="3" selection-end-line="295" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/05-快速排序(1!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -953,20 +961,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/05-从尾到头打印链表.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="73">
-            <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1009,11 +1003,89 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-彻底解析Hash表算法.md">
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-Hash表算法详解.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-2596">
             <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/05-从尾到头打印链表.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-15">
+            <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-红黑树详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="425">
+            <caret line="295" column="3" selection-start-line="295" selection-start-column="3" selection-end-line="295" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/06-重建二叉树.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="381">
+            <caret line="233" column="40" selection-start-line="233" selection-start-column="40" selection-end-line="233" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
