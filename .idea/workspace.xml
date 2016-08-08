@@ -2,7 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01-html/14-URL中的hash片段详解.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-css/01-css基础知识点/images/browser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/02-css/01-css基础知识点/12-02-从浏览器渲染原理讲CSS性能.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/00-README.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/01-css基础知识点/12-css选择器的性能.md" afterPath="$PROJECT_DIR$/02-css/01-css基础知识点/12-01-css选择器的性能.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/01-css3新特性.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/01-css3新特性.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/02-css3选择器.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/02-css3选择器.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/03-01-使用border画三角形.html" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/03-01-使用border画三角形.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/03-01-边框图片border-image.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/03-01-边框图片border-image.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius画圆、半圆、扇形和椭圆.html" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/03-02-边框圆角border-radius画圆、半圆、扇形和椭圆.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow实例.html" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/03-03-盒子阴影box-shadow实例.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/04-01-背景background基本属性.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/04-02-背景background-css3新增.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/05-01-文本属性(基本).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/05-02-文本属性(css3新增).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/06-颜色.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/06-颜色.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/07-css3盒模型属性.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/07-css3盒模型属性.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/08-弹性布局flexbox.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/08-弹性布局flexbox.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/09-多列布局.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/09-多列布局.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/10-渐变.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/10-渐变.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/11-形变.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/11-形变.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/11-形变例子.html" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/11-形变例子.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/12-过渡.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/12-过渡.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/12-过渡例子.html" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/12-过渡例子.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/13-动画.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/13-动画.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/13-动画例子.html" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/13-动画例子.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/14-媒体查询与响应式布局.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/15-web字体.md" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/15-web字体.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/alpha-opacity.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/alpha-opacity.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/media-1.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/media-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/media-2.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/media-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/media-3.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/media-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/media-4.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/media-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/multi-bg.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/multi-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/outline-border.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/outline-border.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-1.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/pic-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-2.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/pic-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-3.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/pic-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/图解CSS3-核心技术与案例实战/images/pic-4.png" afterPath="$PROJECT_DIR$/02-css/02-图解CSS3-核心技术与案例实战/images/pic-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/01-基础知识.md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/01-基础知识.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/02-选择器.md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/02-选择器.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/03-层叠和选择器权重.md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/03-层叠和选择器权重.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/04-css样式的继承.md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/04-css样式的继承.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/05-01-盒模型(!!!).md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/05-01-盒模型(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/05-02-外边距叠加.md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/05-02-外边距叠加.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/06-01-块框和行内框.md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/06-01-块框和行内框.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/06-02-定位(!!!).md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/06-02-定位(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02-css/02-css学习笔记/精通CSS/07-浮动与清除浮动(!!!).md" afterPath="$PROJECT_DIR$/02-css/03-精通CSS/07-浮动与清除浮动(!!!).md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,27 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="14-调整数组顺序使奇数位于偶数前面.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/14-调整数组顺序使奇数位于偶数前面.md">
+      <file leaf-file-name="12-02-从浏览器渲染原理讲CSS性能.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02-css/01-css基础知识点/12-02-从浏览器渲染原理讲CSS性能.md">
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14-URL中的hash片段详解.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-html/14-URL中的hash片段详解.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1760">
+              <first_editor relative-caret-position="583">
                 <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
                 <folding />
               </first_editor>
@@ -72,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-浏览器同源政策和跨域.md" />
         <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-02-跨域资源共享CORS详解(!!!).md" />
         <option value="$PROJECT_DIR$/05-前端面试题总结/26-前端实际项目中的性能优化(!!!).md" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -123,6 +154,7 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/test.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-03-青蛙跳台阶问题2.md" />
         <option value="$PROJECT_DIR$/01-html/14-URL中的hash片段详解.md" />
+        <option value="$PROJECT_DIR$/02-css/01-css基础知识点/12-02-从浏览器渲染原理讲CSS性能.md" />
       </list>
     </option>
   </component>
@@ -205,6 +237,60 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="02-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-css基础知识点" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-css基础知识点" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="01-html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -225,19 +311,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-数据结构的应用" />
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现" />
-      <recent name="$PROJECT_DIR$/01-html" />
-      <recent name="$PROJECT_DIR$/06-数据结构与算法" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02-css/01-css基础知识点/images" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题" />
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/02-css" />
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-数据结构的应用" />
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现" />
+      <recent name="$PROJECT_DIR$/01-html" />
+      <recent name="$PROJECT_DIR$/06-数据结构与算法" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.test.js (1)">
@@ -364,12 +450,12 @@
       <workItem from="1470290205238" duration="30000" />
       <workItem from="1470297796597" duration="13463000" />
       <workItem from="1470381469147" duration="314000" />
-      <workItem from="1470617446690" duration="312000" />
+      <workItem from="1470617446690" duration="1012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306282000" />
+    <option name="totallyTimeSpent" value="306982000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -384,7 +470,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17474186" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2668785" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -442,32 +528,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/09-规则9: 减少DNS查找.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -902,6 +962,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-html/14-URL中的hash片段详解.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1760">
+            <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/14-调整数组顺序使奇数位于偶数前面.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -916,10 +990,24 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-html/14-URL中的hash片段详解.md">
+    <entry file="file://$PROJECT_DIR$/02-css/01-css基础知识点/12-01-css选择器的性能.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1760">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-css/01-css基础知识点/12-02-从浏览器渲染原理讲CSS性能.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="583">
             <caret line="80" column="3" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
             <folding />
           </first_editor>
