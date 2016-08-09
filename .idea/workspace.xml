@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="231-Power of Two.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="231-Power of Two.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
@@ -33,6 +33,22 @@
                 <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="231-Power of Two.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="339">
+                <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -52,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
@@ -103,6 +118,7 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)206-Revere Linked List.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md" />
       </list>
     </option>
   </component>
@@ -363,12 +379,12 @@
       <workItem from="1470297796597" duration="13463000" />
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
-      <workItem from="1470702275239" duration="11589000" />
+      <workItem from="1470702275239" duration="11813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="321952000" />
+    <option name="totallyTimeSpent" value="322176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -441,19 +457,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/07-堆排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-26">
@@ -963,6 +966,20 @@
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="339">
+            <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
