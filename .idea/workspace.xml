@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(没通过)102-Binary Tree Level Order Traversal.js" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)102-Binary Tree Level Order Traversal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -25,23 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="206-Revere Linked List.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js">
+      <file leaf-file-name="231-Power of Two.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="!!!(not AC)102-Binary Tree Level Order Traversal.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)102-Binary Tree Level Order Traversal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+            <state relative-caret-position="286">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="42" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -65,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05-高性能网站建设指南/11-规则11: 避免重定向.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
@@ -116,6 +102,7 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/217-Contains Duplicate.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)206-Revere Linked List.js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js" />
       </list>
     </option>
   </component>
@@ -227,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Linters.JSLint" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../meet_you/joint" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -376,12 +363,12 @@
       <workItem from="1470297796597" duration="13463000" />
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
-      <workItem from="1470702275239" duration="10739000" />
+      <workItem from="1470702275239" duration="11589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="321102000" />
+    <option name="totallyTimeSpent" value="321952000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,7 +383,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20730738" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27561557" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -454,19 +441,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="425">
-            <caret line="295" column="3" selection-start-line="295" selection-start-column="3" selection-end-line="295" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -961,6 +935,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)102-Binary Tree Level Order Traversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -971,10 +955,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js">
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="286">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="42" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
