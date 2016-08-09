@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(没通过)102-Binary Tree Level Order Traversal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/104-Maximum Depth of Binary Tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/226-Invert Binary Tree.js" afterPath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/226-Invert Binary Tree.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,50 +23,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="111-Minimum Depth of Binary Tree.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="341">
-                <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-                <folding>
-                  <element signature="n#!!doc" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="104-Maximum Depth of Binary Tree.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/104-Maximum Depth of Binary Tree.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="!!!(没通过)102-Binary Tree Level Order Traversal.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(没通过)102-Binary Tree Level Order Traversal.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -84,7 +39,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/05-高性能网站建设指南/02-使用内容分发网络CDN.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/03-添加Expires头.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/04-开启GZip压缩.md" />
         <option value="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" />
@@ -135,6 +89,7 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/102-Binary Tree Level Order Traversal.js" />
+        <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/226-Invert Binary Tree.js" />
       </list>
     </option>
   </component>
@@ -395,12 +350,12 @@
       <workItem from="1470297796597" duration="13463000" />
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
-      <workItem from="1470702275239" duration="4093000" />
+      <workItem from="1470702275239" duration="4911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314456000" />
+    <option name="totallyTimeSpent" value="315274000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,9 +368,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38522637" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25099286" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -473,7 +428,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.js" />
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/16-反转链表.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -927,26 +881,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="341">
-            <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-            <folding>
-              <element signature="n#!!doc" expanded="true" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(没通过)102-Binary Tree Level Order Traversal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/226-Invert Binary Tree.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -971,6 +919,22 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="341">
+            <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
