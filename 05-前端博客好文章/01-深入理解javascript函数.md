@@ -63,7 +63,7 @@ Window {top: Window, window: Window, location: Location...}
 Object {name: "object", foo: function}
 ```
 
-从执行结果可以看出，obj.foo()这种调用方法，隐式将调用它的对象obj作为了thisArg。
+从执行结果可以看出，`obj.foo()这种调用方法，隐式将调用它的对象obj作为了thisArg`。
 但是为什么foo()这种调用方式this的绑定值是window这个全局对象?
 难道foo()这种调用方式将全局对象默认指定为thisArg？其实不是这样的。
 `thisArg并不是和this关键字的绑定一一对应的，其中有一个转换过程。`如下：
@@ -84,7 +84,7 @@ Object {name: "object", foo: function}
 `词法环境包含了环境记录(Environment Record)和一个到外层词法环境的引用(如果有的话，否则为null)。`
 环境记录记录了当前作用域下的变量或函数的绑定情况。
 有两种类型的环境记录，声明式环境记录(Declarative Environment Records)和对象环境记录(Object Environment Records)。
-`声明式环境`记录包含了当前作用域下标识符到变量声明和函数声明的绑定。
+`声明式环境`记录包含了当前作用域下标识符到`变量声明`和`函数声明`的绑定。
 `对象环境`记录是一个和特定对象绑定的环境记录，用于临时改变标识符的解析情况，比如在with子句中。
 
 函数对象都有一个`[[Scope]]`属性，`函数对象在创建时`会将当前执行环境的词法环境的值赋予给`[[Scope]]`属性。
