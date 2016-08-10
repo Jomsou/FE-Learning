@@ -2,243 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/48-不能被继承的类.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/00-Http协议字段详解.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/00-Http协议字段详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/01-规则1: 减少Http请求.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/01-规则1: 减少Http请求.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/02-规则2: 使用内容分发网络CDN.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/02-规则2: 使用内容分发网络CDN.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/03-规则3: 添加Expires头.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/03-规则3: 添加Expires头.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/04-规则4: 开启GZip压缩.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/04-规则4: 开启GZip压缩.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/05-规则5: 将样式表放在顶部.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/06-规则6: 将脚本放在底部.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/06-规则6: 将脚本放在底部.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/07-规则7: 避免css表达式.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/07-规则7: 避免css表达式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/08-规则8: 使用外部js和css.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/08-规则8: 使用外部js和css.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/09-规则9: 减少DNS查找.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/09-规则9: 减少DNS查找.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/10-规则10: 精简js和css.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/10-规则10: 精简js和css.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/11-规则11: 避免重定向.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/11-规则11: 避免重定向.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/12-规则12: 移除重复脚本.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/12-规则12: 移除重复脚本.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/13-规则13: 配置Etag.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/13-规则13: 配置Etag.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/14-规则14: 使Ajax可缓存.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/05-高性能网站建设指南/README.md" afterPath="$PROJECT_DIR$/06-高性能网站建设指南/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/00-实现javascript深拷贝函数.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/00-实现javascript深拷贝函数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/00-被问到最多的问题.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/00-被问到最多的问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/01-面试官问:你有什么想问我的.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/01-面试官问:你有什么想问我的.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/03-css3新特性有哪些,带来的好处.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/03-css3新特性有哪些,带来的好处.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/04-javascript数据类型.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/04-javascript数据类型.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/05-常问到的http状态码.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/05-常问到的http状态码.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/06-手写原生js实现事件代理.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/06-手写原生js实现事件代理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/07-浏览器从输入网址到展示页面详细过程.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/07-浏览器从输入网址到展示页面详细过程.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/08-01-js、css和html加载顺序和加载过程.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/08-01-js、css和html加载顺序和加载过程.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/09-浏览器加载和渲染html的顺序(!!).md" afterPath="$PROJECT_DIR$/07-前端面试题总结/09-浏览器加载和渲染html的顺序(!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/10-页面中js和css放置位置对性能的影响.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/10-页面中js和css放置位置对性能的影响.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/11-javascript在页面中的加载顺序.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/11-javascript在页面中的加载顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/12-js文件放在页面最底部加载的原因.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/12-js文件放在页面最底部加载的原因.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/13-01-script标签引入脚本的三种情况.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/13-01-script标签引入脚本的三种情况.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/13-02-浏览器线程与阻塞.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/13-02-浏览器线程与阻塞.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/14-javascript的执行顺序.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/14-javascript的执行顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/15-css选择器的性能.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/15-css选择器的性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/16-css优化.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/16-css优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/17-css选择器权重计算.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/17-css选择器权重计算.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/18-自定义事件.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/18-自定义事件.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/19-svg与canvas的区别.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/19-svg与canvas的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/20-jpg与png的区别以及使用场景.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/20-jpg与png的区别以及使用场景.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/21-01-meta标签属性详解1.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/21-01-meta标签属性详解1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/21-02-meta标签属性详解2.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/21-02-meta标签属性详解2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/22-各个浏览器的内核.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/22-各个浏览器的内核.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/23-原生js实现jquery的ready方法.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/23-原生js实现jquery的ready方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/24-网页中有大量图片的性能优化.md" afterPath="$PROJECT_DIR$/07-前端面试题总结/24-网页中有大量图片的性能优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/25-gulp和webpack的区别 .md" afterPath="$PROJECT_DIR$/07-前端面试题总结/25-gulp和webpack的区别 .md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/26-前端实际项目中的性能优化(!!!).md" afterPath="$PROJECT_DIR$/07-前端面试题总结/26-前端实际项目中的性能优化(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/images/css-weight-1.png" afterPath="$PROJECT_DIR$/07-前端面试题总结/images/css-weight-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/06-前端面试题总结/images/css-weight-2.png" afterPath="$PROJECT_DIR$/07-前端面试题总结/images/css-weight-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-需要非常熟练掌握的数据结构.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-需要非常熟练掌握的数据结构.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/01-常见的海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-TestDataGenerator.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-TestDataGenerator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/01-冒泡排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/01-冒泡排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/02-选择排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/02-选择排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/05-快速排序(1!!!!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/05-快速排序(1!!!!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/05-快速排序(2).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/05-快速排序(2).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/05-掌握快排(!!!!!).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/05-掌握快排(!!!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/06-归并排序(js版,数组方法很方便!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/06-归并排序(js版,数组方法很方便!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/06-归并排序(通用版本!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/06-归并排序(通用版本!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/06-掌握归并排序(!!!!!).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/06-掌握归并排序(!!!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/07-堆排序(!!!!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/07-堆排序(!!!!!).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-Hash表算法详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-Hash表算法详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/01-线性查找.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/01-线性查找.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/02-二分查找.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/02-二分查找.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/03-Hash表查找.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/03-Hash表查找.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/04-二叉排序树查找.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/04-二叉排序树查找.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/01-数制转换.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/01-数制转换.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/02-判断回文数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/02-判断回文数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/03-括号匹配检验.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/03-括号匹配检验.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/04-表达式求值.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/04-表达式求值.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/05-两个栈实现队列.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/05-两个栈实现队列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/06-使用两个队列实现栈.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/06-使用两个队列实现栈.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/07-实现双向队列.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/07-实现双向队列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/08-链表倒数第K个节点.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/08-链表倒数第K个节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/09-O(1)复杂度删除链表某个节点.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/09-O(1)复杂度删除链表某个节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/10-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/10-N个人围成圈,顺序数数,每次除去第M个人,求最后剩下.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/01-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-常见的海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/02-二叉树深度优先遍历(递归解法).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/02-二叉树深度优先遍历(递归解法).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/03-二叉树深度优先遍历(非递归解法).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/03-二叉树深度优先遍历(非递归解法).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/04-二叉树的广度优先遍历.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/04-二叉树的广度优先遍历.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/05-快排及其时间复杂度分析.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-常见的面试题/05-快排及其时间复杂度分析.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-二叉搜索树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-二叉搜索树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/01-赋值运算符函数.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/01-赋值运算符函数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/02-实现单例模式.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/02-实现单例模式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/04-替换空格.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/04-替换空格.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/05-从尾到头打印链表.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/05-从尾到头打印链表.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/07-用两个栈实现队列.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/07-用两个栈实现队列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/08-求旋转数组的最小数字.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/08-求旋转数组的最小数字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-01-斐波那契数列.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-01-斐波那契数列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-03-青蛙跳台阶问题2.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-03-青蛙跳台阶问题2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-01-二进制中1的个数.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-01-二进制中1的个数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-02-code.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-02-code.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-03-二进制使用的扩展.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-03-二进制使用的扩展.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/11-数值的整数次方.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/11-数值的整数次方.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/12-打印1到最大的n位数.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/12-打印1到最大的n位数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/13-O(1)时间删除链表节点.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/13-O(1)时间删除链表节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/14-调整数组顺序使奇数位于偶数前面.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/15-01-链表中倒数第k个节点.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/15-01-链表中倒数第k个节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/15-02-链表其他题目.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/15-02-链表其他题目.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/16-反转链表.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/16-反转链表.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/17-合并两个有序链表.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/17-合并两个有序链表.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/18-树的子结构.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/18-树的子结构.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/19-二叉树的镜像.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/19-二叉树的镜像.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/20-顺时针打印矩阵.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/20-顺时针打印矩阵.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/21-包含min函数的栈.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/21-包含min函数的栈.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/22-栈的压入、弹出序列.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/22-栈的压入、弹出序列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/23-从上往下打印二叉树.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/23-从上往下打印二叉树.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/24-二叉搜索树的后序遍历序列.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/24-二叉搜索树的后序遍历序列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/25-二叉树中和为某一值得路径.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/25-二叉树中和为某一值得路径.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/26-复杂链表的复制.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/26-复杂链表的复制.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/27-二叉搜索树与双向链表.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/27-二叉搜索树与双向链表.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/28-字符串的排列.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/28-字符串的排列.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-01-数组中出现次数超过一半的数字.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-01-数组中出现次数超过一半的数字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/30-最小的k个数.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/30-最小的k个数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/31-连续子数组的最大和.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/31-连续子数组的最大和.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/32-从1到n整数中1出现的次数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/32-从1到n整数中1出现的次数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/33-把数组排成最小的数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/33-把数组排成最小的数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/34-丑数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/34-丑数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/36-数组中的逆序对.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/36-数组中的逆序对.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/38-数字在排序数组中出现的次数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/38-数字在排序数组中出现的次数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/39-二叉树的深度.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/39-二叉树的深度.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/40-数组中只出现一次的数字.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/40-数组中只出现一次的数字.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/41-和为s的两个数及和为s的连续正数序列.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/41-和为s的两个数及和为s的连续正数序列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/42-翻转单词顺序和左旋转字符串.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/42-翻转单词顺序和左旋转字符串.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/43-n的骰子的点数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/43-n的骰子的点数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/44-扑克牌的顺子.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/44-扑克牌的顺子.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/45-圆圈中最后剩下的数字.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/45-圆圈中最后剩下的数字.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/46-求1+2+3+...+n.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/46-求1+2+3+...+n.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/47-不用加减乘除做加法.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/47-不用加减乘除做加法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/48-不能被继承的类.md" afterPath="$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/50-树中两个节点的最低公共祖先.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/50-树中两个节点的最低公共祖先.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-10.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-10.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-11.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-11.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-12.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-12.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-14.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-14.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-18.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-18.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-21.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-21.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-22.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-22.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-24.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-24.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-25.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-25.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-27.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-27.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-28.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-28.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-29.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-29.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-30.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-30.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-31.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-31.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-36.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-36.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-7.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-8.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/question-8.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/recursive.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/recursive.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images/singleton-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/06-红黑树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/06-红黑树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/07-递归.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/07-递归.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/01_List.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/01_List.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/02_Stack.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/02_Stack.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/03_Queue.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/03_Queue.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-01-LinkedList.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-01-LinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-02-DoublyLinkedList.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-02-DoublyLinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-03-CircularLinkedList.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/04-03-CircularLinkedList.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/05-Dictionary.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/05-Dictionary.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/06-HashTable.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/06-HashTable.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/07-Set.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/07-Set.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/08-BinarySearchTree.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/08-BinarySearchTree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/data-structures/09-Graph.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/data-structures/09-Graph.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/dp-7.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/dp-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/hash-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/hash-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/hash-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/hash-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/heap-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/heap-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/heap-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/heap-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/heap-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/images/heap-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/images/heap-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)102-Binary Tree Level Order Traversal.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/!!!(not AC)102-Binary Tree Level Order Traversal.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/00-斐波那契数列.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/00-斐波那契数列.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/01-Two-Sum.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/01-Two-Sum.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/07-Reverse Integer.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/07-Reverse Integer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/08-String to Integer.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/08-String to Integer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/09-Palindrome Number.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/09-Palindrome Number.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/100-Same Tree,md.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/100-Same Tree,md.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/104-Maximum Depth of Binary Tree.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/104-Maximum Depth of Binary Tree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/111-Minimum Depth of Binary Tree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/14-LongestCommonPrefix.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/14-LongestCommonPrefix.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/169-Majority Element(找出数组中出现次数超过一半的元素).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/169-Majority Element(找出数组中出现次数超过一半的元素).js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/171-Excel Sheet Column Number.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/171-Excel Sheet Column Number.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/19-Remove Nth Node from the end of list.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/20-Valid Parentheses.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/20-Valid Parentheses.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/206-Revere Linked List.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/21-Merge Two Sorted Lists.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/217-Contains Duplicate.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/217-Contains Duplicate.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/226-Invert Binary Tree.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/226-Invert Binary Tree.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/237-Delete Node in a Linked List.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/237-Delete Node in a Linked List.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/242-Valid Anagram.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/242-Valid Anagram.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/283-Move Zeros.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/283-Move Zeros.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/292-Nim Game.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/292-Nim Game.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/326-Power of Three.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/326-Power of Three.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/345-Reverse Vowels of a String.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/347-Top K Frequent Elements.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/347-Top K Frequent Elements.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/349-Intersection of Two Arrays.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/53-Maximum Subarray.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/53-Maximum Subarray.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-数据结构与算法/README.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-其他零散知识点/01-git基本使用.pdf" afterPath="$PROJECT_DIR$/09-其他零散知识点/01-git基本使用.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-其他零散知识点/02-MarkDown语法指南.md" afterPath="$PROJECT_DIR$/09-其他零散知识点/02-MarkDown语法指南.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-其他零散知识点/03-01-理解Redux原理.md" afterPath="$PROJECT_DIR$/09-其他零散知识点/03-01-理解Redux原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-其他零散知识点/03-02-理解React-Redux.md" afterPath="$PROJECT_DIR$/09-其他零散知识点/03-02-理解React-Redux.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-其他零散知识点/04-React生命周期函数详解.md" afterPath="$PROJECT_DIR$/09-其他零散知识点/04-React生命周期函数详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-其他零散知识点/05-React的DOM-Diff算法.md" afterPath="$PROJECT_DIR$/09-其他零散知识点/05-React的DOM-Diff算法.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md" afterPath="$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -263,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="3410">
-                <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -570,12 +334,12 @@
       <workItem from="1470297796597" duration="13463000" />
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
-      <workItem from="1470702275239" duration="14006000" />
+      <workItem from="1470702275239" duration="14066000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324369000" />
+    <option name="totallyTimeSpent" value="324429000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1166,8 +930,8 @@
     <entry file="file://$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="3410">
-            <caret line="155" column="0" selection-start-line="155" selection-start-column="0" selection-end-line="155" selection-end-column="0" />
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
