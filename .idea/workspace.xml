@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md" afterPath="$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/https-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/https-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/https-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/https-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/https-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/https-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/02-理解HTTPS.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +30,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01-深入理解javascript函数.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md">
+      <file leaf-file-name="02-理解HTTPS.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-前端博客好文章/02-理解HTTPS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="264">
-                <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+              <first_editor relative-caret-position="493">
+                <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/01-彻底解析Hash表算法.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/00-常见的海量数据处理面试算法题.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/02-动态规划详解.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-排序算法/06-归并排序(通用版本!!).js" />
@@ -106,6 +112,7 @@
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/231-Power of Two.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/02-数据结构与算法(LeetCode)/326-Power of Three.js" />
         <option value="$PROJECT_DIR$/05-前端博客好文章/01-深入理解javascript函数.md" />
+        <option value="$PROJECT_DIR$/05-前端博客好文章/02-理解HTTPS.md" />
       </list>
     </option>
   </component>
@@ -177,6 +184,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="05-前端博客好文章" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -194,19 +219,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/01-html/images" />
-      <recent name="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/images" />
-      <recent name="$PROJECT_DIR$/02-css/01-css基础知识点/images" />
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images" />
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/02-css" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-数据结构的应用" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现" />
       <recent name="$PROJECT_DIR$/01-html" />
       <recent name="$PROJECT_DIR$/06-数据结构与算法" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/05-前端博客好文章/images" />
+      <recent name="$PROJECT_DIR$/01-html/images" />
+      <recent name="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/images" />
+      <recent name="$PROJECT_DIR$/02-css/01-css基础知识点/images" />
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.171-Excel Sheet Column Number.js">
@@ -334,12 +359,12 @@
       <workItem from="1470297796597" duration="13463000" />
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
-      <workItem from="1470702275239" duration="14251000" />
+      <workItem from="1470702275239" duration="15356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="324614000" />
+    <option name="totallyTimeSpent" value="325719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,19 +437,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="381">
-            <caret line="233" column="40" selection-start-line="233" selection-start-column="40" selection-end-line="233" selection-end-column="40" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/01-数制转换.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-246">
@@ -932,6 +944,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="264">
             <caret line="86" column="35" selection-start-line="86" selection-start-column="35" selection-end-line="86" selection-end-column="35" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-前端博客好文章/02-理解HTTPS.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="493">
+            <caret line="149" column="7" selection-start-line="149" selection-start-column="7" selection-end-line="149" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
