@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-02-五大常用算法之动态规划.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-03-五大常用算法之贪心法.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-04-五大常用算法之回溯法.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-05-五大常用算法之分支限界.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-二叉搜索树详解.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-动态规划详解.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-回溯法详解.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-需要非常熟练掌握的数据结构.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-需要非常熟练掌握的数据结构.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-常见的海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-Hash表算法详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-Hash表算法详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-堆详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/06-二叉搜索树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-01-五大常用算法之分治法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/07-红黑树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/06-红黑树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/08-递归.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/07-递归.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/websocket-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/images/websocket-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/05-前端博客好文章/07-WebSocket浅谈.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -36,7 +25,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="07-WebSocket浅谈.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05-前端博客好文章/07-WebSocket浅谈.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="471">
+                <caret line="196" column="3" selection-start-line="196" selection-start-column="3" selection-end-line="196" selection-end-column="3" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-斐波那契数列.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md" />
@@ -103,6 +108,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-04-五大常用算法之回溯法.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-05-五大常用算法之分支限界.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-02-五大常用算法之动态规划.md" />
+        <option value="$PROJECT_DIR$/05-前端博客好文章/07-WebSocket浅谈.md" />
       </list>
     </option>
   </component>
@@ -170,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-数据结构与算法" />
+              <option name="myItemId" value="05-前端博客好文章" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -184,11 +190,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="08-数据结构与算法" />
+              <option name="myItemId" value="05-前端博客好文章" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01-数据结构与算法javascript实现" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,8 +216,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现" />
       <recent name="$PROJECT_DIR$/05-前端博客好文章/images" />
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现" />
       <recent name="$PROJECT_DIR$/01-html/images" />
       <recent name="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/images" />
       <recent name="$PROJECT_DIR$/02-css/01-css基础知识点/images" />
@@ -350,12 +356,12 @@
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
       <workItem from="1470702275239" duration="18931000" />
-      <workItem from="1470797654211" duration="4963000" />
+      <workItem from="1470797654211" duration="5783000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="334257000" />
+    <option name="totallyTimeSpent" value="335077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,9 +374,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28514695" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18030183" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -428,13 +434,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-02-code.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01-html/14-URL中的hash片段详解.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -977,6 +976,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05-前端博客好文章/07-WebSocket浅谈.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="471">
+            <caret line="196" column="3" selection-start-line="196" selection-start-column="3" selection-end-line="196" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
