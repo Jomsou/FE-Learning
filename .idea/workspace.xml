@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/06-二叉搜索树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-堆详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-二叉搜索树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-回溯法详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/06-红黑树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/07-红黑树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/07-递归.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/08-递归.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/198-House Robber.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +23,20 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="198-House Robber.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/198-House Robber.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -42,8 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/test.js" />
-        <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-红黑树详解.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-堆详解.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/04-剑指offer/07-用两个栈实现队列.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/06-使用两个队列实现栈.js" />
@@ -93,6 +101,8 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/343-Integer Break.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/122-Best Time to Buy and Sell Stock.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/04-回溯法详解.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/198-House Robber.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/198-House Robber.js" />
       </list>
     </option>
   </component>
@@ -178,7 +188,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01-数据结构与算法javascript实现" />
+              <option name="myItemId" value="02-数据结构与算法(LeetCode)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -199,19 +209,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/02-css" />
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-数据结构的应用" />
-      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现" />
-      <recent name="$PROJECT_DIR$/01-html" />
-      <recent name="$PROJECT_DIR$/06-数据结构与算法" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/05-前端博客好文章/images" />
       <recent name="$PROJECT_DIR$/01-html/images" />
       <recent name="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/images" />
       <recent name="$PROJECT_DIR$/02-css/01-css基础知识点/images" />
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)" />
+      <recent name="$PROJECT_DIR$/02-css" />
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/00-数据结构的应用" />
+      <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现" />
+      <recent name="$PROJECT_DIR$/01-html" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.122-Best Time to Buy and Sell Stock.js">
@@ -340,12 +350,12 @@
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
       <workItem from="1470702275239" duration="18931000" />
-      <workItem from="1470797654211" duration="3825000" />
+      <workItem from="1470797654211" duration="4514000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="333119000" />
+    <option name="totallyTimeSpent" value="333808000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -358,13 +368,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20969023" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20333599" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19589041" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19589041" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -418,13 +428,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-01-二进制中1的个数.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -959,6 +962,16 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/198-House Robber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
