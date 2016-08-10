@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/136-Single Number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/260-Single Number III.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,47 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="27-Remove Element.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/27-Remove Element.js">
+      <file leaf-file-name="260-Single Number III.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/260-Single Number III.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="338-Counting Bits.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/338-Counting Bits.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="39" selection-end-column="18" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="136-Single Number.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/136-Single Number.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="283-Move Zeros.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/283-Move Zeros.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="44" column="6" selection-start-line="44" selection-start-column="6" selection-end-line="44" selection-end-column="60" />
+            <state relative-caret-position="1056">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -88,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/04-替换空格.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/test.js" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/03-经典算法题/剑指offer/05-从尾到头打印链表.md" />
         <option value="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/最常见的面试题/01-10道海量数据处理面试算法题.md" />
@@ -139,6 +102,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/27-Remove Element.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/338-Counting Bits.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/136-Single Number.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/260-Single Number III.js" />
       </list>
     </option>
   </component>
@@ -260,10 +224,7 @@
       <recent name="$PROJECT_DIR$/07-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.136-Single Number.js">
-    <configuration default="false" name="283-Move Zeros.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/283-Move Zeros.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.260-Single Number III.js">
     <configuration default="false" name="171-Excel Sheet Column Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/171-Excel Sheet Column Number.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)">
       <method />
     </configuration>
@@ -274,6 +235,9 @@
       <method />
     </configuration>
     <configuration default="false" name="136-Single Number.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="136-Single Number.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)">
+      <method />
+    </configuration>
+    <configuration default="false" name="260-Single Number III.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="260-Single Number III.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -318,19 +282,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.283-Move Zeros.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.171-Excel Sheet Column Number.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.27-Remove Element.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.338-Counting Bits.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.136-Single Number.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.171-Excel Sheet Column Number.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.27-Remove Element.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.338-Counting Bits.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.136-Single Number.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.260-Single Number III.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.136-Single Number.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.338-Counting Bits.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.27-Remove Element.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.171-Excel Sheet Column Number.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.283-Move Zeros.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.260-Single Number III.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.136-Single Number.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.338-Counting Bits.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.27-Remove Element.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.171-Excel Sheet Column Number.js" />
       </list>
     </recent_temporary>
   </component>
@@ -386,12 +350,12 @@
       <workItem from="1470381469147" duration="314000" />
       <workItem from="1470617446690" duration="4393000" />
       <workItem from="1470702275239" duration="18931000" />
-      <workItem from="1470797654211" duration="2151000" />
+      <workItem from="1470797654211" duration="2685000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="331445000" />
+    <option name="totallyTimeSpent" value="331979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -410,7 +374,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -464,13 +428,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/02-查找算法/04-二叉排序树查找.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-二叉搜索树详解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -983,6 +940,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/260-Single Number III.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
