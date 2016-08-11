@@ -2,8 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/25-document.write知多少.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/00-实现javascript深拷贝函数.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/00-实现javascript深拷贝函数.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/00-被问到最多的问题.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/00-被问到最多的问题.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/01-面试官问:你有什么想问我的.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/01-面试官问:你有什么想问我的.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/03-css3新特性有哪些,带来的好处.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/03-css3新特性有哪些,带来的好处.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/04-javascript数据类型.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/04-javascript数据类型.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/05-常问到的http状态码.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/05-常问到的http状态码.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/06-手写原生js实现事件代理.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/06-手写原生js实现事件代理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/07-浏览器从输入网址到展示页面详细过程.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/07-浏览器从输入网址到展示页面详细过程.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/08-01-js、css和html加载顺序和加载过程.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/08-01-js、css和html加载顺序和加载过程.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/09-浏览器加载和渲染html的顺序(!!).md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/09-浏览器加载和渲染html的顺序(!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/10-页面中js和css放置位置对性能的影响.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/10-页面中js和css放置位置对性能的影响.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/11-javascript在页面中的加载顺序.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/11-javascript在页面中的加载顺序.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/12-js文件放在页面最底部加载的原因.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/12-js文件放在页面最底部加载的原因.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/13-01-script标签引入脚本的三种情况.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/13-01-script标签引入脚本的三种情况.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/13-02-浏览器线程与阻塞.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/13-02-浏览器线程与阻塞.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/14-javascript的执行顺序.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/14-javascript的执行顺序.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/15-css选择器的性能.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/15-css选择器的性能.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/16-css优化.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/16-css优化.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/17-css选择器权重计算.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/17-css选择器权重计算.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/18-自定义事件.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/18-自定义事件.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/19-svg与canvas的区别.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/19-svg与canvas的区别.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/20-jpg与png的区别以及使用场景.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/20-jpg与png的区别以及使用场景.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/21-01-meta标签属性详解1.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/21-01-meta标签属性详解1.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/21-02-meta标签属性详解2.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/21-02-meta标签属性详解2.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/22-各个浏览器的内核.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/22-各个浏览器的内核.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/23-原生js实现jquery的ready方法.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/23-原生js实现jquery的ready方法.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/24-网页中有大量图片的性能优化.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/24-网页中有大量图片的性能优化.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/25-gulp和webpack的区别 .md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/25-gulp和webpack的区别 .md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/26-前端实际项目中的性能优化(!!!).md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/26-前端实际项目中的性能优化(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/27-用js将给定的数字转化成千分位的格式.md" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/27-用js将给定的数字转化成千分位的格式.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/images/css-weight-1.png" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/images/css-weight-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-前端面试题总结/images/css-weight-2.png" afterPath="$PROJECT_DIR$/07-01-前端面试题总结/images/css-weight-2.png" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,24 +55,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="25-document.write知多少.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/03-javascript/01-javascript基础知识点/25-document.write知多少.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="3344">
-                <caret line="152" column="3" selection-start-line="152" selection-start-column="3" selection-end-line="152" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,38 +178,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-javascript基础知识点" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -241,7 +224,7 @@
     <configuration default="false" name="122-Best Time to Buy and Sell Stock.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="122-Best Time to Buy and Sell Stock.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/07-前端面试题总结">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/07-01-前端面试题总结">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -355,12 +338,12 @@
       <workItem from="1470617446690" duration="4393000" />
       <workItem from="1470702275239" duration="18931000" />
       <workItem from="1470797654211" duration="6994000" />
-      <workItem from="1470875342705" duration="2525000" />
+      <workItem from="1470875342705" duration="2841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338813000" />
+    <option name="totallyTimeSpent" value="339129000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,9 +356,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16521049" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2922955" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -934,7 +917,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-前端面试题总结/27-用js将给定的数字转化成千分位的格式.md">
+    <entry file="file://$PROJECT_DIR$/07-01-前端面试题总结/27-用js将给定的数字转化成千分位的格式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="473">
