@@ -84,7 +84,6 @@ var makeCoinNumber = function (number) {
                 }
             }
         }
-
     }
     return dp[number];
 }

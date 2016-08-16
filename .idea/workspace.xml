@@ -26,8 +26,8 @@
       <file leaf-file-name="01-硬币凑数字.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/01-硬币凑数字.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-704">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="352">
+              <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -371,12 +371,12 @@
       <workItem from="1470875342705" duration="10175000" />
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
-      <workItem from="1471248384232" duration="7277000" />
+      <workItem from="1471248384232" duration="7338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356565000" />
+    <option name="totallyTimeSpent" value="356626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -966,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/01-硬币凑数字.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-704">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="352">
+          <caret line="86" column="0" selection-start-line="86" selection-start-column="0" selection-end-line="86" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
