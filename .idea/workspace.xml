@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/13-Count and Say.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/13-Count and Say.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/01-Remove Element.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/01-Remove Element.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +22,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01-Remove Element.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/01-Remove Element.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="559">
+                <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/300-Longest Increasing Subsequences.js" />
         <option value="$PROJECT_DIR$/07-前端面试题总结/test.js" />
         <option value="$PROJECT_DIR$/07-前端面试题总结/27-用js将给定的数字转化成千分位的格式.md" />
         <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/25-document.write知多少.md" />
@@ -90,6 +105,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/11-Wildcard Matching.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/12-Length of Last Word.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/13-Count and Say.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/01-Remove Element.md" />
       </list>
     </option>
   </component>
@@ -251,7 +267,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01-String" />
+              <option name="myItemId" value="02-Integer Array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -417,12 +433,12 @@
       <workItem from="1470875342705" duration="10175000" />
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
-      <workItem from="1471248384232" duration="15088000" />
+      <workItem from="1471248384232" duration="15303000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="364376000" />
+    <option name="totallyTimeSpent" value="364591000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -435,9 +451,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -790,20 +806,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/01-Remove Element.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/03-Binary Search/01-Binary Search.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1125,6 +1127,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="515">
             <caret line="115" column="6" selection-start-line="115" selection-start-column="6" selection-end-line="115" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/01-Remove Element.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="559">
+            <caret line="90" column="42" selection-start-line="90" selection-start-column="42" selection-end-line="90" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />
