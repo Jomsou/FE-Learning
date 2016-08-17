@@ -11,8 +11,6 @@
     运行时间与输入无关
     数据移动最少
     
-![Selection Sort](./selection_sort.gif)
-
 ## Java
 
     public class Sort {

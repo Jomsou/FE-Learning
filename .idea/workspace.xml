@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images/bubble_sort.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images/selection_sort.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/03-Insertion Sort.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images/bubble_sort.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images/selection_sort.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,24 +26,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02-Selection Sort.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="330">
-                <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/153-Find Minimum in Rotated Array.js" />
         <option value="$PROJECT_DIR$/01-html/16-HTTP2常见问题详解.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/377-Combination Sum IV.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/00-02-五大常用算法之动态规划.md" />
@@ -109,6 +92,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/18-Kth Largest Element.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/01-Bubble Sort.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/03-Insertion Sort.md" />
       </list>
     </option>
   </component>
@@ -274,36 +258,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08-数据结构与算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-数据结构与算法、LeetCode题解" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01-基础理论" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02-Basic Sorting" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -466,12 +420,12 @@
       <workItem from="1470875342705" duration="10175000" />
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
-      <workItem from="1471248384232" duration="19135000" />
+      <workItem from="1471248384232" duration="19302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368423000" />
+    <option name="totallyTimeSpent" value="368590000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -484,9 +438,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22001588" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -551,16 +505,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/03-无向图最短路径.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/07-堆排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1201,10 +1145,15 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images/selection_sort.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/01-Bubble Sort.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="748">
+          <first_editor relative-caret-position="603">
             <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -1215,16 +1164,25 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images/selection_sort.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="330">
-            <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/03-Insertion Sort.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1320">
+            <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
