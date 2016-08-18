@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域(!!!).md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,12 +26,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="15-ReactNative优势和坑、怎样优化.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md">
+      <file leaf-file-name="12-02-seajs相关问题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="154">
-                <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <first_editor relative-caret-position="-3665">
+                <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12-01-模块化加载原理(!!!).md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="22">
+                <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -106,14 +117,14 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/21-Maximum Subarray.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/22-Maximum Subarray II.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域(!!!).md" />
-        <option value="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative相关.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/12-模块化加载原理(!!!).md" />
-        <option value="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/16-webpack实现原理.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" />
+        <option value="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" />
+        <option value="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" />
       </list>
     </option>
   </component>
@@ -237,11 +248,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="07-02-前端面试题合集" />
+              <option name="myItemId" value="03-javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="03-javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-javascript基础知识点" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,12 +432,12 @@
       <workItem from="1470875342705" duration="10175000" />
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
-      <workItem from="1471248384232" duration="27159000" />
+      <workItem from="1471248384232" duration="28847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="376447000" />
+    <option name="totallyTimeSpent" value="378135000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,9 +450,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20174742" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29388404" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -492,34 +517,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/16-Median.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/18-Kth Largest Element.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/17-Partition Array by Odd and Even.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1067,25 +1064,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/13-跨域(!!!).md">
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <first_editor relative-caret-position="440">
+            <caret line="163" column="42" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1109,11 +1092,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md">
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1123,25 +1106,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md">
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="163" column="42" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1156,6 +1125,62 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="154">
             <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="22">
+            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/01-javascript基础知识点/08-02-Ajax详解与跨域(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-9561">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-同源政策和跨域(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-3665">
+            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             <folding />
           </first_editor>
           <second_editor />
