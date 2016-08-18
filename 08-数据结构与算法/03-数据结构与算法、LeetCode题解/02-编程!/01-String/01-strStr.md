@@ -17,8 +17,8 @@ Problem Statement
     
     Challenge
     O(n2) is acceptable. Can you implement an O(n) algorithm? (hint: KMP)
-    Clarification
     
+    Clarification
     Do I need to implement KMP Algorithm in a real interview?
     Not necessary. When you meet this problem in a real interview, the interviewer may just
     want to test your basic implementation ability. But make sure your confirm with the 
@@ -87,8 +87,6 @@ Java 代码的大括号一般在同一行右边，C++ 代码的大括号一般�
 int i, j;`声明前有一行空格，是好的代码风格
 ```
 4. 是否在for的条件中声明i,j，这个视情况而定，如果需要在循环外再使用时，则须在外部初始化，否则没有这个必要。
-
-
 需要注意的是有些题目要求并不是返回索引，而是返回字符串，此时还需要调用相应语言的substring方法。
 
 ## 复杂度分析
