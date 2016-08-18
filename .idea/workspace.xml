@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/02-Linked List.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/03-Binary Tree.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02-Linked List.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/02-Linked List.md">
+      <file leaf-file-name="03-Binary Tree.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/03-Binary Tree.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="3146">
-                <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+              <first_editor relative-caret-position="363">
+                <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/07-Reverse Words in a String.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/08-Valid Palindrome.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/09-Longest Palindromic Substring.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/10-Space Replacement.md" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/01-String.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/02-Linked List.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/03-Binary Tree.md" />
       </list>
     </option>
   </component>
@@ -434,12 +434,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="424000" />
+      <workItem from="1471507945123" duration="647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378863000" />
+    <option name="totallyTimeSpent" value="379086000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -519,20 +519,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/01-Bubble Sort.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="603">
-            <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1182,6 +1168,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="3146">
             <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/03-Binary Tree.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="363">
+            <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
