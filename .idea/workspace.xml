@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/react-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/react-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/react-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/17-webpack功能及原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative相关.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-7.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,12 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="16-React原理及优缺点.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md">
+      <file leaf-file-name="15-ReactNative优势和坑、怎样优化.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="163" column="42" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+              <first_editor relative-caret-position="154">
+                <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -61,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/03-Compare Strings.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/04-Anagrams.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/05-Longest Common String.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/06-Rotate String.md" />
@@ -112,6 +113,7 @@
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/16-webpack实现原理.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md" />
+        <option value="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" />
       </list>
     </option>
   </component>
@@ -405,12 +407,12 @@
       <workItem from="1470875342705" duration="10175000" />
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
-      <workItem from="1471248384232" duration="25820000" />
+      <workItem from="1471248384232" duration="27159000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375108000" />
+    <option name="totallyTimeSpent" value="376447000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -423,9 +425,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28038126" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20174742" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1093,20 +1095,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/17-webpack功能及原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1154,6 +1142,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="440">
             <caret line="163" column="42" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="154">
+            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
