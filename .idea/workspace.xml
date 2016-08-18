@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域(!!!).md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" afterPath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="12-02-seajs相关问题.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12-02-seajs相关问题.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="-3665">
                 <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13-跨域相关(!!!).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -74,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/04-Anagrams.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/05-Longest Common String.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/06-Rotate String.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/07-Reverse Words in a String.md" />
@@ -125,6 +137,7 @@
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" />
         <option value="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" />
+        <option value="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" />
       </list>
     </option>
   </component>
@@ -432,12 +445,12 @@
       <workItem from="1470875342705" duration="10175000" />
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
-      <workItem from="1471248384232" duration="28847000" />
+      <workItem from="1471248384232" duration="28937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="378135000" />
+    <option name="totallyTimeSpent" value="378225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,9 +463,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29388404" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29388404" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1092,20 +1105,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1181,6 +1180,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-3665">
             <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
