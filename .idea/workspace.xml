@@ -2,39 +2,71 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-01-五大常用算法之分治法.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-01-五大常用算法之分治法.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-02-00-五大常用算法之动态规划.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-02-00-五大常用算法之动态规划.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-02-01-动态规划之背包9讲.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-02-01-动态规划之背包9讲.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-02-02-动态规划常见题目.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-02-02-动态规划常见题目.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-03-五大常用算法之贪心法.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-03-五大常用算法之贪心法.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-04-五大常用算法之回溯法.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-04-五大常用算法之回溯法.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/00-05-五大常用算法之分支限界.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-05-五大常用算法之分支限界.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/01-需要非常熟练掌握的数据结构.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/01-需要非常熟练掌握的数据结构.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/02-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/02-常见的海量数据处理面试算法题.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/03-Hash表算法详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/03-Hash表算法详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/04-堆详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/04-堆详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/05-二叉搜索树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/05-二叉搜索树详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/06-红黑树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/06-红黑树详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/07-递归.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/07-递归.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/dp-7.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/hash-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/hash-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/hash-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/hash-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/heap-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/heap-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/heap-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/heap-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/heap-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/images/heap-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/01-硬币凑数字.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/01-硬币凑数字.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/02-最长非降序子序列长度.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/02-最长非降序子序列长度.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/03-无向图最短路径.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/03-无向图最短路径.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/04-二位DP-平面格子收集苹果.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/04-二位DP-平面格子收集苹果.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -56,7 +88,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="01-House Robber.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -265,55 +297,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="00-常见重要算法的原理!!!" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08-数据结构与算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00-常见重要算法的原理!!!" />
+              <option name="myItemId" value="02-数据结构与算法(LeetCode)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="动态规划题目集锦" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08-数据结构与算法" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="00-常见重要算法的原理!!!" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="动态规划题目集锦" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode动态规划题(由易到难)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,24 +330,24 @@
       <recent name="$PROJECT_DIR$/07-02-前端面试题合集/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/00-常见算法原理!!!" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.07-堆排序(!!!!!).js">
     <configuration default="false" name="303-Range Sum Query.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="303-Range Sum Query.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)">
       <method />
     </configuration>
-    <configuration default="false" name="01-硬币凑数字.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-硬币凑数字.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦">
+    <configuration default="false" name="01-硬币凑数字.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/01-硬币凑数字.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦">
       <method />
     </configuration>
-    <configuration default="false" name="02-最长非降序子序列长度.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02-最长非降序子序列长度.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦">
+    <configuration default="false" name="02-最长非降序子序列长度.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/02-最长非降序子序列长度.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦">
       <method />
     </configuration>
-    <configuration default="false" name="04-二位DP-平面格子收集苹果.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-二位DP-平面格子收集苹果.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦">
+    <configuration default="false" name="04-二位DP-平面格子收集苹果.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/04-二位DP-平面格子收集苹果.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦">
       <method />
     </configuration>
     <configuration default="false" name="07-堆排序(!!!!!).js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07-堆排序(!!!!!).js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法">
@@ -480,12 +468,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="14781000" />
+      <workItem from="1471507945123" duration="14884000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="393220000" />
+    <option name="totallyTimeSpent" value="393323000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -500,7 +488,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33518666" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4511517" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -785,7 +773,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -795,7 +783,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -803,7 +791,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -811,7 +799,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -819,7 +807,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -827,7 +815,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -835,7 +823,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -843,7 +831,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -851,7 +839,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -859,7 +847,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -867,7 +855,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -875,7 +863,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -883,7 +871,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -891,7 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -899,7 +887,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -907,7 +895,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -915,7 +903,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -923,7 +911,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -931,7 +919,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -939,7 +927,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -947,7 +935,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -955,7 +943,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -963,7 +951,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -971,7 +959,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -979,7 +967,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -987,7 +975,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -995,7 +983,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1003,7 +991,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1011,7 +999,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1019,7 +1007,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1027,7 +1015,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
@@ -1035,7 +1023,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/01-硬币凑数字.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/01-硬币凑数字.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1386">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1045,7 +1033,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/03-无向图最短路径.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/03-无向图最短路径.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1055,7 +1043,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/02-最长非降序子序列长度.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/02-最长非降序子序列长度.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1056">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1065,7 +1053,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1210">
