@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/11-Reverse Linked List II.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/12-Merge Two Sorted Lists.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/13-Merge K Sorted Lists.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/14-Reorder List.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/15-Copy List with Random Pointer.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/16-Sort List.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/17-Insertion Sort List.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/18-Palindrome Linked List.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/19-LRU Cache.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/20-Rotate List.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/21-Swap Nodes in Pairs.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/22-Remove Linked List Elements.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -25,12 +33,156 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="12-Merge Two Sorted Lists.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/12-Merge Two Sorted Lists.md">
+      <file leaf-file-name="13-Merge K Sorted Lists.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/13-Merge K Sorted Lists.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="539">
-                <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14-Reorder List.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/14-Reorder List.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15-Copy List with Random Pointer.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/15-Copy List with Random Pointer.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16-Sort List.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/16-Sort List.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17-Insertion Sort List.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/17-Insertion Sort List.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="18-Palindrome Linked List.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/18-Palindrome Linked List.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="19-LRU Cache.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/19-LRU Cache.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20-Rotate List.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/20-Rotate List.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="21-Swap Nodes in Pairs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/21-Swap Nodes in Pairs.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="22-Remove Linked List Elements.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/22-Remove Linked List Elements.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -436,12 +588,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="11930000" />
+      <workItem from="1471507945123" duration="12294000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390369000" />
+    <option name="totallyTimeSpent" value="390733000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -521,146 +673,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/01-深拷贝函数clone实现.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-01-cookie的优缺点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-231">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-03-webStorage和cookie区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储、与cookie区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="121">
-            <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/03-CSS link和import.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/04-左侧定宽,右侧自适应布局如何实现.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="3454">
-            <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/05-html常见兼容性问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1364">
-            <caret line="62" column="4" selection-start-line="62" selection-start-column="4" selection-end-line="62" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/06-常问到的http状态码.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-231">
-            <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/13-document.write和innerHTML.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/08-浏览器从输入网址到展示页面详细过程.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1226,6 +1238,146 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="539">
             <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/13-Merge K Sorted Lists.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/14-Reorder List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/15-Copy List with Random Pointer.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/16-Sort List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/17-Insertion Sort List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/18-Palindrome Linked List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/19-LRU Cache.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/20-Rotate List.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/21-Swap Nodes in Pairs.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/22-Remove Linked List Elements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
