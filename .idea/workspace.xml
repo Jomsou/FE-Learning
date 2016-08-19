@@ -2,95 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/01-commonJS规范,AMD,CMD.md" afterPath="$PROJECT_DIR$/07-nodejs相关/01-nodejs知识点/01-commonJS规范,AMD,CMD.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/02-NodeJS内存泄漏.md" afterPath="$PROJECT_DIR$/07-nodejs相关/01-nodejs知识点/02-NodeJS内存泄漏.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/03-nodejs上线部署要做的事.md" afterPath="$PROJECT_DIR$/07-nodejs相关/01-nodejs知识点/03-nodejs上线部署要做的事.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/04-exports和module.exports的区别.md" afterPath="$PROJECT_DIR$/07-nodejs相关/01-nodejs知识点/04-exports和module.exports的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/01-nodejs知识点/05-mongoose.md" afterPath="$PROJECT_DIR$/07-nodejs相关/01-nodejs知识点/05-mongoose.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/01-MongoDB基础.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/01-MongoDB基础.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/02-常用命令,善用帮助文档.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/02-常用命令,善用帮助文档.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/03-学习过程中使用的数据库.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/03-学习过程中使用的数据库.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/04-文档插入与删除.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/04-文档插入与删除.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/05-文档更新(重要).md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/05-文档更新(重要).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/06-文档查询.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/06-文档查询.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/07-索引.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/07-索引.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/08-特殊索引和集合.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/08-特殊索引和集合.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/09-聚合(重要!!!).md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/09-聚合(重要!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/10-聚合(mapReduce!!!).md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/10-聚合(mapReduce!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/11-应用程序设计.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/11-应用程序设计.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/12-副本集.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/12-副本集.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/13-分片与集群.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/13-分片与集群.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/14-应用管理.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/14-应用管理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/15-数据管理.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/15-数据管理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/16-持久性.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/16-持久性.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/17-服务器管理.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/17-服务器管理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/02-MongoDB笔记/18-MongoDB监控与备份.md" afterPath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/18-MongoDB监控与备份.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/04-nodejs相关/README.md" afterPath="$PROJECT_DIR$/07-nodejs相关/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/00-实现javascript深拷贝函数.md" afterPath="$PROJECT_DIR$/04-面试题总结/00-实现javascript深拷贝函数.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/00-被问到最多的问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/00-被问到最多的问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/01-面试官问:你有什么想问我的.md" afterPath="$PROJECT_DIR$/04-面试题总结/01-面试官问:你有什么想问我的.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/03-css3新特性有哪些,带来的好处.md" afterPath="$PROJECT_DIR$/04-面试题总结/03-css3新特性有哪些,带来的好处.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/04-javascript数据类型.md" afterPath="$PROJECT_DIR$/04-面试题总结/04-javascript数据类型.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/05-常问到的http状态码.md" afterPath="$PROJECT_DIR$/04-面试题总结/05-常问到的http状态码.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/06-手写原生js实现事件代理.md" afterPath="$PROJECT_DIR$/04-面试题总结/06-手写原生js实现事件代理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/07-浏览器从输入网址到展示页面详细过程.md" afterPath="$PROJECT_DIR$/04-面试题总结/07-浏览器从输入网址到展示页面详细过程.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/08-01-js、css和html加载顺序和加载过程.md" afterPath="$PROJECT_DIR$/04-面试题总结/08-01-js、css和html加载顺序和加载过程.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" afterPath="$PROJECT_DIR$/04-面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/09-浏览器加载和渲染html的顺序(!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/09-浏览器加载和渲染html的顺序(!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/10-页面中js和css放置位置对性能的影响.md" afterPath="$PROJECT_DIR$/04-面试题总结/10-页面中js和css放置位置对性能的影响.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/11-javascript在页面中的加载顺序.md" afterPath="$PROJECT_DIR$/04-面试题总结/11-javascript在页面中的加载顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/12-js文件放在页面最底部加载的原因.md" afterPath="$PROJECT_DIR$/04-面试题总结/12-js文件放在页面最底部加载的原因.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/13-01-script标签引入脚本的三种情况.md" afterPath="$PROJECT_DIR$/04-面试题总结/13-01-script标签引入脚本的三种情况.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/13-02-浏览器线程与阻塞.md" afterPath="$PROJECT_DIR$/04-面试题总结/13-02-浏览器线程与阻塞.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/14-javascript的执行顺序.md" afterPath="$PROJECT_DIR$/04-面试题总结/14-javascript的执行顺序.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/15-css选择器的性能.md" afterPath="$PROJECT_DIR$/04-面试题总结/15-css选择器的性能.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/16-css优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/16-css优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/17-css选择器权重计算.md" afterPath="$PROJECT_DIR$/04-面试题总结/17-css选择器权重计算.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/18-自定义事件.md" afterPath="$PROJECT_DIR$/04-面试题总结/18-自定义事件.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/19-svg与canvas的区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/19-svg与canvas的区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/20-jpg与png的区别以及使用场景.md" afterPath="$PROJECT_DIR$/04-面试题总结/20-jpg与png的区别以及使用场景.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/21-01-meta标签属性详解1.md" afterPath="$PROJECT_DIR$/04-面试题总结/21-01-meta标签属性详解1.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/21-02-meta标签属性详解2.md" afterPath="$PROJECT_DIR$/04-面试题总结/21-02-meta标签属性详解2.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/22-各个浏览器的内核.md" afterPath="$PROJECT_DIR$/04-面试题总结/22-各个浏览器的内核.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/23-原生js实现jquery的ready方法.md" afterPath="$PROJECT_DIR$/04-面试题总结/23-原生js实现jquery的ready方法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/24-网页中有大量图片的性能优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/24-网页中有大量图片的性能优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/25-gulp和webpack的区别 .md" afterPath="$PROJECT_DIR$/04-面试题总结/25-gulp和webpack的区别 .md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/26-前端实际项目中的性能优化(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/26-前端实际项目中的性能优化(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/27-用js将给定的数字转化成千分位的格式.md" afterPath="$PROJECT_DIR$/04-面试题总结/27-用js将给定的数字转化成千分位的格式.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/images/css-weight-1.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/css-weight-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-01-前端面试题总结/images/css-weight-2.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/css-weight-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/00-前端开发题目集锦.md" afterPath="$PROJECT_DIR$/04-面试题总结/00-前端开发题目集锦.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/01-请你谈谈cookie的弊端.md" afterPath="$PROJECT_DIR$/04-面试题总结/01-请你谈谈cookie的弊端.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/02-浏览器本地存储.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-浏览器本地存储.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/03-webStorage和cookie区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/03-webStorage和cookie区别.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/04-CSS link和import.md" afterPath="$PROJECT_DIR$/04-面试题总结/04-CSS link和import.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/05-html常见兼容性问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/05-html常见兼容性问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/06-iframe优缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/06-iframe优缺点.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/07-FOUC(无样式内容闪烁).md" afterPath="$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/08-document.write和innerHTML.md" afterPath="$PROJECT_DIR$/04-面试题总结/08-document.write和innerHTML.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/09-为什么要有同源限制.md" afterPath="$PROJECT_DIR$/04-面试题总结/09-为什么要有同源限制.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/10-写一个通用的事件处理函数(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/10-写一个通用的事件处理函数(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/11-clone函数的实现(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/11-clone函数的实现(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/12-01-模块化加载原理(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/12-02-seajs相关问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/13-跨域相关(!!!).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/14-NodeJS作为中间层的问题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/15-ReactNative优势和坑、怎样优化.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/16-React原理及优缺点.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/17-webpack功能及原理.md" afterPath="$PROJECT_DIR$/04-面试题总结/17-webpack功能及原理.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/module-1.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/module-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/module-2.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/module-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/react-1.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/react-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/react-2.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/react-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/react-3.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/react-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-1.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-2.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-3.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-4.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-5.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-6.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/07-02-前端面试题合集/images/rn-7.png" afterPath="$PROJECT_DIR$/04-面试题总结/images/rn-7.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/00-被问到最多的问题.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/01-面试官问:你有什么想问我的.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/03-css3新特性有哪些,带来的好处.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/04-javascript数据类型.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/06-iframe优缺点.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/06-手写原生js实现事件代理.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/11-clone函数的实现(!!!).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/13-跨域相关(!!!).md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/26-前端实际项目中的性能优化(!!!).md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/00-实现javascript深拷贝函数.md" afterPath="$PROJECT_DIR$/04-面试题总结/01-深拷贝函数clone实现.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/01-请你谈谈cookie的弊端.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-01-cookie的优缺点.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/02-左侧定宽,右侧自适应布局如何实现.md" afterPath="$PROJECT_DIR$/04-面试题总结/04-左侧定宽,右侧自适应布局如何实现.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/02-浏览器本地存储.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/03-webStorage和cookie区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-03-webStorage和cookie区别.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/04-CSS link和import.md" afterPath="$PROJECT_DIR$/04-面试题总结/03-CSS link和import.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/05-常问到的http状态码.md" afterPath="$PROJECT_DIR$/04-面试题总结/06-常问到的http状态码.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/07-浏览器从输入网址到展示页面详细过程.md" afterPath="$PROJECT_DIR$/04-面试题总结/08-浏览器从输入网址到展示页面详细过程.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/08-01-js、css和html加载顺序和加载过程.md" afterPath="$PROJECT_DIR$/04-面试题总结/09-01-js、css和html加载顺序和加载过程.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" afterPath="$PROJECT_DIR$/04-面试题总结/09-02-浏览器加载、渲染html和加载js的顺序.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/09-为什么要有同源限制.md" afterPath="$PROJECT_DIR$/04-面试题总结/10-为什么要有同源限制.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/09-浏览器加载和渲染html的顺序(!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/09-03-浏览器加载和渲染html的顺序(!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/10-写一个通用的事件处理函数(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/10-页面中js和css放置位置对性能的影响.md" afterPath="$PROJECT_DIR$/04-面试题总结/09-04-页面中js和css放置位置对性能的影响.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/11-javascript在页面中的加载顺序.md" afterPath="$PROJECT_DIR$/04-面试题总结/09-05-javascript在页面中的加载顺序.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/12-01-模块化加载原理(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/23-01-模块化加载原理(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/12-02-seajs相关问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/12-js文件放在页面最底部加载的原因.md" afterPath="$PROJECT_DIR$/04-面试题总结/13-02-js文件放在页面最底部加载的原因.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/13-01-script标签引入脚本的三种情况.md" afterPath="$PROJECT_DIR$/04-面试题总结/12-01-script标签引入脚本的三种情况.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/13-02-浏览器线程与阻塞.md" afterPath="$PROJECT_DIR$/04-面试题总结/13-01-浏览器线程与阻塞.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/14-NodeJS作为中间层的问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/24-NodeJS作为中间层的问题.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/15-ReactNative优势和坑、怎样优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/25-ReactNative优势和坑、怎样优化.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/15-css选择器的性能.md" afterPath="$PROJECT_DIR$/04-面试题总结/15-01-css选择器的性能.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/16-React原理及优缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/26-React原理及优缺点.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/16-css优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/15-02-css优化.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/17-css选择器权重计算.md" afterPath="$PROJECT_DIR$/04-面试题总结/15-03-css选择器权重计算.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/17-webpack功能及原理.md" afterPath="$PROJECT_DIR$/04-面试题总结/27-webpack功能及原理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/18-自定义事件.md" afterPath="$PROJECT_DIR$/04-面试题总结/16-自定义事件.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/19-svg与canvas的区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/20-jpg与png的区别以及使用场景.md" afterPath="$PROJECT_DIR$/04-面试题总结/17-02-jpg与png的区别以及使用场景.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/21-01-meta标签属性详解1.md" afterPath="$PROJECT_DIR$/04-面试题总结/18-01-meta标签属性详解1.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/21-02-meta标签属性详解2.md" afterPath="$PROJECT_DIR$/04-面试题总结/18-02-meta标签属性详解2.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/22-各个浏览器的内核.md" afterPath="$PROJECT_DIR$/04-面试题总结/19-各个浏览器的内核.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/23-原生js实现jquery的ready方法.md" afterPath="$PROJECT_DIR$/04-面试题总结/20-原生js实现jquery的ready方法.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/24-网页中有大量图片的性能优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/21-网页中有大量图片的性能优化.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/27-用js将给定的数字转化成千分位的格式.md" afterPath="$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md" afterPath="$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,7 +68,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="16-自定义事件.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/16-自定义事件.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -126,13 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/16-Median.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/17-Partition Array by Odd and Even.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/02-Integer Array/18-Kth Largest Element.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/01-Bubble Sort.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/03-Insertion Sort.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/03-Binary Search/01-Search Insert Position.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/04-Math and Bit Manipulation/01-Single Number.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/04-Math and Bit Manipulation/02-Single Number II.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/04-Math and Bit Manipulation/03-Single Number III.md" />
@@ -177,6 +145,13 @@
         <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-03-10种方式实现跨域资源共享.md" />
         <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-跨域方法(!!).md" />
         <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-02-CORS详解(!!!).md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/04-左侧定宽,右侧自适应布局如何实现.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/06-常问到的http状态码.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/08-浏览器从输入网址到展示页面详细过程.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/08-01-js、css和html加载顺序和加载过程.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/09-05-javascript在页面中的加载顺序.md" />
       </list>
     </option>
   </component>
@@ -439,12 +414,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="6672000" />
+      <workItem from="1471507945123" duration="7981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="385111000" />
+    <option name="totallyTimeSpent" value="386420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -457,9 +432,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26370135" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27879268" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -524,426 +499,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/16-Best Time to Buy and Sell Stock II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/17-Best Time to Buy and Sell Stock III.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/18-Best Time to Buy and Sell Stock IV.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/19-Distinct Subsequences.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/20-Interleaving String.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/23-Longest Increasing Continuous subsequence.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/24-Longest Increasing Continuous subsequence II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/25-Maximal Square.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/21-Maximum Subarray.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="2992">
-            <caret line="136" column="29" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="29" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/10-Longest Increasing Subsequence.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="603">
-            <caret line="212" column="0" selection-start-line="212" selection-start-column="0" selection-end-line="212" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/12-Longest Common Subsequence.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-Dynamic Programming/22-Maximum Subarray II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="471">
-            <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/16-React原理及优缺点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="163" column="42" selection-start-line="163" selection-start-column="42" selection-end-line="163" selection-end-column="42" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/17-webpack功能及原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/14-NodeJS作为中间层的问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/15-ReactNative优势和坑、怎样优化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-01-模块化加载原理(!!!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/13-跨域相关(!!!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07-02-前端面试题合集/12-02-seajs相关问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-3665">
-            <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/01-String.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="462">
-            <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/02-Linked List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="3146">
-            <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/04-Huffman Compression.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/05-Queue.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/06-Heap.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="528">
-            <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/07-Stack.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/08-Set.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="308">
-            <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/09-Map.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="484">
-            <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/10-Graph.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="319">
-            <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/01-Basic Data Structure/03-Binary Tree.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/01-Bubble Sort.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-319">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/02-Selection Sort.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1228,6 +783,426 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-3344">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/00-被问到最多的问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/00-前端开发题目集锦.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-6974">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/01-深拷贝函数clone实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/01-面试官问:你有什么想问我的.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-01-cookie的优缺点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-231">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-03-webStorage和cookie区别.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/03-css3新特性有哪些,带来的好处.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/04-javascript数据类型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/04-左侧定宽,右侧自适应布局如何实现.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="275">
+            <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/05-html常见兼容性问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-627">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/06-常问到的http状态码.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="748">
+            <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/06-iframe优缺点.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/06-手写原生js实现事件代理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/08-浏览器从输入网址到展示页面详细过程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="242">
+            <caret line="207" column="0" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/09-01-js、css和html加载顺序和加载过程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="121">
+            <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/09-02-浏览器加载、渲染html和加载js的顺序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="231">
+            <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/09-03-浏览器加载和渲染html的顺序(!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-561">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-1243">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/10-为什么要有同源限制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/11-clone函数的实现(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/13-跨域相关(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/12-01-script标签引入脚本的三种情况.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-55">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/09-05-javascript在页面中的加载顺序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="253">
+            <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/13-01-浏览器线程与阻塞.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-2651">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/14-javascript的执行顺序.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-2541">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/26-前端实际项目中的性能优化(!!!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-517">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/08-document.write和innerHTML.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/16-自定义事件.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
