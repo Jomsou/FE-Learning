@@ -2,16 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/07-Balanced Binary Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/08-Binary Tree Maximum Path Sum.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/09-Lowest Common Ancestor.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/10-Invert Binary Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/11-Diameter of a Binary Tree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/12-Construct Binary Tree from Preorder and Inorder Traversal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/13-Construct Binary Tree from Inorder and Postorder Traversal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/14-Subtree.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/15-Binary Tree Zigzag Level Order Traversal.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/16-Binary Tree Serialization.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -33,163 +55,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="07-Balanced Binary Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/07-Balanced Binary Tree.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="01-House Robber.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08-Binary Tree Maximum Path Sum.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/08-Binary Tree Maximum Path Sum.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="09-Lowest Common Ancestor.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/09-Lowest Common Ancestor.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10-Invert Binary Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/10-Invert Binary Tree.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="11-Diameter of a Binary Tree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/11-Diameter of a Binary Tree.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="12-Construct Binary Tree from Preorder and Inorder Traversal.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/12-Construct Binary Tree from Preorder and Inorder Traversal.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13-Construct Binary Tree from Inorder and Postorder Traversal.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/13-Construct Binary Tree from Inorder and Postorder Traversal.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14-Subtree.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/14-Subtree.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15-Binary Tree Zigzag Level Order Traversal.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/15-Binary Tree Zigzag Level Order Traversal.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16-Binary Tree Serialization.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/16-Binary Tree Serialization.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -209,37 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/07-Bucket Sort.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/08-Counting Sort.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/09-Radix Sort.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/03-Basic Algorithms/02-Binary Search.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/03-Basic Algorithms/03-Math.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/01-String/01-strStr.md" />
-        <option value="$PROJECT_DIR$/05-前端博客好文章/08-Nginx负载均衡方案.md" />
-        <option value="$PROJECT_DIR$/05-前端博客好文章/09-Bind的使用场景.md" />
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/08-02-Ajax详解与跨域(!!!).md" />
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/08-01-Ajax工作原理.md" />
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/08-01-Ajax原理详解.md" />
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-03-10种方式实现跨域资源共享.md" />
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-01-跨域方法(!!).md" />
-        <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/09-02-CORS详解(!!!).md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/04-左侧定宽,右侧自适应布局如何实现.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/07-FOUC(无样式内容闪烁).md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/08-浏览器从输入网址到展示页面详细过程.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/08-01-js、css和html加载顺序和加载过程.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/08-02-浏览器加载、渲染html和加载js的顺序.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/09-05-javascript在页面中的加载顺序.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/00-前端开发题目集锦.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/05-html常见兼容性问题.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/06-常问到的http状态码.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/09-02-浏览器加载、渲染html和加载js的顺序.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/09-04-script标签引入脚本的三种情况.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/09-05-js文件放在页面最底部加载的原因.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/15-01-css选择器性能和优化.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/21-网页中有大量图片的性能优化.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/23-01-模块化加载原理(!!!).md" />
         <option value="$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/25-gulp和webpack的区别 .md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/01-Remove Duplicates from Sorted List.md" />
@@ -260,6 +103,37 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/04-Binary Tree Level Order Traversal.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/05-Binary Tree Level Order Traversal II.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/06-Maximum Depth of Binary Tree.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/05-House Robber.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/07-Paint Fence.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/07-Best Time to Buy and Sell Stock.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/09-Climbing Stairs.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/10-Wiggle Subsequence.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/11-Unique Paths II.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/12-Minimum Path Sum.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/13-Unique Paths.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/14-Longest Increasing Subsequence.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/15-Bomb Enemy.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/16-Range Sum Query 2D - Immutable.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/17-Decode Ways.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/18-Unique Binary Search Trees II.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/19-Unique Binary Search Trees.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/20-Best Time to Buy and Sell Stock with Cooldown.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/21-Combination Sum IV.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/22-Triangle.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/23-Perfect Squares.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/24-Count Numbers with Unique Digits.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/25-Guess Number Higher or Lower II.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/26-Ugly Number II.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/27-&#9;Paint House.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/28-Maximal Square.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/29-House Robber II.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/30-Maximum Subarray.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/31-&#9;Android Unlock Patterns.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/32-Integer Break.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/33-Maximum Product Subarray.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/34-Counting Bits.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/35-Coin Change.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/36-Largest Divisible Subset.js" />
       </list>
     </option>
   </component>
@@ -373,7 +247,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03-数据结构与算法、LeetCode题解" />
+              <option name="myItemId" value="02-数据结构与算法(LeetCode)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -391,11 +265,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03-数据结构与算法、LeetCode题解" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02-编程!" />
+              <option name="myItemId" value="00-常见重要算法的原理!!!" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -413,15 +283,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="03-数据结构与算法、LeetCode题解" />
+              <option name="myItemId" value="00-常见重要算法的原理!!!" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="02-编程!" />
+              <option name="myItemId" value="动态规划题目集锦" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="06-Binary Tree" />
+              <option name="myItemId" value="08-数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="00-常见重要算法的原理!!!" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="动态规划题目集锦" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="leetcode动态规划题(由易到难)" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,18 +335,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/images" />
       <recent name="$PROJECT_DIR$/07-01-前端面试题总结" />
       <recent name="$PROJECT_DIR$/07-01-前端面试题总结/images" />
       <recent name="$PROJECT_DIR$/07-02-前端面试题合集/images" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论/02-Basic Sorting/images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/00-常见算法原理!!!" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.07-堆排序(!!!!!).js">
@@ -588,12 +480,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="13648000" />
+      <workItem from="1471507945123" duration="14781000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="392087000" />
+    <option name="totallyTimeSpent" value="393220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -606,9 +498,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27720413" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33518666" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -673,510 +565,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/18-01-meta标签属性详解1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-4147">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/18-02-meta标签属性详解2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/19-各个浏览器的内核.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/21-网页中有大量图片的性能优化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/20-原生js实现jquery的ready方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="363">
-            <caret line="64" column="47" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="47" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-319">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/23-01-模块化加载原理(!!!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-5511">
-            <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1782">
-            <caret line="89" column="57" selection-start-line="89" selection-start-column="57" selection-end-line="89" selection-end-column="57" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/27-webpack功能及原理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/26-React原理及优缺点.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-3641">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/25-ReactNative优势和坑、怎样优化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-5093">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/25-gulp和webpack的区别 .md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="539">
-            <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/24-NodeJS作为中间层的问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/01-Remove Duplicates from Sorted List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="36" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/02-Remove Duplicates from Sorted List II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="39" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/03-Remove Duplicates from Unsorted List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="38" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/04-Partition List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/05-Add Two Numbers.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="17" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/06-Two Lists Sum Advanced.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="24" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/07-Remove Nth Node From End of List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="34" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/08-Linked List Cycle.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1540">
-            <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/09-Linked List Cycle II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="20" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/11-Reverse Linked List II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="297">
-            <caret line="136" column="5" selection-start-line="136" selection-start-column="5" selection-end-line="136" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/10-Reverse Linked List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="21" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/12-Merge Two Sorted Lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="539">
-            <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/13-Merge K Sorted Lists.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/14-Reorder List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/15-Copy List with Random Pointer.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/16-Sort List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/17-Insertion Sort List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/18-Palindrome Linked List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/19-LRU Cache.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/20-Rotate List.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/21-Swap Nodes in Pairs.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/05-Linked List/22-Remove Linked List Elements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/01-Preorder Traversal.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="32" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/06-Binary Tree/02-Binary Tree Inorder Traversal.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1381,6 +769,320 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/198-House Robber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="55" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/03-Paint Fence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/04-Best Time to Buy and Sell Stock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/05-Climbing Stairs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/06-Wiggle Subsequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/07-Unique Paths II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/08-Minimum Path Sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/09-Unique Paths.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/10-Longest Increasing Subsequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/11-Bomb Enemy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/12-Range Sum Query 2D - Immutable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/13-Decode Ways.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/14-Unique Binary Search Trees II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/15-Unique Binary Search Trees.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/16-Best Time to Buy and Sell Stock with Cooldown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/17-Combination Sum IV.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/18-Triangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/19-Perfect Squares.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/20-Count Numbers with Unique Digits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/21-Guess Number Higher or Lower II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/22-Ugly Number II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/23-Paint House.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/24-Maximal Square.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/25-House Robber II.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/26-Maximum Subarray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/27-Android Unlock Patterns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/28-Integer Break.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/29-Maximum Product Subarray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/30-Counting Bits.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/31-Coin Change.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/01-硬币凑数字.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1386">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/03-无向图最短路径.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/02-最长非降序子序列长度.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1210">
+            <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
