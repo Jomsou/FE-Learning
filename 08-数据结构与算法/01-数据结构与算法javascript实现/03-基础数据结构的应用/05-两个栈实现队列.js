@@ -4,25 +4,54 @@ var Stack = require('../data-structures/02_Stack');
  * 利用2个栈实现一个队列, 只需要实现先进先出的功能
  * @constructor
  */
+/**
+ * @constructor
+ */
 var Queue = function () {
-    this.stack1 = new Stack();
-    this.stack2 = new Stack();
-}
+    this.stack1 = [];
+    this.stack2 = [];
+};
 
-Queue.prototype.enqueue = function (ele) {
-    this.stack1.push(ele);   //入队操作都压入栈1
-}
+/**
+ * @param {number} x
+ * @returns {void}
+ */
+Queue.prototype.enqueue = function (x) {
+    this.stack1.push(x);
+};
 
+/**
+ * @returns Number
+ */
 Queue.prototype.dequeue = function () {
-    if (this.stack2.length()) {  //栈2不空,直接pop
+    if (this.stack2.length) {
         return this.stack2.pop();
-    } else {  //若第二个栈不空,则将第一个栈中的所有元素出栈并压入栈2,并pop一次
-        while (this.stack1.length()) {
+    } else {
+        while (this.stack1.length !== 0) {
             this.stack2.push(this.stack1.pop());
         }
         return this.stack2.pop();
     }
-}
+};
+
+/**
+ * @returns {number}
+ */
+Queue.prototype.peek = function () {
+    if (this.stack2.length) {
+        return this.stack2[this.stack2.length - 1];
+    } else {
+        return this.stack1[0];
+    }
+
+};
+
+/**
+ * @returns {boolean}
+ */
+Queue.prototype.empty = function () {
+    return this.stack1.length === 0 && this.stack2.length === 0;
+};
 
 var q = new Queue();
 q.enqueue(1);
