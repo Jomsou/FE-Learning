@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,35 +24,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="34-丑数.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/34-丑数.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="53">
-                <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="37-两个链表的第一个公共节点.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="35-第一个只出现一次的字符.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -72,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/04-公司校招算法真题/02-买卖股票.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-01-Dynamic Programming/01-Triangle.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-01-Dynamic Programming/02-Backpack.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-01-Dynamic Programming/03-Backpack II.md" />
@@ -123,6 +100,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/33-把数组排成最小的数.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/34-丑数.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.md" />
       </list>
     </option>
   </component>
@@ -425,12 +403,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="34927000" />
+      <workItem from="1471507945123" duration="35012000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="413366000" />
+    <option name="totallyTimeSpent" value="413451000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -510,20 +488,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-01-Dynamic Programming/14-Jump Game II.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-01-Dynamic Programming/15-Best Time to Buy and Sell Stock.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1124,6 +1088,20 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/34-丑数.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1138,18 +1116,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
   </component>
