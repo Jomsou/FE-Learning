@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/images/sort.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="29-02-求出数组中任意第K大的数字.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md">
+      <file leaf-file-name="00-排序算法分析比较.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="15" />
+              <first_editor relative-caret-position="537">
+                <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/16-反转链表.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/17-合并两个有序链表.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/18-树的子结构.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/19-二叉树的镜像.md" />
@@ -106,6 +106,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/28-字符串的排列.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
       </list>
     </option>
   </component>
@@ -241,7 +242,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05-剑指offer" />
+              <option name="myItemId" value="01-排序算法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -263,11 +264,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/images" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer" />
       <recent name="$PROJECT_DIR$/04-面试题总结" />
       <recent name="$PROJECT_DIR$/04-面试题总结/images" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!/09-02-动态规划" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/02-编程!" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/08-数据结构与算法/04-公司校招算法真题" />
@@ -408,12 +409,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="40042000" />
+      <workItem from="1471507945123" duration="40545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="418481000" />
+    <option name="totallyTimeSpent" value="418984000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -493,14 +494,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/17-合并两个有序链表.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/18-树的子结构.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1132,6 +1125,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="537">
+            <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
