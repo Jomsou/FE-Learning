@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题(矩形覆盖).md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,9 +24,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="09-04-斐波那契数列延展题.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <file leaf-file-name="09-04-斐波那契数列延展题(矩形覆盖).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题(矩形覆盖).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
                 <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -34,17 +35,49 @@
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-二维数组中的查找.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-二维数组中的查找.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="242">
                 <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09-02-青蛙跳台阶问题1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="97">
+                <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09-03-青蛙跳台阶问题2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-03-青蛙跳台阶问题2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-321">
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/16-Range Sum Query 2D - Immutable.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/17-Decode Ways.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/18-Unique Binary Search Trees II.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/19-Unique Binary Search Trees.js" />
@@ -122,6 +154,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用/05-两个栈实现队列.js" />
         <option value="$PROJECT_DIR$/04-面试题总结/00-00-前端面试题大全(!!!).md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md" />
       </list>
     </option>
   </component>
@@ -424,12 +457,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="32153000" />
+      <workItem from="1471507945123" duration="32250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="410592000" />
+    <option name="totallyTimeSpent" value="410689000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,9 +475,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27720413" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27720413" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -509,22 +542,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/32-Largest Divisible Subset.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/01-硬币凑数字.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1386">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/03-无向图最短路径.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1095,25 +1112,53 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-02-青蛙跳台阶问题1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="97">
+            <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-03-青蛙跳台阶问题2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-321">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/03-二维数组中的查找.md">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题(矩形覆盖).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="242">
-            <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
