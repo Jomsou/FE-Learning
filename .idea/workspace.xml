@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/05-从尾到头打印链表.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/05-从尾到头打印链表.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,12 +39,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="05-从尾到头打印链表.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="05-从尾到头打印链表.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/05-从尾到头打印链表.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="176">
                 <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06-重建二叉树.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="792">
+                <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/20-Best Time to Buy and Sell Stock with Cooldown.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/21-Combination Sum IV.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/22-Triangle.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理!!!/动态规划题目集锦/23-Perfect Squares.js" />
@@ -122,6 +137,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/09-04-斐波那契数列延展题(矩形覆盖).md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/04-替换空格.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/05-从尾到头打印链表.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md" />
       </list>
     </option>
   </component>
@@ -424,12 +440,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="32508000" />
+      <workItem from="1471507945123" duration="32649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="410947000" />
+    <option name="totallyTimeSpent" value="411088000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -509,26 +525,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/01-House Robber.js">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1210">
-            <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/02-数据结构与算法(LeetCode)/动态规划题目集锦/leetcode动态规划题(由易到难)/02-Range Sum Query.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1168">
@@ -1138,6 +1134,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="176">
             <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/06-重建二叉树.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="792">
+            <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />
