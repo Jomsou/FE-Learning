@@ -8,7 +8,7 @@
  *
  * 可以动态定义每次排序的间隔,但在应用中,通常会提前定义好间隔序列。
  *
- * 希尔排序可以和其他排序算法配合使用,本例使用插入排序。
+ * 希尔排序可以和其他排序算法配合使用,一般使用插入排序。
  *
  * 分组间隔的合理性会对希尔排序的性能造成较大的影响!!!
  * 希尔排序比冒泡排序平均快5倍,比插入排序大致快2倍,但是比快排、归并、堆排序慢的多!!!!
@@ -21,18 +21,19 @@ var shellSort = function (data, gaps /*array of numbers*/) {
     var l = data.length;
 
     for (var k = 0; k < gaps.length; k++) {  //最外层循环取得每次的step
+
         var step = gaps[k];
 
-        //内部使用插入排序算法!
-        for (var i = step; i <= l; i += step) {
-            var j = i - step;
-            while ((j >= 0) && (data[j] < data[j - step])) {
-                //交换
-                var tmp = data[j];
-                data[j] = data[j - step];
-                data[j - step] = tmp;
-
-                j -= step;  //j-step
+        //希尔排序内部使用插入排序
+        for (var i = step; i < l; i += step) {
+            if (data[i - step] > data[i]) {
+                var temp = data[i];
+                var j = i;
+                while (j > 0 && data[j - step] > temp) {
+                    data[j] = data[j - step];
+                    j -= step;
+                }
+                data[j] = temp;
             }
         }
     }
@@ -41,8 +42,8 @@ var shellSort = function (data, gaps /*array of numbers*/) {
 }
 
 
-var data = generateTestData(50000);
-// console.log(data);
+var data = generateTestData(20);
+console.log(data);
 
 var start = new Date().getTime();
 console.log('start sorting....');
@@ -53,4 +54,4 @@ var result = shellSort(data, [10, 4, 1]);
 var end = new Date().getTime();
 console.log('耗时: ' + (end - start) + ' ms');
 
-// console.log(result);
+console.log(result);

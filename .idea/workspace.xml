@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,11 +23,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="03-插入排序.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-插入排序.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            <state relative-caret-position="176">
+              <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-希尔排序.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -49,7 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/20-顺时针打印矩阵.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/21-包含min函数的栈.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/22-栈的压入、弹出序列.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/23-从上往下打印二叉树.md" />
@@ -100,6 +109,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js" />
       </list>
     </option>
   </component>
@@ -271,10 +281,7 @@
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-数据结构与算法、LeetCode题解/01-基础理论" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.03-插入排序.js">
-    <configuration default="false" name="给数组添加去重的方法.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/04-前端常见算法题/给数组添加去重的方法.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/04-前端常见算法题">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.04-希尔排序.js">
     <configuration default="false" name="05-两个栈实现队列.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="05-两个栈实现队列.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/03-基础数据结构的应用">
       <method />
     </configuration>
@@ -285,6 +292,9 @@
       <method />
     </configuration>
     <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03-插入排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法">
+      <method />
+    </configuration>
+    <configuration default="false" name="04-希尔排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04-希尔排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -329,19 +339,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.给数组添加去重的方法.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.柯里化.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.柯里化.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.04-希尔排序.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.柯里化.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.给数组添加去重的方法.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.04-希尔排序.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.柯里化.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.05-两个栈实现队列.js" />
       </list>
     </recent_temporary>
   </component>
@@ -402,12 +412,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="45563000" />
+      <workItem from="1471507945123" duration="45799000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="424002000" />
+    <option name="totallyTimeSpent" value="424238000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,20 +497,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/22-栈的压入、弹出序列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="154">
-            <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/23-从上往下打印二叉树.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -1147,8 +1143,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/03-插入排序.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        <state relative-caret-position="176">
+          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/04-希尔排序.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
           <folding />
         </state>
       </provider>
