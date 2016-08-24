@@ -1,19 +1,26 @@
-function partialUsingArguments(fn) {
-    var _slice = Array.prototype.slice;
-
-    var args = _slice.call(arguments, 1);
-
-    return function () {
-        return fn.apply(null, args.concat(_slice.call(arguments)));
-    }
+//判断是否为丑数
+//循环判断法,效率低下
+function isUgly(number) {
+    while (number % 2 == 0)
+        number = number / 2;
+    while (number % 3 == 0)
+        number = number / 3;
+    while (number % 5 == 0)
+        number = number / 5;
+    return (number === 1) ? true : false;
 }
 
-var a = 1;
-var b = 2;
-var c = 3;
-var d = 4;
-var test = function (first, second, third, forth) {
-    return first + second + third + forth;
-};
-var res= partialUsingArguments(test, a, b)(c, d);
-console.log(res);
+//获取第k个丑数，假定1为第一个丑数
+function getUglyNumber(index) {
+    var number = 0;
+    var count = 0;
+    while (count < index) {
+        ++number;
+        if (isUgly(number))
+            count++;
+    }
+    return number;
+}
+
+
+console.log(getUglyNumber(1500));
