@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="49-字符串转换成整数.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="49-字符串转换成整数.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="1826">
                 <caret line="83" column="51" selection-start-line="83" selection-start-column="51" selection-end-line="83" selection-end-column="51" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="00-排序算法分析比较.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="405">
+                <caret line="72" column="54" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -98,7 +114,6 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/14-调整数组顺序使奇数位于偶数前面.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/28-字符串的排列.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/29-02-求出数组中任意第K大的数字.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/04-前端常见算法题/柯里化.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/34-丑数.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/36-数组中的逆序对.md" />
@@ -106,6 +121,7 @@
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/40-数组中只出现一次的数字.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/49-字符串转换成整数.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md" />
       </list>
     </option>
   </component>
@@ -241,7 +257,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05-剑指offer" />
+              <option name="myItemId" value="01-排序算法" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -408,12 +424,12 @@
       <workItem from="1470967740247" duration="294000" />
       <workItem from="1470973706560" duration="2531000" />
       <workItem from="1471248384232" duration="29151000" />
-      <workItem from="1471507945123" duration="44875000" />
+      <workItem from="1471507945123" duration="45166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="423314000" />
+    <option name="totallyTimeSpent" value="423605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1031,20 +1047,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="537">
-            <caret line="145" column="0" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/02-选择排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1159,6 +1161,20 @@
         <state relative-caret-position="154">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/01-排序算法/00-排序算法分析比较.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="405">
+            <caret line="72" column="54" selection-start-line="72" selection-start-column="54" selection-end-line="72" selection-end-column="54" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
