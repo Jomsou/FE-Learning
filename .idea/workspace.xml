@@ -2,35 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-01-五大常用算法之分治法.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-01-五大常用算法之分治法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-02-00-五大常用算法之动态规划.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-02-00-五大常用算法之动态规划.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-02-01-动态规划之背包9讲.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-02-01-动态规划之背包9讲.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-02-02-动态规划常见题目.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-02-02-动态规划常见题目.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-03-五大常用算法之贪心法.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-03-五大常用算法之贪心法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-04-五大常用算法之回溯法.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-04-五大常用算法之回溯法.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/00-05-五大常用算法之分支限界.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/00-05-五大常用算法之分支限界.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/01-需要非常熟练掌握的数据结构.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/01-需要非常熟练掌握的数据结构.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/02-常见的海量数据处理面试算法题.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/02-常见的海量数据处理面试算法题.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/03-Hash表算法详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/03-Hash表算法详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/04-堆详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/04-堆详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/05-二叉搜索树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/05-二叉搜索树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/06-红黑树详解.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/06-红黑树详解.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/07-递归.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/07-递归.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-6.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/dp-7.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/dp-7.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/hash-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/hash-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/hash-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/hash-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/heap-1.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/heap-2.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/heap-3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-4.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/heap-4.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-5.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/heap-5.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/00-常见重要算法的原理/images/heap-6.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/images/heap-6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/00-TestDataGenerator.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/00-TestDataGenerator.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/00-排序算法分析比较.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/00-排序算法分析比较.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/01-冒泡排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/01-冒泡排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/02-选择排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/02-选择排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/03-插入排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/03-插入排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/04-希尔排序.js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/04-希尔排序.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/05-快速排序(1!!!!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/05-快速排序(1!!!!!).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/05-快速排序(2).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/05-快速排序(2).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/05-掌握快排(!!!!!).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/05-掌握快排(!!!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/06-归并排序(js版,数组方法很方便!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/06-归并排序(js版,数组方法很方便!!).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/06-归并排序(通用版本!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/06-归并排序(通用版本!!).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/06-掌握归并排序(!!!!!).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/06-掌握归并排序(!!!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/07-堆排序(!!!!!).js" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/07-堆排序(!!!!!).js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/08-掌握堆排序(!!!).md" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/08-掌握堆排序(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/images/heap-sort-1.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/images/heap-sort-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/images/heap-sort-2.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/images/heap-sort-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/images/heap-sort-3.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/images/heap-sort-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/images/sort.png" afterPath="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/images/sort.png" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -215,6 +204,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="08-数据结构与算法" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-基础数据结构、排序与查找" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -255,13 +262,13 @@
     <configuration default="false" name="柯里化.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/前端js相关题目/柯里化.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题">
       <method />
     </configuration>
-    <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/03-插入排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法">
+    <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/03-插入排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)">
       <method />
     </configuration>
-    <configuration default="false" name="04-希尔排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/04-希尔排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法">
+    <configuration default="false" name="04-希尔排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/04-希尔排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)">
       <method />
     </configuration>
-    <configuration default="false" name="01-冒泡排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/01-冒泡排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法">
+    <configuration default="false" name="01-冒泡排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/01-冒泡排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -381,12 +388,12 @@
       <workItem from="1471248384232" duration="29151000" />
       <workItem from="1471507945123" duration="45977000" />
       <workItem from="1472090562361" duration="253000" />
-      <workItem from="1472092350006" duration="4919000" />
+      <workItem from="1472092350006" duration="4997000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="429588000" />
+    <option name="totallyTimeSpent" value="429666000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +752,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/02-选择排序.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/02-选择排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -843,7 +850,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/00-排序算法分析比较.md">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/00-排序算法分析比较.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="97">
@@ -877,7 +884,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/04-希尔排序.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/04-希尔排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="317">
           <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
@@ -899,7 +906,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/03-插入排序.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/03-插入排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
@@ -917,7 +924,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/01-冒泡排序.js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/01-冒泡排序.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
@@ -925,7 +932,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/05-掌握快排(!!!!!).md">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/05-掌握快排(!!!!!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -939,7 +946,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/07-堆排序(!!!!!).js">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/07-堆排序(!!!!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1562">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -947,7 +954,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法/08-掌握堆排序(!!!).md">
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/08-掌握堆排序(!!!).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1067">
