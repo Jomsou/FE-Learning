@@ -7,7 +7,7 @@ var generateTestData = require('./00-TestDataGenerator');
 var bubbleSort = function (data) {
 
     for (var i = 0; i < data.length; i++) {
-        for (var j = i; j < data.length; j++) {
+        for (var j = i + 1; j < data.length; j++) {
             if (data[j] < data[i]) {
                 var temp = data[i];
                 data[i] = data[j];
