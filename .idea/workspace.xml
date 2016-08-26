@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/09-美团-拜访.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/10-美团-直方图内最大矩形.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,11 +24,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="09-美团-拜访.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="09-美团-拜访.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/09-美团-拜访.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10-美团-直方图内最大矩形.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/10-美团-直方图内最大矩形.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -52,7 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/42-翻转单词顺序和左旋转字符串.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/42-翻转单词顺序和左旋转字符串.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/51-构建乘积数组.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/52-链表中环的入口节点.md" />
@@ -103,6 +114,7 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/07-美团-数组最大差值.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/08-美团-棋子翻转.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/09-美团-拜访.js" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/10-美团-直方图内最大矩形.js" />
       </list>
     </option>
   </component>
@@ -407,12 +419,12 @@
       <workItem from="1471248384232" duration="29151000" />
       <workItem from="1471507945123" duration="45977000" />
       <workItem from="1472090562361" duration="253000" />
-      <workItem from="1472092350006" duration="9975000" />
+      <workItem from="1472092350006" duration="10065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="434644000" />
+    <option name="totallyTimeSpent" value="434734000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,20 +504,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!/10-01-二进制中1的个数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="418">
-            <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/10-02-code.js" />
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!/58-对称二叉树.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -1089,6 +1087,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/10-美团-直方图内最大矩形.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
