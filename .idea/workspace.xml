@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/01-小米-Git.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node标准输入.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/02-小米-两数二进制位不同的个数.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -25,19 +24,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01-小米-Git.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/01-小米-Git.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="185">
-                <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="02-小米-两数二进制位不同的个数.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/02-小米-两数二进制位不同的个数.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="28" selection-end-column="17" />
+              <folding />
             </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
           </provider>
         </entry>
       </file>
@@ -57,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/33-把数组排成最小的数.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/35-第一个只出现一次的字符.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/37-两个链表的第一个公共节点.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-数据结构与算法javascript实现/05-剑指offer/38-数字在排序数组中出现的次数.md" />
@@ -108,6 +100,7 @@
         <option value="$PROJECT_DIR$/node标准输入.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/01-小米-Git.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/01-小米-Git.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/02-懂二进制.js" />
       </list>
     </option>
   </component>
@@ -279,10 +272,7 @@
       <recent name="$PROJECT_DIR$/04-面试题总结/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.node标准输入.js">
-    <configuration default="false" name="test.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.02-懂二进制.js">
     <configuration default="false" name="03-插入排序.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/03-插入排序.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)">
       <method />
     </configuration>
@@ -293,6 +283,9 @@
       <method />
     </configuration>
     <configuration default="false" name="node标准输入.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="node标准输入.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="02-懂二进制.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/02-小米-两数二进制位不同的个数.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -337,19 +330,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.04-希尔排序.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.01-冒泡排序.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.node标准输入.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.04-希尔排序.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01-冒泡排序.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.node标准输入.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.02-懂二进制.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.node标准输入.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.01-冒泡排序.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.04-希尔排序.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.02-懂二进制.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.node标准输入.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01-冒泡排序.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.04-希尔排序.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.03-插入排序.js" />
       </list>
     </recent_temporary>
   </component>
@@ -412,12 +405,12 @@
       <workItem from="1471248384232" duration="29151000" />
       <workItem from="1471507945123" duration="45977000" />
       <workItem from="1472090562361" duration="253000" />
-      <workItem from="1472092350006" duration="6194000" />
+      <workItem from="1472092350006" duration="6495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="430863000" />
+    <option name="totallyTimeSpent" value="431164000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -430,13 +423,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23828435" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32168388" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2849315" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2849315" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -497,20 +490,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!/24-二叉搜索树的后序遍历序列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!/32-从1到n整数中1出现的次数.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -1150,6 +1129,14 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/02-小米-两数二进制位不同的个数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="28" selection-end-column="17" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
