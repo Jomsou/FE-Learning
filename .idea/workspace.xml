@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/05-Longest Common String.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/05-Longest Common String(!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/09-Longest Palindromic Substring.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/09-Longest Palindromic Substring(!!!).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -419,12 +419,12 @@
       <workItem from="1471248384232" duration="29151000" />
       <workItem from="1471507945123" duration="45977000" />
       <workItem from="1472090562361" duration="253000" />
-      <workItem from="1472092350006" duration="10786000" />
+      <workItem from="1472092350006" duration="10825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="435455000" />
+    <option name="totallyTimeSpent" value="435494000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
