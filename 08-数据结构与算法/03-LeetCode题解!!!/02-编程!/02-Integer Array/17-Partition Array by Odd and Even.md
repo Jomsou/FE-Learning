@@ -19,6 +19,36 @@ Do it in-place.
 
     将数组中的奇数和偶数分开，使用『两根指针』的方法最为自然，奇数在前，偶数在后，若不然则交换之。
 
+## Javascript
+    
+    function partitionArrayByOddAndEven(nums) {
+        if (!nums || !nums.length) {
+            return [];
+        }
+    
+        var low = 0, high = nums.length - 1;
+    
+        while (low < high) {
+            while (nums[low] % 2 === 1) {
+                low++;
+            }
+    
+            while (nums[high] % 2 === 0) {
+                high--;
+            }
+    
+            if (low < high) {
+                var tmp = nums[low];
+                nums[low] = nums[high];
+                nums[high] = tmp;
+            }
+        }
+    
+        return nums;
+    }
+    
+    console.log(partitionArrayByOddAndEven([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]));
+
 ## Java
 
     public class Solution {

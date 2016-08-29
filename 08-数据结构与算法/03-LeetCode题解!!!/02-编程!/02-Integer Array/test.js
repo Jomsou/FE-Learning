@@ -1,23 +1,27 @@
-function subarraySumZero(nums) {
-    var result = [];
+function partitionArrayByOddAndEven(nums) {
+    if (!nums || !nums.length) {
+        return [];
+    }
 
-    // curr_sum for the first item, index for the second item
-    var hash = new Map();
-    hash.set(0, 0);
+    var low = 0, high = nums.length - 1;
 
-    var curr_sum = 0;
-    for (var i = 0; i != nums.length; ++i) {
-        curr_sum += nums[i];
-        if (hash.get(curr_sum) != hash.values()[hash.entries() - 1]) {
-            result.push(hash.get(curr_sum));
-            result.push(i);
-            return result;
-        } else {
-            hash.set(curr_sum, i + 1);
+    while (low < high) {
+        while (nums[low] % 2 === 1) {
+            low++;
+        }
+
+        while (nums[high] % 2 === 0) {
+            high--;
+        }
+
+        if (low < high) {
+            var tmp = nums[low];
+            nums[low] = nums[high];
+            nums[high] = tmp;
         }
     }
 
-    return result;
+    return nums;
 }
 
-console.log(subarraySumZero([-3, 1, 5, -2, -4, 5, 6]));
+console.log(partitionArrayByOddAndEven([2, 4, 6, 8, 10, 1, 3, 5, 7, 9]));
