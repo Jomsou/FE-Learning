@@ -79,10 +79,21 @@ There is at least one subarray that it's sum equals to zero.
     最坏情况下 O(n^2), 实测和题解1中的方法运行时间几乎一致。
     
     
-## 题解3 - 哈希表
+## 题解3 - 哈希表!!!
 
     终于到了祭出万能方法时候了，题解2可以认为是哈希表的雏形，而哈希表利用空间换时间的思路争取到了宝贵的时间资源 :)
-
+    
+    1. Given A[i]
+      A[i] | 2 |  1 | -1 | 0 | 2 | -1 | -1
+    -------+---|----|--------|---|----|---
+    sum[i] | 2 |  3 |  2 | 2 | 4 |  3 |  2
+    
+    2. sum[i] = A[0] + A[1] + ...+ A[i]
+    3. build a map<Integer, Set>
+    4. loop through array sum, and lookup map to get the set and generate set, 
+    and push <sum[i], i> into map.
+    
+    Complexity O(n)
 
 ## C++
 
