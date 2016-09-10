@@ -67,9 +67,31 @@ var LIS = function (nums) {
     return result;//dp[len - 1];
 }
 
-console.log(LIS([5]));  //1
-console.log(LIS([5, 3]));  //1
-console.log(LIS([5, 3, 4]));  //2
-console.log(LIS([5, 3, 4, 8])); //3
-console.log(LIS([5, 3, 4, 8, 6])); //3
-console.log(LIS([5, 3, 4, 8, 6, 7])); //4
+// console.log(LIS([5]));  //1
+// console.log(LIS([5, 3]));  //1
+// console.log(LIS([5, 3, 4]));  //2
+// console.log(LIS([5, 3, 4, 8])); //3
+// console.log(LIS([5, 3, 4, 8, 6])); //3
+// console.log(LIS([5, 3, 4, 8, 6, 7])); //4
+// console.log(LIS([1, 2, 3, 4])); //4
+// console.log(LIS([1, 1, 1])); //4
+// console.log(LIS([1, 1, 3, 2])); //4
+// console.log(LIS([1, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9]));
+
+
+function test(nums) {
+    var max = nums[0], count = 1;
+    for (var i = 1, l = nums.length; i < l; i++) {
+        if (nums[i] > max) {
+            count++;
+            max = nums[i];
+        }
+    }
+
+    return count;
+}
+
+console.log(test([1, 2, 3, 4]));
+console.log(test([1, 1, 1]));
+console.log(test([1, 1, 3, 2]));
+console.log(test([1, 10, 1, 2, 3, 4, 5, 6, 7, 8, 9]));
