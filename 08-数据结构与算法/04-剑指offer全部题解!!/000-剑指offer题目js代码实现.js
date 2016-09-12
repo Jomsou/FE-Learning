@@ -61,3 +61,27 @@
 
  console.log(replaceSpaces('This is a sentence for testing.'));*/
 
+// 14. 调整数组元素,使奇数位于偶数前面
+function adjustArray(arr) {
+    var low = 0, high = arr.length - 1;
+
+    while (low <= high) {
+        while (arr[low] % 2 === 1) {
+            low++;
+        }
+
+        while (arr[high] % 2 === 0) {
+            high--;
+        }
+
+        var tmp = arr[low];
+        arr[low] = arr[high];
+        arr[high] = tmp;
+        low++;
+        high--;
+    }
+
+    return arr;
+}
+
+console.log(adjustArray([1, 2, 3, 4, 5, 6, 7, 8, 9]));
