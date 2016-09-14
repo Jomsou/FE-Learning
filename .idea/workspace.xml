@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/17-02-常见的图片格式及优缺点.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/17-02-jpg与png的区别以及使用场景.md" afterPath="" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +24,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="17-01-svg与canvas的区别.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="17-01-svg与canvas的区别.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -32,6 +33,22 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="682">
                 <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17-02-常见的图片格式及优缺点.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/17-02-常见的图片格式及优缺点.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="2596">
+                <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/000-常用排序算法总结.md" />
         <option value="$PROJECT_DIR$/tttttt.html" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/02-查找算法/00-Binary Search(!!!).md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-常见的位运算.md" />
@@ -106,6 +122,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md" />
         <option value="$PROJECT_DIR$/04-面试题总结/16-自定义事件.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/17-02-jpg与png的区别以及使用场景.md" />
       </list>
     </option>
   </component>
@@ -385,12 +402,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="9924000" />
+      <workItem from="1473822577123" duration="9996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477752000" />
+    <option name="totallyTimeSpent" value="477824000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,20 +469,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/02-手写归并排序,各个排序算法时间复杂度分析方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/03-输入框动态提示词的实现.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -586,20 +589,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/12-图片有哪些格式以及各自的优缺点.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1148,6 +1137,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="682">
             <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/12-图片有哪些格式以及各自的优缺点.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="120" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/17-02-常见的图片格式及优缺点.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2596">
+            <caret line="120" column="32" selection-start-line="120" selection-start-column="32" selection-end-line="120" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
