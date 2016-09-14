@@ -36,3 +36,46 @@
     console.log(arr.join(''));
 
 })(['h', 'e', '*', '*', 'l', '*', 'l', 'o', '*', ',', 'w', 'o', '*', '*', 'r', '*', 'l', 'd', '*', '*', '!']);
+
+
+function guessGame(secret, guess) {
+    var countA = 0, countB = 0;
+    var map = new Map();
+    var flags = [];
+    var ch;
+    for (var i = 0, l = secret.length; i < l; i++) {
+        flags[i] = false;
+        ch = secret.charAt(i);
+        if (map.has(ch)) {
+            map.set(ch, map.get(ch) + 1);
+        } else {
+            map.set(ch, 1);
+        }
+    }
+
+    for (var k = 0, l1 = secret.length; k < l1; k++) {
+        if (secret[k] === guess[k]) {
+            countA += 1;
+            map.set(secret[k], map.get(secret[k]) - 1);
+            flags[i] = true;
+        }
+    }
+
+    for (var j = 0, l2 = guess.length; j < l2; j++) {
+        if (!flags[j] && map.get(guess[j]) > 0) {
+            countB += 1;
+            map.set(guess[j], map.get(guess[j]) - 1);
+        }
+    }
+
+    var result = countA + "A" + countB + "B";
+
+    // console.log(result)
+
+    return result;
+}
+
+guessGame("hello", "world");
+guessGame("1324", "3514");
+guessGame("1234", "3344");
+guessGame("1324123456789", "3514987654321");
