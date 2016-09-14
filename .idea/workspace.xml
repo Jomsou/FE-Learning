@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/28-Array和string常用的方法有哪些.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/29-前端常见的hack技术有哪些.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/30-异步加载的方法有哪些.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/31-DOM节点操作的方法.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/00-00-00-校招各公司前端面试题(整理自网络!!!).md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/02-01-cookie的优缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-01-cookie的优缺点.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储、与cookie区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储与cookie区别.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +22,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="02-02-浏览器本地存储与cookie区别.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储与cookie区别.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="308">
+                <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/26-02-ReactJS生命周期详解.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/26-03-React组件之间的通信.md" />
         <option value="$PROJECT_DIR$/05-前端博客好文章/10-React Router源码解析.md" />
         <option value="$PROJECT_DIR$/02-css/01-css基础知识点/16-css进阶getComputedStyle.md" />
@@ -95,6 +105,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/18- ==和===区别.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/00-00-00-校招各公司前端面试题(整理自网络!!!).md" />
         <option value="$PROJECT_DIR$/04-面试题总结/02-01-cookie的优缺点.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储与cookie区别.md" />
       </list>
     </option>
   </component>
@@ -374,12 +385,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="9239000" />
+      <workItem from="1473822577123" duration="9297000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477067000" />
+    <option name="totallyTimeSpent" value="477125000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,9 +403,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35424942" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27323273" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -559,20 +570,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="220">
             <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储、与cookie区别.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="517">
-            <caret line="31" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="3" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1094,6 +1091,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="528">
             <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/02-02-浏览器本地存储与cookie区别.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="308">
+            <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             <folding />
           </first_editor>
           <second_editor />
