@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md" afterPath="$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/16-自定义事件的方法.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/16-自定义事件.md" afterPath="" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="11-写一个通用的事件处理函数(!!!).md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md">
+      <file leaf-file-name="16-自定义事件的方法.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/16-自定义事件的方法.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-1177">
-                <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+              <first_editor relative-caret-position="1254">
+                <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/02-css/01-css基础知识点/demo1-一侧定宽,一侧宽度自适应布局的实现.html" />
         <option value="$PROJECT_DIR$/tttt.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/000-常用排序算法总结.md" />
         <option value="$PROJECT_DIR$/tttttt.html" />
@@ -106,6 +106,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/30-异步加载的方法有哪些.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/30-js异步加载的方法有哪些.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/16-自定义事件.md" />
       </list>
     </option>
   </component>
@@ -385,12 +386,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="9741000" />
+      <workItem from="1473822577123" duration="9869000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477569000" />
+    <option name="totallyTimeSpent" value="477697000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -403,9 +404,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31453535" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31453535" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -452,70 +453,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/14-一侧固定宽度,另一侧自适应布局的实现.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/16-对作用域链和继承的理解.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="75" selection-start-line="0" selection-start-column="75" selection-end-line="0" selection-end-column="75" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/15-闭包会造成什么影响以及造成这些影响的原因.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/01-事件绑定的几种方式及各自的优缺点.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="4664">
-            <caret line="212" column="8" selection-start-line="212" selection-start-column="8" selection-end-line="212" selection-end-column="8" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/06-归并排序(通用版本!!).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/01-基础数据结构、排序与查找/01-排序算法(!!!)/06-归并排序(js版,数组方法很方便!!).js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
@@ -1136,6 +1073,76 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1177">
             <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/12-为什么要有同源限制.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/15-01-css选择器性能和优化.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-2585">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/13-document.write和innerHTML.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/15-02-css选择器权重计算.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-935">
+            <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/16-自定义事件的方法.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1254">
+            <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
