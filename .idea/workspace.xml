@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md" afterPath="$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md" afterPath="$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,31 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="20-原生js实现jquery的ready方法.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/20-原生js实现jquery的ready方法.md">
+      <file leaf-file-name="23-02-seajs相关问题.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="363">
-                <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="22-用js将给定的数字转化成千分位的格式.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="616">
-                <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <first_editor relative-caret-position="143">
+                <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="181" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!/03-二维数组中的查找.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!/04-替换空格.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!/13-O(1)时间删除链表节点.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!/000-剑指offer题目js代码实现.js" />
@@ -122,6 +105,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/19-各个浏览器的内核.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/20-原生js实现jquery的ready方法.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md" />
       </list>
     </option>
   </component>
@@ -401,12 +385,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="10190000" />
+      <workItem from="1473822577123" duration="10240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="478018000" />
+    <option name="totallyTimeSpent" value="478068000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -468,34 +452,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02-css/03-精通CSS/07-浮动与清除浮动(!!!).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="473">
-            <caret line="52" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/09-如何清除浮动.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="231">
-            <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1164,6 +1120,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="616">
             <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/23-01-模块化加载原理(!!!).md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-5951">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/23-02-seajs相关问题.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="143">
+            <caret line="179" column="4" selection-start-line="179" selection-start-column="4" selection-end-line="181" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
