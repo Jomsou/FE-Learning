@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/17-轮播图的实现.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md" afterPath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,7 +25,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="10-jsonp原理和缺点.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="10-jsonp原理和缺点.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -32,6 +34,38 @@
             <state split_layout="FIRST">
               <first_editor relative-caret-position="2024">
                 <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11-map和each的区别.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="17-轮播图的实现.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/17-轮播图的实现.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/12-美团-平均年龄.js" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/04-Math and Bit Manipulation/03-Single Number III.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/05-Linked List/13-Merge K Sorted Lists.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-几大重要算法的原理/02-Hash表详解.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/09-最长递增子序列.js" />
@@ -106,6 +138,8 @@
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/06-primitive value都有哪些类型.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/09-如何清除浮动.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/17-轮播图的实现.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md" />
       </list>
     </option>
   </component>
@@ -431,12 +465,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="4319000" />
+      <workItem from="1473822577123" duration="4448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472147000" />
+    <option name="totallyTimeSpent" value="472276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,19 +532,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/09-01-Dynamic Programming/10-Longest Increasing Subsequence.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="286">
-            <caret line="96" column="15" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/09-02-动态规划/02-最长非降序子序列长度.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -801,20 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/12-图片有哪些格式以及各自的优缺点.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1035,6 +1042,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="2024">
             <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/17-轮播图的实现.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor />
