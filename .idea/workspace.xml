@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/09-如何清除浮动.md" afterPath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/09-如何清除浮动.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="09-如何清除浮动.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/09-如何清除浮动.md">
+      <file leaf-file-name="10-jsonp原理和缺点.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="231">
-                <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <first_editor relative-caret-position="2024">
+                <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/11-美团-字符串计数.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/2016校招编程真题(!!!)/12-美团-平均年龄.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/04-Math and Bit Manipulation/03-Single Number III.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/05-Linked List/13-Merge K Sorted Lists.md" />
@@ -106,6 +105,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/04-用户注册表单的设计.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/06-primitive value都有哪些类型.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/09-如何清除浮动.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md" />
       </list>
     </option>
   </component>
@@ -431,12 +431,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="3740000" />
+      <workItem from="1473822577123" duration="4319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="471568000" />
+    <option name="totallyTimeSpent" value="472147000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,7 +451,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2279587" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20969023" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -801,20 +801,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/11-map和each的区别.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1035,6 +1021,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="231">
             <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/10-jsonp原理和缺点.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2024">
+            <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
