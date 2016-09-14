@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/31-DOM操作常用的方法.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/31-DOM节点操作的方法.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md" afterPath="$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,31 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="30-js异步加载的方法有哪些.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/30-js异步加载的方法有哪些.md">
+      <file leaf-file-name="32-域名,一二级优缺点.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="31-DOM操作常用的方法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/31-DOM操作常用的方法.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1100">
-                <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <first_editor relative-caret-position="550">
+                <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -72,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!/000-剑指offer题目js代码实现.js" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!/14-调整数组顺序使奇数位于偶数前面.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/01-Mysql存储引擎及区别.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/02-sql语句优化,索引.md" />
@@ -123,6 +105,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/28-Array和string常用的方法有哪些.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/29-浏览器缓存读取顺序.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/31-DOM节点操作的方法.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md" />
       </list>
     </option>
   </component>
@@ -402,12 +385,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="11533000" />
+      <workItem from="1473822577123" duration="12170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="479361000" />
+    <option name="totallyTimeSpent" value="479998000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,9 +403,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22478157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16441621" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -526,20 +509,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/29-前端常见的hack技术有哪些.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -1177,6 +1146,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1100">
             <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/32-域名,一二级优缺点.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="550">
+            <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
