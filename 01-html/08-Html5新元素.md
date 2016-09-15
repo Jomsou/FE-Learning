@@ -22,6 +22,7 @@
       新的技术webworker, websocket, Geolocation
 
 ## 如何处理html5的兼容性问题?
+
 方式一：Coding JavaScript
 
     <!--[if lt IE9]> 
