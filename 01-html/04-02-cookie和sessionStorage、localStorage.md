@@ -16,13 +16,12 @@ cookie虽然在持久保存客户端数据提供了方便，分担了服务器�
 
 ## 浏览器本地存储
 html5中的Web Storage包括了两种存储方式：`sessionStorage`和`localStorage`。
-```
-sessionStorage用于本地存储一个会话（session）中的数据，
-这些数据只有在同一个会话中的页面才能访问并且当会话结束后数据也随之销毁。
-因此sessionStorage不是一种持久化的本地存储，仅仅是会话级别的存储。
 
-而localStorage用于持久化的本地存储，除非主动删除数据，否则数据是永远不会过期的。
-```
+    sessionStorage用于本地存储一个会话（session）中的数据，
+    这些数据只有在同一个会话中的页面才能访问并且当会话结束后数据也随之销毁。
+    因此sessionStorage不是一种持久化的本地存储，仅仅是会话级别的存储。
+    
+    而localStorage用于持久化的本地存储，除非主动删除数据，否则数据是永远不会过期的。
 
 ## web storage和cookie的区别
 
