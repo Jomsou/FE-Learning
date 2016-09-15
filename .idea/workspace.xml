@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01-html/04-02-cookie和session, sessionStorage和localStorage.md" afterPath="$PROJECT_DIR$/01-html/04-02-cookie和sessionStorage、localStorage.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01-html/05-GET和POST区别.md" afterPath="$PROJECT_DIR$/01-html/05-GET和POST区别.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,31 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="04-01-cookie和session详解.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01-html/04-01-cookie和session详解.md">
+      <file leaf-file-name="05-GET和POST区别.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01-html/05-GET和POST区别.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1408">
-                <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-02-cookie和sessionStorage、localStorage.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01-html/04-02-cookie和sessionStorage、localStorage.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="517">
-                <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+              <first_editor relative-caret-position="2090">
+                <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招面试题/02-手写归并排序,各个排序算法时间复杂度分析方法.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招面试题/03-输入框动态提示词的实现.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招面试题/04-用户注册表单的设计.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/001-美团点评校招面试题/05-编程题-求任意大数的阶乘.md" />
@@ -122,6 +105,7 @@
         <option value="$PROJECT_DIR$/01-html/04-00-cookie深度详解.md" />
         <option value="$PROJECT_DIR$/01-html/04-01-cookie和session详解.md" />
         <option value="$PROJECT_DIR$/01-html/04-02-cookie和sessionStorage、localStorage.md" />
+        <option value="$PROJECT_DIR$/01-html/05-GET和POST区别.md" />
       </list>
     </option>
   </component>
@@ -401,12 +385,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="13893000" />
+      <workItem from="1473822577123" duration="14018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="481721000" />
+    <option name="totallyTimeSpent" value="481846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,7 +405,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25893566" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20095314" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -468,20 +452,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/00-02-XSS和CSRF(!!!).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-6413">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/01-深拷贝函数clone实现.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1154,6 +1124,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01-html/04-02-cookie和sessionStorage、localStorage.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="517">
+            <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01-html/04-01-cookie和session详解.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1168,14 +1152,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01-html/04-02-cookie和sessionStorage、localStorage.md">
+    <entry file="file://$PROJECT_DIR$/01-html/05-GET和POST区别.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="517">
-            <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <first_editor relative-caret-position="2090">
+            <caret line="95" column="18" selection-start-line="95" selection-start-column="18" selection-end-line="95" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
