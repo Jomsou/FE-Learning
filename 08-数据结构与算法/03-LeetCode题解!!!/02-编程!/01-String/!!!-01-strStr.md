@@ -8,8 +8,8 @@ Question
 Problem Statement
 
     Implement strStr().
-    Returns the index of the first occurrence of needle in haystack, or -1 if needle is not part 
-    of haystack.
+    Returns the index of the first occurrence of needle in haystack, 
+    or -1 if needle is not part of haystack.
     
     Example
     If source = "source" and target = "target", return -1.
@@ -91,4 +91,4 @@ int i, j;`声明前有一行空格，是好的代码风格
 
 ## 复杂度分析
 
-    双重 for 循环，时间复杂度最坏情况下为 O((n-m)*m)O((n−m)∗m).
+    双重 for 循环，时间复杂度最坏情况下为 O((n-m)*m).
