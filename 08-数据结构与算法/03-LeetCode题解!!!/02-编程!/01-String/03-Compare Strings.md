@@ -22,37 +22,35 @@ For A = "ABCD" B = "AABC", return false.
     题目中另外给的条件则是A和B都是全大写单词，理解题意后容易想到的方案就是先遍历 A 和 B 统计各字符出现的频次，
     然后比较频次大小即可。嗯，祭出万能的哈希表。
     
-## Python
-
-Python 的dict就是hash， 所以python 在处理需要用到hash的地方非常方便。
-
-    import collections
-    class Solution:
-        def compare_strings(self, A, B):
-            # return a dict with default value set to 0
-            letters = collections.defaultdict(int)
-            for a in A:
-                letters[a] += 1
     
-            for b in B:
-                if b not in letters:
-                    return False
-                elif letters[b] <= 0:
-                    return False
-                else:
-                    letters[b] -= 1
-            return True
+## java
+
+	public static boolean compareStrings(String src, String dest) {
+		if (src == null || dest == null) {
+			return false;
+		}
+
+		if (src.length() < dest.length()) {
+			return false;
+		}
+
+		// 定义长度为26的整型数组
+		// java整型数组默认初始值都说0
+		int[] letterCount = new int[26];
+
+		for (int i = 0; i < src.length(); i++) {
+			letterCount[src.charAt(i) - 'A']++;
+		}
+
+		for (int j = 0; j < dest.length(); j++) {
+			letterCount[dest.charAt(j) - 'A']--;
+			if (letterCount[dest.charAt(j) - 'A'] < 0) {
+				return false;
+			}
+		}
+		return true;
+	}
             
-## 源码解析
-
-1. 异常处理，B 的长度大于 A 时必定返回false, 包含了空串的特殊情况。
-2. 使用额外的辅助空间，统计各字符的频次。
-
-## 复杂度分析
-
-    遍历一次 A 字符串，遍历一次 B 字符串，时间复杂度最坏 O(2n)O(2n), 空间复杂度为 O(26)O(26).
-    
-    
 ## C++
 
     class Solution {

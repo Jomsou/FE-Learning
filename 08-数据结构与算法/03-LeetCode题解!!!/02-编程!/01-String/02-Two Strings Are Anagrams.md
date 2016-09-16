@@ -52,9 +52,11 @@ O(n) time, O(1) extra space
 		 * 码允许将每个字符的第8位用于确定附加的128 个特殊符号字符、外来语字母和图形符号。
 		 */
 		int[] letterCount = new int[256];
-		for (int i = 0; i < 256; i++) {
-			letterCount[i] = 0;
-		}
+
+		//下面这句可以不要，java整型数组默认初始值就是0
+		// for (int i = 0; i < 256; i++) {
+		// letterCount[i] = 0;
+		// }
 
 		for (int i = 0; i != s.length(); ++i) {
 			// 数组的index是整型，char类型可以自动转换成int型!
