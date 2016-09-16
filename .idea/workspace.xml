@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/02-Two Strings Are Anagrams.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/02-Two Strings Are Anagrams.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md" afterPath="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="02-Two Strings Are Anagrams.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="02-Two Strings Are Anagrams.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/02-Two Strings Are Anagrams.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
@@ -40,15 +39,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-Compare Strings.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="03-Compare Strings.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1122">
-                <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+              <first_editor relative-caret-position="484">
+                <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -121,8 +120,8 @@
         <option value="$PROJECT_DIR$/01-html/16-HTTP2新特性浅析.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/26-02-ReactJS生命周期详解.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/01-strStr.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/02-Two Strings Are Anagrams.md" />
+        <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md" />
       </list>
     </option>
   </component>
@@ -468,12 +467,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="17955000" />
+      <workItem from="1473822577123" duration="17971000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="485783000" />
+    <option name="totallyTimeSpent" value="485799000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1221,20 +1220,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1122">
-            <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/02-Two Strings Are Anagrams.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1243,6 +1228,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-429">
             <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="484">
+            <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />

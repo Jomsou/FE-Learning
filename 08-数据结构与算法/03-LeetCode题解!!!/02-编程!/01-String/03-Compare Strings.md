@@ -50,6 +50,7 @@ For A = "ABCD" B = "AABC", return false.
 		}
 		return true;
 	}
+	
             
 ## C++
 
