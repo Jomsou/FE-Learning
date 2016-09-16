@@ -20,7 +20,6 @@ All inputs will be in lower-case
     题 Two Strings Are Anagrams 的升级版，容易想到的方法为使用双重for循环两两判断字符串数组是否互为变位字符串。
     但显然此法的时间复杂度较高。还需要 O(n) 的数组来记录字符串是否被加入到最终结果中。
     
-
 ## C++
 
     class Solution {
@@ -82,7 +81,7 @@ All inputs will be in lower-case
 
 ## 复杂度分析
 
-    私有方法isAnagrams最坏的时间复杂度为 O(2L), 其中 LL 为字符串长度。
+    私有方法isAnagrams最坏的时间复杂度为 O(2L), 其中 L 为字符串长度。
     双重for循环时间复杂度近似为(1/2)O(n*n),n 为给定字符串数组数目。总的时间复杂度近似为 O(n^2 L). 
     使用了Vector String "visited"，空间复杂度可认为是 O(n).
     
@@ -161,8 +160,8 @@ All inputs will be in lower-case
     
 ## 源码分析
 
-    建立 key 为字符串，value 为相应计数器的hashmap, unordered_map为 C++ 11中引入的哈希表数据结构unordered_map, 
-    这种新的数据结构和之前的 map 有所区别，详见map-unordered_map。
+    建立 key 为字符串，value 为相应计数器的hashmap, unordered_map为 C++ 11中引入的
+    哈希表数据结构unordered_map, 这种新的数据结构和之前的 map 有所区别，详见map-unordered_map。
     
     第一次遍历字符串数组获得排序后的字符串计数器信息，第二次遍历字符串数组将哈希表中计数器值大于1的字符串取出。
     
