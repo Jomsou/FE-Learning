@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/35-移动web常见兼容性问题的解决方法.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" afterPath="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="35-移动web常见兼容性问题的解决方法.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/35-移动web常见兼容性问题的解决方法.md">
+      <file leaf-file-name="36-fastclick原理.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="14" />
+              <first_editor relative-caret-position="273">
+                <caret line="634" column="51" selection-start-line="634" selection-start-column="51" selection-end-line="634" selection-end-column="51" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -106,8 +104,8 @@
         <option value="$PROJECT_DIR$/04-面试题总结/34-移动web开发300ms延迟问题.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/33-移动web开发常见问题兼容性问题(!!!!!!!).md" />
         <option value="$PROJECT_DIR$/04-面试题总结/34-移动web 300ms延迟和点透问题.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/35-移动web常见兼容性问题的解决方法.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
       </list>
     </option>
   </component>
@@ -401,12 +399,12 @@
       <workItem from="1473388195156" duration="3028000" />
       <workItem from="1473420190896" duration="4031000" />
       <workItem from="1473647201330" duration="6586000" />
-      <workItem from="1473822577123" duration="22990000" />
+      <workItem from="1473822577123" duration="24719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="490818000" />
+    <option name="totallyTimeSpent" value="492547000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -421,7 +419,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17871326" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416997" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1154,20 +1152,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/35-移动web常见兼容性问题的解决方法.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1176,6 +1160,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="273">
+            <caret line="634" column="51" selection-start-line="634" selection-start-column="51" selection-end-line="634" selection-end-column="51" />
             <folding />
           </first_editor>
           <second_editor />
