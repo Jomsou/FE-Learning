@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-00-百度前端常见面试大全.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-00-百度前端常见面试题整理.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="00-00-百度前端常见面试大全.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-00-百度前端常见面试大全.md">
+      <file leaf-file-name="00-01-百度前端FEX面试过程.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="4752">
-                <caret line="216" column="2" selection-start-line="216" selection-start-column="2" selection-end-line="216" selection-end-column="2" />
+              <first_editor relative-caret-position="2662">
+                <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -56,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/30-js异步加载的方法有哪些.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/11-写一个通用的事件处理函数(!!!).md" />
         <option value="$PROJECT_DIR$/04-面试题总结/16-自定义事件.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/17-01-svg与canvas的区别.md" />
@@ -107,6 +105,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/15-雅虎前端性能优化34条.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/16-百度前端FEX面试过程.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-00-百度前端常见面试题整理.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md" />
       </list>
     </option>
   </component>
@@ -406,12 +405,12 @@
       <workItem from="1473647201330" duration="6586000" />
       <workItem from="1473822577123" duration="24988000" />
       <workItem from="1474162615473" duration="1919000" />
-      <workItem from="1474203334254" duration="4278000" />
+      <workItem from="1474203334254" duration="4547000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="499013000" />
+    <option name="totallyTimeSpent" value="499282000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,9 +423,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859412" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2859412" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1146,20 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="1980">
-            <caret line="90" column="41" selection-start-line="90" selection-start-column="41" selection-end-line="90" selection-end-column="41" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-00-百度前端常见面试大全.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1168,6 +1153,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="4752">
             <caret line="216" column="2" selection-start-line="216" selection-start-column="2" selection-end-line="216" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2662">
+            <caret line="121" column="4" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
