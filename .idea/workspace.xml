@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/01-列举pc端和移动端web开发js,css,html的不同之处.md" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/01-列举pc端和移动端web开发js,css,html的不同之处.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,15 +39,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="220">
-                <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="30" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -57,7 +55,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="281">
@@ -122,7 +120,6 @@
         <option value="$PROJECT_DIR$/04-面试题总结/35-移动web常见兼容性问题的解决方法.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
         <option value="$PROJECT_DIR$/test.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/08-js写一个网页版连连看的思路.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/12-加减号运算符的考察.md" />
@@ -134,6 +131,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-02-雅虎前端性能优化34条.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/01-列举pc端和移动端web开发js,css,html的不同之处.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html" />
+        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" />
       </list>
     </option>
   </component>
@@ -433,12 +431,12 @@
       <workItem from="1473647201330" duration="6586000" />
       <workItem from="1473822577123" duration="24988000" />
       <workItem from="1474162615473" duration="1919000" />
-      <workItem from="1474203334254" duration="6496000" />
+      <workItem from="1474203334254" duration="6601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="501231000" />
+    <option name="totallyTimeSpent" value="501336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1179,25 +1177,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
