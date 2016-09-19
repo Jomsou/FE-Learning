@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md" afterPath="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="09-javascript延迟加载的方式.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/09-javascript延迟加载的方式.md">
+      <file leaf-file-name="11-把数字转换为千分位.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="517">
-                <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+              <first_editor relative-caret-position="363">
+                <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,15 +39,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10-域名劫持的原理和危害.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md">
+      <file leaf-file-name="22-用js将给定的数字转化成千分位的格式.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="44">
-                <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <first_editor relative-caret-position="341">
+                <caret line="26" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,7 +104,6 @@
         <option value="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
         <option value="$PROJECT_DIR$/test.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/08-js写一个网页版连连看的思路.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/12-加减号运算符的考察.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/14-RGB HEX转换.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/15-雅虎前端性能优化34条.md" />
@@ -122,6 +121,7 @@
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/07-三列布局左右宽度固定,中间自适应.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/09-javascript延迟加载的方式.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md" />
       </list>
     </option>
   </component>
@@ -435,12 +435,12 @@
       <workItem from="1473647201330" duration="6586000" />
       <workItem from="1473822577123" duration="24988000" />
       <workItem from="1474162615473" duration="1919000" />
-      <workItem from="1474203334254" duration="8292000" />
+      <workItem from="1474203334254" duration="8429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="503027000" />
+    <option name="totallyTimeSpent" value="503164000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -453,9 +453,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25814137" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33280382" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -502,20 +502,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/11-Wildcard Matching.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/33-移动web开发常见问题兼容性问题(!!!!!!!).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -915,20 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="22">
-            <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/12-加减号运算符的考察.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1175,6 +1147,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/09-javascript延迟加载的方式.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1189,14 +1175,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md">
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <first_editor relative-caret-position="341">
+            <caret line="26" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="363">
+            <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
