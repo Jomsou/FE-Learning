@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/08-轮播图的实现和优化.md" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/08-轮播图的实现和优化.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/000-2015年腾讯校招前端面试.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/001-2015年腾讯前端校招实习面试.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2015年腾讯前端校招实习面试2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2016年腾讯前端校招实习面试.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-读代码题.md" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/03-读代码题.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -22,24 +27,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="08-轮播图的实现和优化.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/08-轮播图的实现和优化.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="1848">
-                <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,11 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01-html/11-02-meta标签属性详解2.md" />
-        <option value="$PROJECT_DIR$/01-html/16-HTTP2常见问题详解.md" />
-        <option value="$PROJECT_DIR$/01-html/16-HTTP2新特性浅析.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/26-02-ReactJS生命周期详解.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/01-strStr.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/02-Two Strings Are Anagrams.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/03-Compare Strings.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/01-String/04-Anagrams.md" />
@@ -99,13 +82,18 @@
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/04-棋盘覆盖.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/05-归并排序.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-腾讯前端校招面试题整理.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-读代码题.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/02-cookie中各个属性的作用.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/03-children和childNodes.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/04-常见状态码.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/05-Ajax原理详解.md" />
         <option value="$PROJECT_DIR$/03-javascript/01-javascript基础知识点/08-Ajax原理详解.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/08-轮播图的实现和优化.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/00-2015年腾讯校招前端面试.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-读代码题.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-2015年腾讯前端校招实习面试.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/02-2015年腾讯前端校招实习面试2.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2015年腾讯前端校招实习面试2.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2016年腾讯前端校招实习面试.md" />
       </list>
     </option>
   </component>
@@ -406,12 +394,12 @@
       <workItem from="1473822577123" duration="24988000" />
       <workItem from="1474162615473" duration="1919000" />
       <workItem from="1474203334254" duration="9426000" />
-      <workItem from="1474371002039" duration="3925000" />
+      <workItem from="1474371002039" duration="5482000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="508086000" />
+    <option name="totallyTimeSpent" value="509643000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,9 +412,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21207307" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30738682" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -473,58 +461,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/16-对作用域链和继承的理解.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/17-轮播图的实现.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/18- ==和===区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-957">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/02-手写归并排序,各个排序算法时间复杂度分析方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/001-美团点评校招前端面试题(整理自网络)/01-事件绑定的几种方式及各自的优缺点.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1026,20 +962,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-读代码题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-871">
-            <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/02-cookie中各个属性的作用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1143,6 +1065,76 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1848">
             <caret line="84" column="15" selection-start-line="84" selection-start-column="15" selection-end-line="84" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/000-2015年腾讯校招前端面试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1320">
+            <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/03-读代码题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="515">
+            <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/001-2015年腾讯前端校招实习面试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="990">
+            <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2015年腾讯前端校招实习面试2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="44">
+            <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2016年腾讯前端校招实习面试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
