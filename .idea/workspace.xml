@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-02-MySQL数据类型.md" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-02-MySQL数据类型.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +25,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="03-02-MySQL数据类型.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-02-MySQL数据类型.md">
+      <file leaf-file-name="04-01-表的操作.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="220">
-                <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-02-操作表的约束.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="440">
+                <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -55,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-02-雅虎前端性能优化34条.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/01-列举pc端和移动端web开发js,css,html的不同之处.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/03-写一个Array数组的去重函数.md" />
@@ -106,6 +121,9 @@
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-MySQL数据库存储引擎和数据类型.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-01-MySQL数据库存储引擎.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-02-MySQL数据类型.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-表的操作.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md" />
       </list>
     </option>
   </component>
@@ -413,12 +431,12 @@
       <workItem from="1476702483159" duration="451000" />
       <workItem from="1477129606952" duration="976000" />
       <workItem from="1477207654566" duration="32000" />
-      <workItem from="1477566907441" duration="3487000" />
+      <workItem from="1477566907441" duration="4278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="522765000" />
+    <option name="totallyTimeSpent" value="523556000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,8 +498,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/03-Strassen矩阵乘法.md" />
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/04-棋盘覆盖.md" />
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/05-归并排序.md" />
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/06-快速排序.md" />
     <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/07-循环赛日程表.md" />
@@ -988,6 +1004,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="220">
             <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="440">
+            <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
