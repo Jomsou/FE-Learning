@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-索引.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/06-视图.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/07-触发器.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/08-数据的操作.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-单表查询.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-多表查询.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-存储过程和函数的操作.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/14-MySQL安全机制.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/15-MySQL日志管理.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-MySQL数据库维护和性能优化.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,40 +33,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="04-01-表的操作.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04-02-操作表的约束.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,19 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/test.html" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/02-将页面里面所有className 包含test的A标签找出来，并且给他们添加黄色的背景.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/03-写一个Array数组的去重函数.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/04-js实现代码:当用鼠标拖拽着一个DIV元素在页面上滑动时，与这个DIV元素有重叠交际的DOM元素列表.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/05-从输入URL地址到浏览器显示网页的过程及这段时间的优化方案.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/06-图片预加载,懒加载和判断图片加载错误.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/07-三列布局左右宽度固定,中间自适应.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/09-javascript延迟加载的方式.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/10-域名劫持的原理和危害.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/12-加减号运算符的考察.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/13-页面无限加载带底部记载进度条的实现方法.md" />
-        <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/00-分治法.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/01-二分搜索.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/02-大整数乘法.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/03-Strassen矩阵乘法.md" />
@@ -124,6 +87,19 @@
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-表的操作.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-索引.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/06-视图.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/07-触发器.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/08-数据的操作.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-单表查询.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-多表查询.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-使用MySQL函数.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-存储过程和函数的操作.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/14-MySQL安全机制.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/15-MySQL日志管理.md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-MySQL数据库维护和性能优化.md" />
       </list>
     </option>
   </component>
@@ -431,12 +407,12 @@
       <workItem from="1476702483159" duration="451000" />
       <workItem from="1477129606952" duration="976000" />
       <workItem from="1477207654566" duration="32000" />
-      <workItem from="1477566907441" duration="4278000" />
+      <workItem from="1477566907441" duration="4646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="523556000" />
+    <option name="totallyTimeSpent" value="523924000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +425,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305004" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -498,114 +474,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/05-归并排序.md" />
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/06-快速排序.md" />
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/07-循环赛日程表.md" />
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/01-基础理论/03-Basic Algorithms/02-Binary Search.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="77">
-            <caret line="256" column="28" selection-start-line="256" selection-start-column="28" selection-end-line="256" selection-end-column="28" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/08-汉诺塔.md" />
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/06-跨域方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/07-性能优化.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-html/04-00-cookie深度详解(!!!!).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="361">
-            <caret line="205" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="212" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/06-常问到的http状态码.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-html/10-http常见状态码和304缓存原理.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="449">
-            <caret line="161" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="164" selection-end-column="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/04-常见状态码.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-3093">
-            <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/05-Ajax原理详解.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="402" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-javascript/01-javascript基础知识点/08-Ajax原理详解.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1032,6 +900,174 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="440">
             <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-索引.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/06-视图.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/07-触发器.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/08-数据的操作.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="7" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-单表查询.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-多表查询.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="9" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-存储过程和函数的操作.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="12" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/14-MySQL安全机制.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/15-MySQL日志管理.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="11" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-MySQL数据库维护和性能优化.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
             <folding />
           </first_editor>
           <second_editor />
