@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/02-MySQL技术内幕-InnoDB存储引擎/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/03-高性能MySQL/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/01-MongoDB基础.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/01-MongoDB基础.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/02-常用命令,善用帮助文档.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/02-常用命令,善用帮助文档.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/03-学习过程中使用的数据库.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/03-学习过程中使用的数据库.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/04-文档插入与删除.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/04-文档插入与删除.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/05-文档更新(重要).md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/05-文档更新(重要).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/06-文档查询.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/06-文档查询.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/07-索引.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/07-索引.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/08-特殊索引和集合.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/08-特殊索引和集合.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/09-聚合(重要!!!).md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/09-聚合(重要!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/10-聚合(mapReduce!!!).md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/10-聚合(mapReduce!!!).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/11-应用程序设计.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/11-应用程序设计.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/12-副本集.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/12-副本集.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/13-分片与集群.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/13-分片与集群.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/14-应用管理.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/14-应用管理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/15-数据管理.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/15-数据管理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/16-持久性.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/16-持久性.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/17-服务器管理.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/17-服务器管理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/07-nodejs相关/02-MongoDB笔记/18-MongoDB监控与备份.md" afterPath="$PROJECT_DIR$/09-数据库/05-MongoDB权威指南/18-MongoDB监控与备份.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09-数据库/04-数据库索引设计与优化/README.md" afterPath="$PROJECT_DIR$/09-数据库/04-数据库索引设计与优化/README.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,40 +41,7 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09-数据库/03-高性能MySQL/README.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/09-数据库/02-MySQL技术内幕-InnoDB存储引擎/README.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,7 +57,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/03-Strassen矩阵乘法.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/04-棋盘覆盖.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/00-00-几类常见算法及其对应题目/01-分治法/05-归并排序.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-腾讯前端校招面试题整理.md" />
@@ -124,6 +107,7 @@
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-MySQL数据库维护和性能优化.md" />
         <option value="$PROJECT_DIR$/09-数据库/02-MySQL技术内幕-InnoDB存储引擎/README.md" />
         <option value="$PROJECT_DIR$/09-数据库/03-高性能MySQL/README.md" />
+        <option value="$PROJECT_DIR$/09-数据库/04-数据库索引设计与优化/README.md" />
       </list>
     </option>
   </component>
@@ -195,42 +179,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09-数据库" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-高性能MySQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="09-数据库" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="02-MySQL技术内幕-InnoDB存储引擎" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope">
@@ -276,19 +224,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/09-数据库" />
+      <recent name="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)" />
+      <recent name="$PROJECT_DIR$/08-数据结构与算法" />
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题" />
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/前端js相关题目" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/images" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!" />
       <recent name="$PROJECT_DIR$/06-高性能网站建设指南" />
       <recent name="$PROJECT_DIR$/04-面试题总结" />
       <recent name="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/前端js相关题目" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-剑指offer全部题解" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.testtttttt.js">
@@ -449,12 +397,12 @@
       <workItem from="1476702483159" duration="451000" />
       <workItem from="1477129606952" duration="976000" />
       <workItem from="1477207654566" duration="32000" />
-      <workItem from="1477566907441" duration="4865000" />
+      <workItem from="1477566907441" duration="5166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="524143000" />
+    <option name="totallyTimeSpent" value="524444000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,9 +415,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305004" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305004" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -516,19 +464,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/03-读代码题.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="515">
-            <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/09-绝对定位和相对定位的理解和对其他元素的影响.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1098,6 +1033,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="24" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/04-数据库索引设计与优化/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
