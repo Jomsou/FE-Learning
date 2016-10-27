@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/06- 拥塞控制,慢启动.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/01-数据库概述.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testtttttt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-其他零散知识点/01-git基本使用.pdf" afterPath="$PROJECT_DIR$/10-其他零散知识点/01-git基本使用.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-其他零散知识点/02-MarkDown语法指南.md" afterPath="$PROJECT_DIR$/10-其他零散知识点/02-MarkDown语法指南.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-其他零散知识点/03-01-理解Redux原理.md" afterPath="$PROJECT_DIR$/10-其他零散知识点/03-01-理解Redux原理.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-其他零散知识点/03-02-理解React-Redux.md" afterPath="$PROJECT_DIR$/10-其他零散知识点/03-02-理解React-Redux.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-其他零散知识点/04-React生命周期函数详解.md" afterPath="$PROJECT_DIR$/10-其他零散知识点/04-React生命周期函数详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-其他零散知识点/05-React的DOM-Diff算法.md" afterPath="$PROJECT_DIR$/10-其他零散知识点/05-React的DOM-Diff算法.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/05-滑动窗口协议.md" afterPath="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/05-滑动窗口协议.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/!!!-0-总结的腾讯面试题内自己觉得重要的题目.md" afterPath="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/!!!-0-总结的腾讯面试题内自己觉得重要的题目.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testtt.js" afterPath="$PROJECT_DIR$/testtt.js" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,31 +34,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="06- 拥塞控制,慢启动.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/06- 拥塞控制,慢启动.md">
+      <file leaf-file-name="01-数据库概述.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/01-数据库概述.md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="05-滑动窗口协议.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/05-滑动窗口协议.md">
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+              <first_editor relative-caret-position="264">
+                <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -62,8 +55,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -73,9 +66,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/35-移动web常见兼容性问题的解决方法.md" />
-        <option value="$PROJECT_DIR$/04-面试题总结/36-fastclick原理.md" />
-        <option value="$PROJECT_DIR$/test.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/08-js写一个网页版连连看的思路.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/14-RGB HEX转换.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/15-雅虎前端性能优化34条.md" />
@@ -120,10 +110,13 @@
         <option value="$PROJECT_DIR$/04-面试题总结/!!!-00-2017校招自己总结的前端面试题.md" />
         <option value="$PROJECT_DIR$/testttttt.js" />
         <option value="$PROJECT_DIR$/testttt.html" />
-        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/!!!-0-总结的腾讯面试题内自己觉得重要的题目.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/05-求二叉树的高度.md" />
         <option value="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/05-快排及其时间复杂度分析.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/05-滑动窗口协议.md" />
+        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/!!!-0-总结的腾讯面试题内自己觉得重要的题目.md" />
+        <option value="$PROJECT_DIR$/testtt.js" />
+        <option value="$PROJECT_DIR$/testtttttt.js" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/01-数据库概述.md" />
       </list>
     </option>
   </component>
@@ -162,34 +155,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="前端知识学习">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="前端知识学习">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="08-数据结构与算法">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -219,26 +184,40 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="04-面试题总结" />
+              <option name="myItemId" value="09-数据库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01-MySQL数据库应用从入门到精通" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="前端知识学习">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="04-面试题总结" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="000-非前端常考面试题" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="前端知识学习">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="08-数据结构与算法">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -273,11 +252,8 @@
       <recent name="$PROJECT_DIR$/08-数据结构与算法/05-剑指offer全部题解" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.testttttt.js">
+  <component name="RunManager" selected="Node.js.testtttttt.js">
     <configuration default="false" name="testtt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="testtt.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="01-硬币凑数字.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01-硬币凑数字.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!/09-02-动态规划">
       <method />
     </configuration>
     <configuration default="false" name="000-剑指offer题目js代码实现.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="000-剑指offer题目js代码实现.js" working-dir="$PROJECT_DIR$/08-数据结构与算法/04-剑指offer全部题解!!">
@@ -287,6 +263,9 @@
       <method />
     </configuration>
     <configuration default="false" name="testttttt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="testttttt.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <configuration default="false" name="testtttttt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="testtttttt.js" working-dir="$PROJECT_DIR$">
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
@@ -332,18 +311,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Node.js.testtt.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.01-硬币凑数字.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.000-剑指offer题目js代码实现.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.000-剑指offer题目js代码实现.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.testtttttt.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.testtt.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.000-剑指offer题目js代码实现.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.01-硬币凑数字.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.testtttttt.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.testtt.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.000-剑指offer题目js代码实现.js" />
       </list>
     </recent_temporary>
   </component>
@@ -426,12 +405,17 @@
       <workItem from="1474203334254" duration="9426000" />
       <workItem from="1474371002039" duration="10550000" />
       <workItem from="1474550062780" duration="580000" />
-      <workItem from="1474596238355" duration="1403000" />
+      <workItem from="1474596238355" duration="2142000" />
+      <workItem from="1474679517586" duration="386000" />
+      <workItem from="1476702483159" duration="451000" />
+      <workItem from="1477129606952" duration="976000" />
+      <workItem from="1477207654566" duration="32000" />
+      <workItem from="1477566907441" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="516694000" />
+    <option name="totallyTimeSpent" value="519761000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,7 +430,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29388404" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27958697" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -457,7 +441,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24109589" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24043716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -493,58 +477,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/14-RGB HEX转换.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="638">
-            <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/13-页面数据无限滚动加载的实现方法.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1551">
-            <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/12-加减号运算符的考察.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/22-用js将给定的数字转化成千分位的格式.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="132">
-            <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/11-把数字转换为千分位.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -791,13 +723,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/testttt.html" />
     <entry file="file://$PROJECT_DIR$/testttttt.js" />
-    <entry file="file://$PROJECT_DIR$/testtt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.md" />
     <entry file="file://$PROJECT_DIR$/MarkDown语法指南.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
@@ -807,39 +732,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1100">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-396">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/!!!-0-总结的腾讯面试题内自己觉得重要的题目.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/000-2015年腾讯校招前端面试.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="671">
-            <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -900,7 +792,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-99">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -914,7 +805,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="748">
             <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -928,7 +818,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="880">
             <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -942,7 +831,19 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-1729">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/05-滑动窗口协议.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="119">
+            <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           </first_editor>
           <second_editor />
         </state>
@@ -956,20 +857,92 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/05-滑动窗口协议.md">
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/!!!-0-总结的腾讯面试题内自己觉得重要的题目.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="9">
+            <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/000-2015年腾讯校招前端面试.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="603">
+            <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-00-百度前端常见面试大全.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="515">
+            <caret line="216" column="17" selection-start-line="216" selection-start-column="13" selection-end-line="216" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)/00-01-百度前端FEX面试过程.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="62" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testtt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1804">
+          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testtttttt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/01-数据库概述.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
