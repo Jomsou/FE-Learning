@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-call、apply用法和bind实现.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-call、apply用法和bind实现.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-this的四种用法.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-this的四种用法.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-函数节流throttle与防抖debounce.html" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-函数节流throttle与防抖debounce.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-简介、原型式继承与Object.create.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-简介、原型式继承与Object.create.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-闭包.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-闭包.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-高阶函数与柯里化Currying.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-高阶函数与柯里化Currying.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/00-高阶函数实现AOP.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-高阶函数实现AOP.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/01-单例模式singleton.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/01-单例模式singleton.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/02-策略模式strategy.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/02-策略模式strategy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/03-代理模式proxy.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/03-代理模式proxy.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/04-迭代器模式iterator.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/04-迭代器模式iterator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/05-观察者模式(发布-订阅模式)sub_pub.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/05-观察者模式(发布-订阅模式)sub_pub.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/06-命令模式command.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/06-命令模式command.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/07-组合模式component.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/07-组合模式component.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/08-模板方法模式templateMethod.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/08-模板方法模式templateMethod.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/09-享元模式(蝇量模式)flyweight.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/09-享元模式(蝇量模式)flyweight.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/10-责任链模式responsibilityChain.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/10-责任链模式responsibilityChain.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/11-中介者模式mediator.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/11-中介者模式mediator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/12-装饰者模式decorator.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/12-装饰者模式decorator.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/13-状态模式state.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/13-状态模式state.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/14-适配器模式adaptor.js" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/14-适配器模式adaptor.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/15-设计原则与编程技巧.md" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/15-设计原则与编程技巧.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03-javascript/05-javascript设计模式/16-(补充)工厂模式.md" afterPath="$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/16-(补充)工厂模式.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +23,24 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/README.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -60,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/01-腾讯前端校招面试题整理.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/02-cookie中各个属性的作用.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/03-children和childNodes.md" />
         <option value="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/04-常见状态码.md" />
@@ -111,6 +106,7 @@
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-索引.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-02-索引的操作.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/07-触发器.md" />
+        <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/README.md" />
       </list>
     </option>
   </component>
@@ -165,20 +161,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="前端知识学习" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="03-javascript" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -400,12 +382,12 @@
       <workItem from="1476702483159" duration="451000" />
       <workItem from="1477129606952" duration="976000" />
       <workItem from="1477207654566" duration="32000" />
-      <workItem from="1477566907441" duration="13764000" />
+      <workItem from="1477566907441" duration="13928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="533042000" />
+    <option name="totallyTimeSpent" value="533206000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -467,19 +449,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/29-浏览器缓存读取顺序(!!!).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="449">
-            <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)/002-2015年腾讯前端校招实习面试2.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1078,6 +1047,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/README.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
