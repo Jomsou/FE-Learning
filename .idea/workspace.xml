@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(2).md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-单表查询.md" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(1).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(1).md" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(基础查询).md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(2).md" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,15 +24,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="09-02-单表查询(2).md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(2).md">
+      <file leaf-file-name="09-02-单表查询(分组与统计).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <first_editor relative-caret-position="264">
+                <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -414,12 +414,12 @@
       <workItem from="1476702483159" duration="451000" />
       <workItem from="1477129606952" duration="976000" />
       <workItem from="1477207654566" duration="32000" />
-      <workItem from="1477566907441" duration="22123000" />
+      <workItem from="1477566907441" duration="22286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="541401000" />
+    <option name="totallyTimeSpent" value="541564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1132,7 +1132,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(1).md">
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(基础查询).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
@@ -1146,14 +1146,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(2).md">
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
             <folding />
           </first_editor>
           <second_editor />
