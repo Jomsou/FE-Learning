@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" afterPath="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="10-01-多表查询(连接查询).md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md">
+      <file leaf-file-name="10-02-多表查询(子查询).md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md">
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="427">
-                <caret line="198" column="24" selection-start-line="198" selection-start-column="24" selection-end-line="198" selection-end-column="24" />
+              <first_editor relative-caret-position="471">
+                <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,8 +104,8 @@
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(2).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(基础查询).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md" />
+        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
       </list>
     </option>
   </component>
@@ -413,12 +413,12 @@
       <workItem from="1476702483159" duration="451000" />
       <workItem from="1477129606952" duration="976000" />
       <workItem from="1477207654566" duration="32000" />
-      <workItem from="1477566907441" duration="36616000" />
+      <workItem from="1477566907441" duration="37631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="555894000" />
+    <option name="totallyTimeSpent" value="556909000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -431,9 +431,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2366958" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2366958" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1118,20 +1118,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1154,6 +1140,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="427">
             <caret line="198" column="24" selection-start-line="198" selection-start-column="24" selection-end-line="198" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="471">
+            <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
