@@ -278,6 +278,35 @@
     
 ## 2.4 利用超级账户root修改普通账户密码
 
+### 2.4.1 通过grant命令修改
+
+    grant priv_type on database.table_name
+        to user identified by 'new_password';
+        
+### 2.4.2 通过set命令修改
+
+    1. 使用root账户来修改普通用户密码
+    SET password FOR
+        'username'@'hostname' = PASSWORD('new_password');
+        
+    2. 普通用户自己登录使用set命令修改自己的密码
+    set password = PASSWORD('new_password');
+        
+### 2.4.3 更新系统表mysql.user中的数据
+
+     update mysql.user 
+            set authentication_string = PASSWORD('new_password') 
+            where User='username';
+    flush privileges;    //使修改生效!!!
+
 ## 2.5 删除普通用户
+
+### 2.5.1 使用drop user命令删除
+
+    drop user user1[ ,user2, user3, ....]
+    
+### 2.5.2 从系统表mysql.user中删除记录
+    
+    delete from mysql.user where User='username';
 
 # 3. 权限管理
