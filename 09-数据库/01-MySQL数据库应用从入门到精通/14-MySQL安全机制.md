@@ -310,3 +310,112 @@
     delete from mysql.user where User='username';
 
 # 3. 权限管理
+
+## 3.1 对用户授权
+
+    mysql> help grant;
+    Name: 'GRANT'
+    Description:
+    Syntax:
+    GRANT
+        priv_type [(column_list)]
+          [, priv_type [(column_list)]] ...
+        ON [object_type] priv_level
+        TO user_specification [, user_specification] ...
+        [REQUIRE {NONE | tsl_option [[AND] tsl_option] ...}]
+        [WITH {GRANT OPTION | resource_option} ...]
+    
+    GRANT PROXY ON user_specification
+        TO user_specification [, user_specification] ...
+        [WITH GRANT OPTION]
+    
+    object_type: {
+        TABLE
+      | FUNCTION
+      | PROCEDURE
+    }
+    
+    priv_level: {
+        *
+      | *.*
+      | db_name.*
+      | db_name.tbl_name
+      | tbl_name
+      | db_name.routine_name
+    }
+    
+    user_specification:
+        user [ auth_option ]
+    
+    auth_option: {     # Before MySQL 5.7.6
+        IDENTIFIED BY 'auth_string'
+      | IDENTIFIED BY PASSWORD 'hash_string'
+      | IDENTIFIED WITH auth_plugin
+      | IDENTIFIED WITH auth_plugin AS 'hash_string'
+    }
+    
+    auth_option: {     # As of MySQL 5.7.6
+        IDENTIFIED BY 'auth_string'
+      | IDENTIFIED BY PASSWORD 'hash_string'
+      | IDENTIFIED WITH auth_plugin
+      | IDENTIFIED WITH auth_plugin BY 'auth_string'
+      | IDENTIFIED WITH auth_plugin AS 'hash_string'
+    }
+    
+    tsl_option: {
+        SSL
+      | X509
+      | CIPHER 'cipher'
+      | ISSUER 'issuer'
+      | SUBJECT 'subject'
+    }
+    
+    resource_option: {
+      | MAX_QUERIES_PER_HOUR count
+      | MAX_UPDATES_PER_HOUR count
+      | MAX_CONNECTIONS_PER_HOUR count
+      | MAX_USER_CONNECTIONS count
+    }
+    
+    The GRANT statement grants privileges to MySQL user accounts.
+    
+例子:
+
+    grant select, create, drop on *.* to 'test1'@'localhost';
+
+## 3.2 查看用户权限(show grants)
+语法:
+
+    show grants for 'username';
+    
+例子:
+
+    mysql> show grants for 'yijianbo';
+    +--------------------------------------------------------------------------+
+    | Grants for yijianbo@%                                                    |
+    +--------------------------------------------------------------------------+
+    | GRANT USAGE ON *.* TO 'yijianbo'@'%'                                     |
+    | GRANT SELECT, INSERT, CREATE, DROP ON `college_proj`.* TO 'yijianbo'@'%' |
+    +--------------------------------------------------------------------------+
+    2 rows in set (0.00 sec)
+
+## 3.3 收回用户权限(revoke)
+
+    mysql> help revoke;
+    Name: 'REVOKE'
+    Description:
+    Syntax:
+    REVOKE
+        priv_type [(column_list)]
+          [, priv_type [(column_list)]] ...
+        ON [object_type] priv_level
+        FROM user [, user] ...
+    
+    REVOKE ALL PRIVILEGES, GRANT OPTION
+        FROM user [, user] ...
+    
+    REVOKE PROXY ON user
+        FROM user [, user] ...
+    
+    The REVOKE statement enables system administrators to revoke privileges
+    from MySQL accounts.
