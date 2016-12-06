@@ -1,12 +1,10 @@
-function removeWithoutCopy(arr, item) {
-    arr.forEach(function (e) {
-        if (e == item) {
-            arr.splice(arr.indexOf(item), 1);
-            arr.length--;
-        }
-    });
-    return arr;
-}
+var a = [];
+a[0] = 'hello';
+console.log(a.length);
 
-var result = removeWithoutCopy([1, 2, 2, 3, 4, 2, 2], 2);
-console.log(result);
+a['12'] = '哈哈';
+console.log(a.length);
+
+var d = new Date();
+d['first']='1';
+console.log(d.first);
