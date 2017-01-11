@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>demo1 of redux</title>
+
+    <script src="http://cdn.bootcss.com/redux/3.6.0/redux.js"></script>
+
+
+</head>
+<body>
+
+<script>
+    function counter(state = 0, action) {
+        switch (action.type) {
+            case 'INCREMENT':
+                return state + 1;
+                break;
+            case 'DECREMENT':
+                return state - 1;
+                break;
+            default:
+                return state;
+        }
+    }
+
+    var {createStore} = Redux;
+    var store = createStore(counter);
+
+    console.log(store.getState()); // get state of the app initially
+
+    document.addEventListener('click', function () {
+        store.dispatch({type: 'INCREMENT'});   // dispatch an action
+    })
+
+    store.subscribe(function () {   // subscribes the change of the state
+        document.body.innerText = store.getState();   // get the state of the app
+    });
+</script>
+
+</body>
+</html>
