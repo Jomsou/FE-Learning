@@ -31,6 +31,13 @@
 // }).join('');
 // console.log(res);
 
-var str = 'hello';
-var reversedStr = str.split('').reverse().join('');
-console.log(reversedStr);
+// var str = 'hello';
+// var reversedStr = str.split('').reverse().join('');
+// console.log(reversedStr);
+
+// var number = 42.555;
+// console.log(number.toFixed(1));
+
+var o = new Object();
+console.log(o.toString());
+
