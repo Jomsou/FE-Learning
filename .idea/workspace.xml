@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11-Redux学习/demo3-Redux-React-TodoList-example.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" afterPath="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,54 +24,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="demo3-Redux-React-TodoList-example.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11-Redux学习/demo3-Redux-React-TodoList-example.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
+      <file leaf-file-name="09-Generating Containers with connect() from React Redux.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11-Redux学习/09-Generating Containers with connect() from React Redux.md">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="105">
+                <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="07-Presentational Components.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="07-Presentational Components.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="84">
-                <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+                <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="08-Pass the Store Down in React.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="84">
-                <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo2-redux-react-counter-example.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11-Redux学习/demo2-redux-react-counter-example.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="9" selection-end-column="99" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -94,8 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-索引.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/05-02-索引的操作.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/README.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/01-作用域是什么.md" />
@@ -143,8 +119,10 @@
         <option value="$PROJECT_DIR$/11-Redux学习/06-combineReducres函数的实现.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/demo2-redux-react-counter-example.html" />
         <option value="$PROJECT_DIR$/11-Redux学习/demo3-Redux-React-TodoList-example.html" />
-        <option value="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md" />
+        <option value="$PROJECT_DIR$/11-Redux学习/09-Generating containers with Connect() from React Redux.md" />
+        <option value="$PROJECT_DIR$/11-Redux学习/09-Generating Containers with connect() from React Redux.md" />
+        <option value="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
       </list>
     </option>
   </component>
@@ -444,12 +422,12 @@
       <workItem from="1479174352900" duration="182000" />
       <workItem from="1481027081068" duration="2091000" />
       <workItem from="1481362034055" duration="49000" />
-      <workItem from="1484132201141" duration="7861000" />
+      <workItem from="1484132201141" duration="8649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="597738000" />
+    <option name="totallyTimeSpent" value="598526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -464,7 +442,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13343924" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23272438" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -511,19 +489,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-01-表的操作.md">
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="374">
-            <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/04-02-操作表的约束.md">
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -984,20 +949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="84">
-            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md">
       <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
         <state />
@@ -1006,6 +957,34 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="84">
             <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Redux学习/09-Generating Containers with connect() from React Redux.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="84">
+            <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
             <folding />
           </first_editor>
           <second_editor />
