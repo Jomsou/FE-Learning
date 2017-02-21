@@ -16,10 +16,23 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
+			<key>02-打包css文件.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>509340304.21954799</real>
+				<key>version</key>
+				<dict>
+					<key>803a647efca074d6bd2698c091c319310e61acbab80f22b8f961a8eb390a4bd4</key>
+					<integer>9</integer>
+				</dict>
+			</dict>
 		</dict>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>02-打包css文件.md</string>
+		</array>
 		<array>
 			<string>01-webpack安装和基础使用.md</string>
 		</array>
@@ -31,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>803a647efca074d6bd2698c091c319310e61acbab80f22b8f961a8eb390a4bd4</key>
-			<integer>6</integer>
+			<integer>10</integer>
 		</dict>
 	</dict>
 </dict>
