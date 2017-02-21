@@ -7,6 +7,9 @@
 ## Global Installation
 `npm install webpack -g`
 
+## 安装webpack后
+直接在命令行中使用`webpack`命令，可以查看webpack的所有参数。
+
 # 基础使用
 新建一个js文件test.js，webpack最基础的用法可以直接将某个js文件进行打包，例如`webpack test.js test.bundle.js`，指定要打包的文件和打包后生成的文件名。
 
