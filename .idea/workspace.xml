@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/images/entry-output-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/images/entry-output-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/images/entry-output-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/images/entry-output-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/03-02-entry和output配置详解.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md" afterPath="$PROJECT_DIR$/12-webpack学习笔记/03-01-webpack基本配置.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -56,8 +61,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-webpack基本配置.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md">
+      <file leaf-file-name="03-01-webpack基本配置.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-01-webpack基本配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="504">
@@ -72,12 +77,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="04-webpack全部配置项.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="04-webpack全部配置项.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="-3003">
+              <first_editor relative-caret-position="-779">
                 <caret line="79" column="26" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="26" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03-02-entry和output配置详解.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-02-entry和output配置详解.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="565">
+                <caret line="34" column="88" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -104,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/03-函数作用域和块作用域.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/04-提升.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/05-作用域闭包.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/06-关于this.md" />
@@ -155,6 +175,7 @@
         <option value="$PROJECT_DIR$/12-webpack学习笔记/02-打包css文件.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md" />
+        <option value="$PROJECT_DIR$/12-webpack学习笔记/03-02-entry和output配置详解.md" />
       </list>
     </option>
   </component>
@@ -271,19 +292,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12-webpack学习笔记/images" />
+      <recent name="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通" />
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/images" />
+      <recent name="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!" />
+      <recent name="$PROJECT_DIR$/06-高性能网站建设指南" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/09-数据库" />
       <recent name="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/前端js相关题目" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/images" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!" />
-      <recent name="$PROJECT_DIR$/06-高性能网站建设指南" />
-      <recent name="$PROJECT_DIR$/04-面试题总结" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.testtttttt.js">
@@ -456,12 +477,12 @@
       <workItem from="1481362034055" duration="49000" />
       <workItem from="1484132201141" duration="9601000" />
       <workItem from="1487643358637" duration="103000" />
-      <workItem from="1487728502766" duration="493000" />
+      <workItem from="1487728502766" duration="1919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="600074000" />
+    <option name="totallyTimeSpent" value="601500000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -476,7 +497,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17235902" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23828435" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -523,20 +544,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/04-提升.md" />
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/05-作用域闭包.md" />
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/06-关于this.md" />
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/07-this全面解析.md" />
@@ -992,7 +999,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md">
+    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-779">
+            <caret line="79" column="26" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-01-webpack基本配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="504">
@@ -1006,11 +1027,25 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md">
+    <entry file="file://$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/01-Mysql存储引擎及区别.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-3003">
-            <caret line="79" column="26" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="26" />
+          <first_editor relative-caret-position="-2102">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-02-entry和output配置详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="565">
+            <caret line="34" column="88" selection-start-line="34" selection-start-column="88" selection-end-line="34" selection-end-column="88" />
             <folding />
           </first_editor>
           <second_editor />
