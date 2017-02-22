@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.Ulysses-Group.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.Ulysses-favorites.plist" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/12-webpack学习笔记/.Ulysses-Group.plist" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12-webpack学习笔记/01-webpack安装和基础使用.md" afterPath="$PROJECT_DIR$/12-webpack学习笔记/01-webpack安装和基础使用.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12-webpack学习笔记/02-打包css文件.md" afterPath="$PROJECT_DIR$/12-webpack学习笔记/02-打包css文件.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md" afterPath="$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,12 +56,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03-webpack基本配置.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="03-webpack基本配置.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="504">
                 <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04-webpack全部配置项.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-3003">
+                <caret line="79" column="26" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -92,7 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/02-词法作用域.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/03-函数作用域和块作用域.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/04-提升.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/05-作用域闭包.md" />
@@ -143,6 +154,7 @@
         <option value="$PROJECT_DIR$/12-webpack学习笔记/01-webpack安装和基础使用.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/02-打包css文件.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/03-webpack基本配置.md" />
+        <option value="$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md" />
       </list>
     </option>
   </component>
@@ -444,12 +456,12 @@
       <workItem from="1481362034055" duration="49000" />
       <workItem from="1484132201141" duration="9601000" />
       <workItem from="1487643358637" duration="103000" />
-      <workItem from="1487728502766" duration="149000" />
+      <workItem from="1487728502766" duration="493000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="599730000" />
+    <option name="totallyTimeSpent" value="600074000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -469,7 +481,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -511,19 +523,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/03-01-MySQL数据库存储引擎.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-1883">
-            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -998,6 +997,20 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="504">
             <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-3003">
+            <caret line="79" column="26" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
