@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-webpack学习笔记/08-处理项目中的CSS.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/README.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +24,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="06-webpack的Loader介绍.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/06-webpack的Loader介绍.md">
+        <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/06-webpack的Loader介绍.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="273">
@@ -40,7 +40,7 @@
         </entry>
       </file>
       <file leaf-file-name="07-使用babel-loader转换ES6代码.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/07-使用babel-loader转换ES6代码.md">
+        <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/07-使用babel-loader转换ES6代码.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="210">
@@ -55,12 +55,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="08-处理项目中的CSS.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/08-处理项目中的CSS.md">
+      <file leaf-file-name="08-处理项目中的CSS.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/08-处理项目中的CSS.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="42">
                 <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -87,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/09-混合对象&quot;类&quot;.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/10-原型.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/11-行为委托.md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/06-视图.md" />
@@ -138,6 +153,7 @@
         <option value="$PROJECT_DIR$/12-webpack学习笔记/06-webpack的Loader介绍.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/07-使用babel-loader转换ES6代码.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/08-处理项目中的CSS.md" />
+        <option value="$PROJECT_DIR$/12-慕课网教程学习/README.md" />
       </list>
     </option>
   </component>
@@ -204,7 +220,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="12-webpack学习笔记" />
+              <option name="myItemId" value="12-慕课网教程学习" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -262,11 +278,11 @@
       <recent name="$PROJECT_DIR$/06-高性能网站建设指南" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12-业余时间自学(慕课网)" />
       <recent name="$PROJECT_DIR$/09-数据库" />
       <recent name="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/前端js相关题目" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.testtttttt.js">
@@ -439,12 +455,12 @@
       <workItem from="1481362034055" duration="49000" />
       <workItem from="1484132201141" duration="9601000" />
       <workItem from="1487643358637" duration="103000" />
-      <workItem from="1487728502766" duration="6464000" />
+      <workItem from="1487728502766" duration="6786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606045000" />
+    <option name="totallyTimeSpent" value="606367000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -506,7 +522,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/09-混合对象&quot;类&quot;.md" />
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/10-原型.md" />
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/11-行为委托.md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/06-视图.md">
@@ -929,7 +944,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/01-webpack安装和基础使用.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/01-webpack安装和基础使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="357">
@@ -943,7 +958,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/04-webpack全部配置项.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/04-webpack全部配置项.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-779">
@@ -957,7 +972,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-01-webpack基本配置.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/03-01-webpack基本配置.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="504">
@@ -985,7 +1000,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/03-02-entry和output配置详解.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/03-02-entry和output配置详解.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="523">
@@ -999,7 +1014,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/05-自动生成项目的HTML文件(使用webpack插件).md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/05-自动生成项目的HTML文件(使用webpack插件).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-2">
@@ -1013,7 +1028,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/02-打包css文件.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/02-打包css文件.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="273">
@@ -1027,7 +1042,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/06-webpack的Loader介绍.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/06-webpack的Loader介绍.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="273">
@@ -1041,7 +1056,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/07-使用babel-loader转换ES6代码.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/07-使用babel-loader转换ES6代码.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="210">
@@ -1055,11 +1070,25 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-webpack学习笔记/08-处理项目中的CSS.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/08-处理项目中的CSS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="42">
             <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
