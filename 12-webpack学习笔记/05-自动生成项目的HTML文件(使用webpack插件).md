@@ -73,3 +73,7 @@ https://webpack.js.org/plugins/html-webpack-plugin/
 
 https://github.com/jantimon/html-webpack-plugin#configuration
 
+## 高级用法: 使用html-webpack-plugin注入内联js代码和内联样式
+
+网上搜一下相关内容。
+
