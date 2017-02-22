@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/01-css之深入理解border.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/02-css之深入理解padding.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/03-css之深入理解margin.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/04-css之深入理解z-index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/05-css之深入理解relative.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/06-css之深入理解vertical-align.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/07-css之深入理解line-height.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/08-css之深入理解overflow.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/09-css之深入理解absolute.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/10-css之深入理解float.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,12 +81,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/README.md">
+      <file leaf-file-name="01-css之深入理解border.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/01-css之深入理解border.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+                <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -224,6 +234,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="前端知识学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="12-慕课网教程学习" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02-前端开发-HTML-CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -271,11 +299,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS" />
       <recent name="$PROJECT_DIR$/12-webpack学习笔记/images" />
       <recent name="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/images" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!" />
-      <recent name="$PROJECT_DIR$/06-高性能网站建设指南" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/12-业余时间自学(慕课网)" />
@@ -455,12 +483,12 @@
       <workItem from="1481362034055" duration="49000" />
       <workItem from="1484132201141" duration="9601000" />
       <workItem from="1487643358637" duration="103000" />
-      <workItem from="1487728502766" duration="6786000" />
+      <workItem from="1487728502766" duration="7079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606367000" />
+    <option name="totallyTimeSpent" value="606660000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -473,9 +501,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20889595" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20889595" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -522,7 +550,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/10-原型.md" />
     <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/11-行为委托.md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/06-视图.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -1070,6 +1097,20 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/08-处理项目中的CSS.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1084,11 +1125,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/README.md">
+    <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS/01-css之深入理解border.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
