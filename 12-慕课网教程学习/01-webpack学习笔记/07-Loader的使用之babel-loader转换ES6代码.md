@@ -23,7 +23,7 @@
       module: {
         loaders: [
           {
-            test: /\.js/,
+            test: /\.js$/,
             include: [
               path.resolve(__dirname, 'src')  // 对src目录下的ES最新语法进行转换,使其成为浏览器能够识别的语法
             ],
