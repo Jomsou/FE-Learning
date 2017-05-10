@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-HTTP权威指南/03-重定向分类及作用.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -23,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-重定向分类及作用.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/03-重定向分类及作用.md">
+      <file leaf-file-name="04-代理.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/04-代理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="619">
-                <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <first_editor relative-caret-position="589">
+                <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-01-单表查询(基础查询).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/13-HTTP权威指南/01-HTTP报文组成和状态码.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/02-HTTP报文首部详解.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/03-重定向分类及作用.md" />
+        <option value="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
       </list>
     </option>
   </component>
@@ -432,12 +432,12 @@
       <workItem from="1487897793778" duration="4634000" />
       <workItem from="1493257726277" duration="70000" />
       <workItem from="1493886366585" duration="2661000" />
-      <workItem from="1494331773241" duration="853000" />
+      <workItem from="1494331773241" duration="3278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615143000" />
+    <option name="totallyTimeSpent" value="617568000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -452,7 +452,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25019857" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16282764" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24043716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -502,7 +502,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/00-帮助文档的使用(!!!).md" />
@@ -639,6 +638,17 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="619">
             <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/04-代理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="589">
+            <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
