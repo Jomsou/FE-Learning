@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" afterPath="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +27,8 @@
         <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/04-代理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="589">
-                <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+              <first_editor relative-caret-position="464">
+                <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -134,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -162,7 +163,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -432,12 +432,13 @@
       <workItem from="1487897793778" duration="4634000" />
       <workItem from="1493257726277" duration="70000" />
       <workItem from="1493886366585" duration="2661000" />
-      <workItem from="1494331773241" duration="3278000" />
+      <workItem from="1494331773241" duration="3359000" />
+      <workItem from="1494413096562" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="617568000" />
+    <option name="totallyTimeSpent" value="618336000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -638,7 +639,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="619">
             <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -647,8 +647,8 @@
     <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/04-代理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="589">
-            <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <first_editor relative-caret-position="464">
+            <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
