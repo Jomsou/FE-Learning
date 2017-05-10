@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" afterPath="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04-代理.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/04-代理.md">
+      <file leaf-file-name="05- 缓存.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="464">
-                <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -52,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/09-02-单表查询(分组与统计).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
         <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md" />
@@ -103,6 +102,7 @@
         <option value="$PROJECT_DIR$/13-HTTP权威指南/02-HTTP报文首部详解.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/03-重定向分类及作用.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
+        <option value="$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md" />
       </list>
     </option>
   </component>
@@ -433,12 +433,12 @@
       <workItem from="1493257726277" duration="70000" />
       <workItem from="1493886366585" duration="2661000" />
       <workItem from="1494331773241" duration="3359000" />
-      <workItem from="1494413096562" duration="687000" />
+      <workItem from="1494413096562" duration="1219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618336000" />
+    <option name="totallyTimeSpent" value="618868000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -503,7 +503,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/00-帮助文档的使用(!!!).md" />
     <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-02-存储过程和函数的操作(下).md" />
@@ -649,6 +648,17 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="464">
             <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
