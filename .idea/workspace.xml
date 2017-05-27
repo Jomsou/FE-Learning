@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-javascript函数式编程/01-简介.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-javascript函数式编程/Demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-javascript函数式编程/lodash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-javascript函数式编程/underacoreUsage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14-javascript函数式编程/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/上卷/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/03-数字的精确度问题.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/04-undefined与void.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/05-原生函数.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/06-强制类型转换.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/07-语法.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/14-javascript函数式编程/01-简介.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/15-你不知道的JavaScript/01-数组和对象相关.md" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/01-数组!.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/15-你不知道的JavaScript/02-字符串与数组.md" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/02-字符串与数组.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/15-你不知道的JavaScript/README.md" afterPath="$PROJECT_DIR$/15-你不知道的JavaScript/中卷/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -22,29 +36,30 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05- 缓存.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>times</find>
+      <find>toArray</find>
+      <find>chain</find>
+      <find>identity</find>
+      <find>keys</find>
+      <find>property</find>
+      <find>getLength</find>
+      <find>groupBy</find>
+      <find>first</find>
+      <find>range</find>
+      <find>max</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,18 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-01-多表查询(连接查询).md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/10-02-多表查询(子查询).md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/11-使用MySQL运算符.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-存储过程和函数的操作.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-01-存储过程和函数的操作(上).md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-02-存储过程和函数的操作(下).md" />
-        <option value="$PROJECT_DIR$/09-数据库/00-数据库系统概论/README.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/14-MySQL安全机制.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-MySQL数据库维护和性能优化.md" />
-        <option value="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-02-MySQL数据库维护和性能优化(下).md" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript/01-数组和对象相关.md" />
         <option value="$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript/02-字符串与数组.md" />
         <option value="$PROJECT_DIR$/testtttttt.js" />
@@ -103,6 +106,18 @@
         <option value="$PROJECT_DIR$/13-HTTP权威指南/03-重定向分类及作用.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/04-代理.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/05- 缓存.md" />
+        <option value="$PROJECT_DIR$/14-javascript函数式编程/underscoreTest.js" />
+        <option value="$PROJECT_DIR$/14-javascript函数式编程/Demo.html" />
+        <option value="$PROJECT_DIR$/14-javascript函数式编程/underscore.js" />
+        <option value="$PROJECT_DIR$/14-javascript函数式编程/01-简介.md" />
+        <option value="$PROJECT_DIR$/14-javascript函数式编程/Demo.js" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/02-字符串与数组.md" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/01-数组!.md" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/03-数字的精确度问题.md" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/04-undefined与void.md" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/05-原生函数.md" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/06-强制类型转换.md" />
+        <option value="$PROJECT_DIR$/15-你不知道的JavaScript/07-语法.md" />
       </list>
     </option>
   </component>
@@ -135,34 +150,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="13-HTTP权威指南" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -191,6 +178,34 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="15-你不知道的JavaScript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -206,19 +221,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS" />
-      <recent name="$PROJECT_DIR$/12-webpack学习笔记/images" />
-      <recent name="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题/images" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/03-LeetCode题解!!!/02-编程!" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/15-你不知道的JavaScript/中卷" />
       <recent name="$PROJECT_DIR$/12-业余时间自学(慕课网)" />
       <recent name="$PROJECT_DIR$/09-数据库" />
       <recent name="$PROJECT_DIR$/04-面试题总结/002-百度前端面试题(整理自网络)" />
       <recent name="$PROJECT_DIR$/08-数据结构与算法" />
-      <recent name="$PROJECT_DIR$/08-数据结构与算法/05-常见面试算法题" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/14-javascript函数式编程" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/12-慕课网教程学习/02-前端开发-HTML-CSS" />
+      <recent name="$PROJECT_DIR$/12-webpack学习笔记/images" />
+      <recent name="$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -233,11 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.testtttttt.js">
-    <configuration default="false" name="testtt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="testtt.js" working-dir="$PROJECT_DIR$">
-      <method />
-    </configuration>
-    <configuration default="false" name="10-正则表达式-全文单词首字母大写.md.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="10-正则表达式-全文单词首字母大写.md.js" working-dir="$PROJECT_DIR$/04-面试题总结/003-腾讯前端面试题(整理自网络)">
+  <component name="RunManager" selected="Node.js.Demo.js">
+    <configuration default="false" name="10-正则表达式-全文单词首字母大写.md.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="$PROJECT_DIR$/04-前端面试题总结/003-腾讯前端面试题(整理自网络)/10-正则表达式-全文单词首字母大写.md.js" working-dir="$PROJECT_DIR$/04-前端面试题总结/003-腾讯前端面试题(整理自网络)">
       <method />
     </configuration>
     <configuration default="false" name="testttttt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="testttttt.js" working-dir="$PROJECT_DIR$">
@@ -247,6 +259,9 @@
       <method />
     </configuration>
     <configuration default="false" name="test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/前端知识学习/test.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="Demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Demo.js" working-dir="$PROJECT_DIR$/14-javascript函数式编程">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -316,19 +331,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.testtt.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.testtttttt.js" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.testtttttt.js" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.Demo.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.testtttttt.js" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.testtt.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Demo.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.testtttttt.js" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.test.html" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.testttttt.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.10-正则表达式-全文单词首字母大写.md.js" />
       </list>
     </recent_temporary>
   </component>
@@ -433,12 +448,16 @@
       <workItem from="1493257726277" duration="70000" />
       <workItem from="1493886366585" duration="2661000" />
       <workItem from="1494331773241" duration="3359000" />
-      <workItem from="1494413096562" duration="1219000" />
+      <workItem from="1494413096562" duration="3786000" />
+      <workItem from="1494591483489" duration="2264000" />
+      <workItem from="1495850781507" duration="24000" />
+      <workItem from="1495850843969" duration="16000" />
+      <workItem from="1495850881739" duration="3167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="618868000" />
+    <option name="totallyTimeSpent" value="626906000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -451,12 +470,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16282764" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446386" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24043716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23972602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55479455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -494,7 +512,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
@@ -503,30 +521,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/12-MySQL常用函数.md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/00-帮助文档的使用(!!!).md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-02-存储过程和函数的操作(下).md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/13-01-存储过程和函数的操作(上).md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/00-数据库系统概论/README.md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/14-MySQL安全机制.md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/15-MySQL日志管理.md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-01-MySQL数据库维护和性能优化(上).md" />
-    <entry file="file://$PROJECT_DIR$/09-数据库/01-MySQL数据库应用从入门到精通/16-02-MySQL数据库维护和性能优化(下).md" />
-    <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/01-作用域是什么.md" />
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/02-词法作用域.md" />
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript(上卷)/03-函数作用域和块作用域.md" />
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript/01-数组和对象相关.md" />
-    <entry file="file://$PROJECT_DIR$/03-javascript/07-你不知道的JavaScript/02-字符串与数组.md" />
-    <entry file="file://$PROJECT_DIR$/testtttttt.js" />
-    <entry file="file://$PROJECT_DIR$/10-其他零散知识点/03-01-理解Redux原理.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/03-Reducers.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/01-Three Priciples.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/02-pure functions.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/04-Store.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/05-Avoid array mutations and object mutations!!.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/06-combineReducres函数的实现.md" />
-    <entry file="file://$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md" />
     <entry file="file://$PROJECT_DIR$/11-Redux学习/09-Generating containers with Connect() from React Redux.md" />
     <entry file="file://$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
     <entry file="file://$PROJECT_DIR$/11-Redux学习/demo1-simple-counter-example.html">
@@ -551,7 +545,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/04-webpack全部配置项.md" />
-    <entry file="file://$PROJECT_DIR$/04-面试题总结/000-非前端常考面试题/01-Mysql存储引擎及区别.md" />
+    <entry file="file://$PROJECT_DIR$/04-前端面试题总结/000-非前端常考面试题/01-Mysql存储引擎及区别.md" />
     <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/03-02-entry和output配置详解.md" />
     <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/05-webpack插件(使用插件自动生成HTML文件).md" />
     <entry file="file://$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/02-打包css文件.md" />
@@ -576,16 +570,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01-html/00-浏览器工作原理(前端必读!).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-4536">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
@@ -627,7 +611,6 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="1920">
             <caret line="96" column="17" lean-forward="false" selection-start-line="96" selection-start-column="17" selection-end-line="96" selection-end-column="17" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -648,9 +631,15 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="464">
             <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/04-javascript函数式编程/02-一等函数与Applicative编程.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -659,6 +648,219 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="4" lean-forward="true" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/05-javascript设计模式与开发实践/00-高阶函数与柯里化Currying.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/04-javascript函数式编程/05-由函数构建函数、柯里化.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/04-javascript函数式编程/06-递归.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/04-javascript函数式编程/04-高阶函数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/04-javascript函数式编程/03-变量的作用域和闭包,bind函数.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/06-ES6新特性学习/01-实例解析ES6 Proxy的应用场景.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1774">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/03-javascript正则表达式/08-量词.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2158">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03-javascript/03-javascript正则表达式/07-特殊字符转义.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-html知识点/00-浏览器工作原理(前端必读!).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-779">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01-html知识点/16-HTTP2新特性浅析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-981">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/underacoreUsage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.js" />
+    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/Demo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/lodash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6674">
+          <caret line="16546" column="18" lean-forward="false" selection-start-line="16546" selection-start-column="11" selection-end-line="16546" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="3" column="34" lean-forward="false" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/underscore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="298" column="7" lean-forward="false" selection-start-line="298" selection-start-column="2" selection-end-line="298" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/01-数组!.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="359">
+            <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/02-字符串与数组.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="600">
+            <caret line="30" column="43" lean-forward="false" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/03-数字的精确度问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="460">
+            <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/04-undefined与void.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="320">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/05-原生函数.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="380">
+            <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/07-语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/中卷/06-强制类型转换.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15-你不知道的JavaScript/上卷/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
