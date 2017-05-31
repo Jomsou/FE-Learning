@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/images/7-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/07-VIM编辑器.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/images/8-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/images/8-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/images/8-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/images/8-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/images/8-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/08-Linux系统引导流程.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -24,12 +28,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="07-VIM编辑器.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="07-VIM编辑器.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/20-Linux学习/07-VIM编辑器.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="1800">
-                <caret line="90" column="45" lean-forward="false" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
+              <first_editor relative-caret-position="80">
+                <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="29" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08-Linux系统引导流程.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20-Linux学习/08-Linux系统引导流程.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="519">
+                <caret line="135" column="54" lean-forward="false" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11-Redux学习/09-Generating Containers with connect() from React Redux.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/01-webpack安装和基础使用.md" />
         <option value="$PROJECT_DIR$/12-webpack学习笔记/02-打包css文件.md" />
@@ -119,6 +135,7 @@
         <option value="$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/06-shell应用技巧.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/07-VIM编辑器.md" />
+        <option value="$PROJECT_DIR$/20-Linux学习/08-Linux系统引导流程.md" />
       </list>
     </option>
   </component>
@@ -472,12 +489,12 @@
       <workItem from="1495850781507" duration="24000" />
       <workItem from="1495850843969" duration="16000" />
       <workItem from="1495850881739" duration="7872000" />
-      <workItem from="1496228197080" duration="4866000" />
+      <workItem from="1496228197080" duration="5716000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="636477000" />
+    <option name="totallyTimeSpent" value="637327000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -492,7 +509,7 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22478157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2827641" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23972602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -542,7 +559,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.md" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/underscore.js" />
     <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/01-数组!.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -961,8 +977,19 @@
     <entry file="file://$PROJECT_DIR$/20-Linux学习/07-VIM编辑器.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="1800">
-            <caret line="90" column="45" lean-forward="false" selection-start-line="90" selection-start-column="45" selection-end-line="90" selection-end-column="45" />
+          <first_editor relative-caret-position="80">
+            <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/08-Linux系统引导流程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="519">
+            <caret line="135" column="54" lean-forward="false" selection-start-line="135" selection-start-column="54" selection-end-line="135" selection-end-column="54" />
             <folding />
           </first_editor>
           <second_editor />
