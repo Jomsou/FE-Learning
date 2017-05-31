@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/03-查找命令.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/08-异步与事件循环.md" afterPath="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/08-异步与事件循环.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/09-回调.md" afterPath="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/09-回调.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/test.html" afterPath="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/test.html" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +23,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="03-查找命令.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20-Linux学习/03-查找命令.md">
+      <file leaf-file-name="04-网络通信命令.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor relative-caret-position="2560">
-                <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="499">
+                <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01-入门.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/20-Linux学习/01-入门.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="460">
+                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11-Redux学习/demo2-redux-react-counter-example.html" />
         <option value="$PROJECT_DIR$/11-Redux学习/demo3-Redux-React-TodoList-example.html" />
         <option value="$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/09-Generating containers with Connect() from React Redux.md" />
@@ -121,6 +130,7 @@
         <option value="$PROJECT_DIR$/20-Linux学习/01-入门.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/02-权限问题.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/03-查找命令.md" />
+        <option value="$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md" />
       </list>
     </option>
   </component>
@@ -456,12 +466,12 @@
       <workItem from="1495850781507" duration="24000" />
       <workItem from="1495850843969" duration="16000" />
       <workItem from="1495850881739" duration="7872000" />
-      <workItem from="1496228197080" duration="2199000" />
+      <workItem from="1496228197080" duration="2577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="633810000" />
+    <option name="totallyTimeSpent" value="634188000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,8 +484,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13582209" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22478157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23972602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -525,7 +536,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/underacoreUsage.html" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/Demo.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/lodash.js" />
@@ -802,17 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20-Linux学习/01-入门.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="460">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02-css知识点/00-渐进增强和优雅降级.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -906,6 +905,28 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="2560">
             <caret line="128" column="0" lean-forward="true" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/01-入门.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="460">
+            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="499">
+            <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
