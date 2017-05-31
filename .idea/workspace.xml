@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20-Linux学习/01-入门.md" afterPath="$PROJECT_DIR$/20-Linux学习/01-入门.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,25 +24,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="04-网络通信命令.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md">
+      <file leaf-file-name="05-压缩与解压缩.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="499">
-                <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01-入门.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/20-Linux学习/01-入门.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="460">
-                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <first_editor relative-caret-position="559">
+                <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -80,7 +68,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11-Redux学习/demo3-Redux-React-TodoList-example.html" />
         <option value="$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/09-Generating containers with Connect() from React Redux.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/09-Generating Containers with connect() from React Redux.md" />
@@ -127,10 +114,11 @@
         <option value="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/test.html" />
         <option value="$PROJECT_DIR$/19-你不知道的JavaScript/中卷/09-回调.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/readme.md" />
-        <option value="$PROJECT_DIR$/20-Linux学习/01-入门.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/02-权限问题.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/03-查找命令.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md" />
+        <option value="$PROJECT_DIR$/20-Linux学习/01-入门.md" />
+        <option value="$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md" />
       </list>
     </option>
   </component>
@@ -466,12 +454,12 @@
       <workItem from="1495850781507" duration="24000" />
       <workItem from="1495850843969" duration="16000" />
       <workItem from="1495850881739" duration="7872000" />
-      <workItem from="1496228197080" duration="2577000" />
+      <workItem from="1496228197080" duration="3037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="634188000" />
+    <option name="totallyTimeSpent" value="634648000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -536,7 +524,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/Demo.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/lodash.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.md" />
@@ -911,22 +898,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20-Linux学习/01-入门.md">
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="460">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor relative-caret-position="159">
+            <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md">
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/01-入门.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="499">
-            <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <first_editor relative-caret-position="40">
+            <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="559">
+            <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
