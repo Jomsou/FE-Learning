@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/20-Linux学习/06-shell应用技巧.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20-Linux学习/01-入门.md" afterPath="$PROJECT_DIR$/20-Linux学习/01-入门.md" />
     </list>
     <ignored path="前端知识学习.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="05-压缩与解压缩.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md">
+      <file leaf-file-name="06-shell应用技巧.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/20-Linux学习/06-shell应用技巧.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="559">
-                <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="539">
+                <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -68,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/11-Redux学习/08-Pass the Store Down in React.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/09-Generating containers with Connect() from React Redux.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/09-Generating Containers with connect() from React Redux.md" />
         <option value="$PROJECT_DIR$/11-Redux学习/07-Presentational Components.md" />
@@ -119,6 +117,7 @@
         <option value="$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/01-入门.md" />
         <option value="$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md" />
+        <option value="$PROJECT_DIR$/20-Linux学习/06-shell应用技巧.md" />
       </list>
     </option>
   </component>
@@ -454,12 +453,12 @@
       <workItem from="1495850781507" duration="24000" />
       <workItem from="1495850843969" duration="16000" />
       <workItem from="1495850881739" duration="7872000" />
-      <workItem from="1496228197080" duration="3037000" />
+      <workItem from="1496228197080" duration="3820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="634648000" />
+    <option name="totallyTimeSpent" value="635431000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -472,7 +471,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22478157" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -524,7 +522,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/Demo.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/lodash.js" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/01-简介.md" />
     <entry file="file://$PROJECT_DIR$/14-javascript函数式编程/underscore.js" />
@@ -922,9 +919,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/20-Linux学习/05-压缩与解压缩.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
+        <state split_layout="SECOND">
           <first_editor relative-caret-position="559">
             <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20-Linux学习/06-shell应用技巧.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="539">
+            <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
