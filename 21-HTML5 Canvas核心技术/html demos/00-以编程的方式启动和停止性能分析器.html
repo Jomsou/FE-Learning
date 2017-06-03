@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>编程方式启动和停止性能分析器</title>
+</head>
+<body>
+
+<script>
+
+    console.profile();
+
+    for (var i = 0; i < 2000000000; i++) {
+        var j = i;
+    }
+
+    console.profileEnd();
+
+</script>
+
+</body>
+</html>

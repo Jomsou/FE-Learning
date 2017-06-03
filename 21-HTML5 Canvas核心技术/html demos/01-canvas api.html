@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--<script type="text/javascript" src="canvas-polyfill.js"></script>-->
+<head>
+    <meta charset="UTF-8">
+    <title>Canvas API</title>
+</head>
+<body>
+
+<canvas id="canvas" width="600" height="300"></canvas>
+
+
+<script>
+    var canvas = document.getElementById('canvas');
+    var ctx = canvas.getContext('2d');
+
+    debugger;
+
+    ctx.font = '16px Arial';
+    ctx.fillStyle = 'red';
+    ctx.strokeStyle = 'blue';
+    ctx.shadowOffsetX = 3;
+    ctx.shadowOffsetY = -2;
+    ctx.shadowColor = 'black';
+
+    ctx.fillText('hello canvas', 20, 20);
+    ctx.strokeText('hello canvas', 20, 60);
+
+</script>
+</body>
+</html>

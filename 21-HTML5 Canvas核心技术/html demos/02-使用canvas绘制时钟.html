@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--<script type="text/javascript" src="canvas-polyfill.js"></script>-->
+<head>
+    <meta charset="UTF-8">
+    <title>使用canvas绘制时钟</title>
+</head>
+<body>
+
+<canvas id="canvas" width="600" height="600"></canvas>
+
+<script>
+
+    var canvas = document.getElementById('canvas'),
+        ctx = canvas.getContext('2d');
+
+    ctx.strokeStyle = 'black';
+    ctx.fillStyle = 'red';
+
+    function drawCircle(ctx) {
+
+        ctx.beginPath();
+        ctx.arc(canvas.width / 2, canvas.height / 2, 100, 0, Math.PI * 2);
+        ctx.stroke();
+    }
+
+    function drawNumbers(ctx){
+        var x = canvas.width/2,
+            y = canvas.height/2;
+
+        var angle = Math.PI / 6;
+
+//        for(var i = 1; i <= 12; i++){
+//            ctx.fillText(i, x + angle * i * Math.sin(i * angle), y + angle * i * Math.cos(i * angle));
+//        }
+
+        ctx.fillText(1, 300 + 155, 175);
+
+    }
+
+
+    drawCircle(ctx);
+    drawNumbers(ctx);
+
+    canvas.addEventListener('mousedown',function(){
+        alert(1);
+    })
+
+
+</script>
+</body>
+</html>
