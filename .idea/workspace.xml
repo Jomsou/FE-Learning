@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-00-ECMAScript内置对象.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-01-内置对象之Error.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-02-内置对象之ArrayBuffer和TypedArrays.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-03-Reflection.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-04-Proxy.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/23-深入浅出ES6/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -28,7 +24,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="01-00-ECMAScript内置对象.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-00-ECMAScript内置对象.md">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-00-ECMAScript内置对象.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="200">
@@ -40,8 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="01-03-Reflection.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-03-Reflection.md">
+      <file leaf-file-name="01-03-Reflection.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-03-Reflection.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/23-深入浅出ES6/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -54,7 +63,7 @@
         </entry>
       </file>
       <file leaf-file-name="01-04-Proxy.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-04-Proxy.md">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-04-Proxy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -67,7 +76,7 @@
         </entry>
       </file>
       <file leaf-file-name="01-02-内置对象之ArrayBuffer和TypedArrays.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-02-内置对象之ArrayBuffer和TypedArrays.md">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-02-内置对象之ArrayBuffer和TypedArrays.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -80,7 +89,7 @@
         </entry>
       </file>
       <file leaf-file-name="01-01-内置对象之Error.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-01-内置对象之Error.md">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-01-内置对象之Error.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -246,38 +255,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22-ECMAScript® 2016 Language Specification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22-ECMAScript® 2016 Language Specification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="笔记" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -303,11 +280,11 @@
       <recent name="$PROJECT_DIR$/03-javascript/04-javascript函数式编程" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification" />
       <recent name="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记" />
       <recent name="$PROJECT_DIR$/21-HTML5 Canvas核心技术/html demos" />
       <recent name="$PROJECT_DIR$/07-nodejs相关" />
       <recent name="$PROJECT_DIR$/15-你不知道的JavaScript/中卷" />
-      <recent name="$PROJECT_DIR$/12-业余时间自学(慕课网)" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -532,12 +509,12 @@
       <workItem from="1496316860076" duration="4374000" />
       <workItem from="1496484619761" duration="5267000" />
       <workItem from="1496667488670" duration="1679000" />
-      <workItem from="1496924055551" duration="1351000" />
+      <workItem from="1496924055551" duration="1471000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="653439000" />
+    <option name="totallyTimeSpent" value="653559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,16 +578,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/06-强制类型转换.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/07-语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1059,7 +1026,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-01-内置对象之Error.md">
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-01-内置对象之Error.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -1070,7 +1037,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-02-内置对象之ArrayBuffer和TypedArrays.md">
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-02-内置对象之ArrayBuffer和TypedArrays.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -1081,7 +1048,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-00-ECMAScript内置对象.md">
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-00-ECMAScript内置对象.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="200">
@@ -1092,7 +1059,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-04-Proxy.md">
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-04-Proxy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
@@ -1103,7 +1070,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-03-Reflection.md">
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-03-Reflection.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/23-深入浅出ES6/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
