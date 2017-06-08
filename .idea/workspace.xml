@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="843017bd-19e3-4613-86ce-9cbe13c80a2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/01-Scope(作用域).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/02-Conformance(一致性).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/03-Normative References(引用标准).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/04-Overview(概览).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/05-Notational Conventions(规范公约).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/06-ECMAScript Data Types and Values(数据类型和值).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/07-Abstract Operations(抽象操作).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/08-Executable Code and Execution Contexts(可执行代码与执行上下文).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/09-Ordinary and Exotic Objects Behaviours(内在和引用对象的属性).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/10-ECMAScript Language: Source Code(源代码).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/11-ECMAScript Language: Lexical Grammar(词法语法).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/12-ECMAScript Language: Expressions(表达式).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/13-ECMAScript Language: Statements and Declarations(声明).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/14-ECMAScript Language: Functions and Classes(函数和类).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/15-ECMAScript Language: Scripts and Modules(脚本和模块).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/16-Error Handling and Language Extensions(错误处理与语言扩展).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/17-ECMAScript Standard Built‑in Objects(标准内置对象).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/18-The Global Object(全局对象).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/19-Fundamental Objects(基本对象).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/20-Numbers and Dates(数字和日期).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/21-Text Processing(文本处理).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/22-Indexed Collections(索引集合).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/23-Keyed Collection(键集合).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/24-Structured Data(结构化数据).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/25-Control Abstraction Objects(??).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/26-Reflection(反射).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/27-Appendix(附录).md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-00-ECMAScript内置对象.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-01-内置对象之Error.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-02-内置对象之ArrayBuffer和TypedArrays.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-03-Reflection.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-04-Proxy.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="前端知识学习.iws" />
@@ -49,9 +26,22 @@
     <favorites_list name="前端知识学习" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="18-The Global Object(全局对象).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/18-The Global Object(全局对象).md">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="01-00-ECMAScript内置对象.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-00-ECMAScript内置对象.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="200">
+                <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01-03-Reflection.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-03-Reflection.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -63,8 +53,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="19-Fundamental Objects(基本对象).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/19-Fundamental Objects(基本对象).md">
+      <file leaf-file-name="01-04-Proxy.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-04-Proxy.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -76,8 +66,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20-Numbers and Dates(数字和日期).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/20-Numbers and Dates(数字和日期).md">
+      <file leaf-file-name="01-02-内置对象之ArrayBuffer和TypedArrays.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-02-内置对象之ArrayBuffer和TypedArrays.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -89,86 +79,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="21-Text Processing(文本处理).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/21-Text Processing(文本处理).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="22-Indexed Collections(索引集合).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/22-Indexed Collections(索引集合).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="23-Keyed Collection(键集合).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/23-Keyed Collection(键集合).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24-Structured Data(结构化数据).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/24-Structured Data(结构化数据).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="25-Control Abstraction Objects(??).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/25-Control Abstraction Objects(??).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="26-Reflection(反射).md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/26-Reflection(反射).md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="27-Appendix(附录).md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/27-Appendix(附录).md">
+      <file leaf-file-name="01-01-内置对象之Error.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-01-内置对象之Error.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
@@ -211,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/09-Loader的使用之处理less和sass.md" />
-        <option value="$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/10-处理模板文件.md" />
         <option value="$PROJECT_DIR$/12-慕课网教程学习/01-webpack学习笔记/11-处理图片和其他文件.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/01-HTTP报文组成和状态码.md" />
         <option value="$PROJECT_DIR$/13-HTTP权威指南/02-HTTP报文首部详解.md" />
@@ -262,6 +172,8 @@
         <option value="$PROJECT_DIR$/21-HTML5 Canvas核心技术/02-窗口坐标转换为canvas坐标.md" />
         <option value="$PROJECT_DIR$/21-HTML5 Canvas核心技术/01-Canvas绘制API简介.md" />
         <option value="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/readme.md" />
+        <option value="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-ECMAScript内置数据类型.md" />
+        <option value="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-ECMAScript内置对象.md" />
       </list>
     </option>
   </component>
@@ -293,34 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FE-Learning" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="22-ECMAScript® 2016 Language Specification" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
+      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -349,7 +234,52 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22-ECMAScript® 2016 Language Specification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FE-Learning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="22-ECMAScript® 2016 Language Specification" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="笔记" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,19 +295,19 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/21-HTML5 Canvas核心技术/html demos" />
-      <recent name="$PROJECT_DIR$/07-nodejs相关" />
-      <recent name="$PROJECT_DIR$/15-你不知道的JavaScript/中卷" />
-      <recent name="$PROJECT_DIR$/12-业余时间自学(慕课网)" />
-      <recent name="$PROJECT_DIR$/09-数据库" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/21-HTML5 Canvas核心技术/h5-canvas-polyfill" />
       <recent name="$PROJECT_DIR$/21-HTML5 Canvas核心技术" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/20-Linux学习/images" />
       <recent name="$PROJECT_DIR$/03-javascript/04-javascript函数式编程" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记" />
+      <recent name="$PROJECT_DIR$/21-HTML5 Canvas核心技术/html demos" />
+      <recent name="$PROJECT_DIR$/07-nodejs相关" />
+      <recent name="$PROJECT_DIR$/15-你不知道的JavaScript/中卷" />
+      <recent name="$PROJECT_DIR$/12-业余时间自学(慕课网)" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -601,12 +531,13 @@
       <workItem from="1496284742890" duration="526000" />
       <workItem from="1496316860076" duration="4374000" />
       <workItem from="1496484619761" duration="5267000" />
-      <workItem from="1496667488670" duration="1462000" />
+      <workItem from="1496667488670" duration="1679000" />
+      <workItem from="1496924055551" duration="1351000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="651871000" />
+    <option name="totallyTimeSpent" value="653439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -619,9 +550,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45432884" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.299444" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23972602" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -671,56 +601,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/20-Linux学习/04-网络通信命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="160">
-            <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20-Linux学习/03-查找命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="360">
-            <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/09-回调.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="60">
-            <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/10-Promise.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/05-原生函数.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/19-你不知道的JavaScript/中卷/06-强制类型转换.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -894,7 +774,6 @@
         <state split_layout="SECOND">
           <first_editor relative-caret-position="0">
             <caret line="0" column="55" lean-forward="false" selection-start-line="0" selection-start-column="55" selection-end-line="0" selection-end-column="55" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -905,7 +784,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -916,7 +794,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -927,7 +804,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -938,7 +814,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -949,7 +824,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -960,7 +834,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -971,7 +844,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -982,7 +854,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -993,7 +864,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1004,7 +874,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1015,7 +884,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1026,7 +894,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1037,7 +904,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1048,7 +914,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1059,7 +924,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1070,7 +934,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1081,7 +944,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1187,6 +1049,61 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/27-Appendix(附录).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-01-内置对象之Error.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-02-内置对象之ArrayBuffer和TypedArrays.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-00-ECMAScript内置对象.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="200">
+            <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-04-Proxy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22-ECMAScript® 2016 Language Specification/笔记/01-03-Reflection.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
